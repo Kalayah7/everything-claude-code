@@ -38,3 +38,33 @@ with `get_accounts` at runtime.
 - **Pattern Day Trader rule:** this is a margin-type account under $25k, so stay within
   3 day trades per 5 business days. Prefer holding positions overnight or longer.
 - Spreads and price moves matter more than commissions here. Avoid thinly traded tickers.
+
+## The system: "Steady Compounder" (chosen 2026-11-05)
+
+**Goal set by the owner:** start small, grow steadily, as passive as possible.
+
+**Test (`python3 -m tradebot.rotation --data DIR`)** on Robinhood daily bars, 2016-01 to 2026-11,
+price-only (no dividends), 5 bps slippage. Selection rule fixed in advance: best CAGR / MaxDD.
+
+| System | CAGR | Max drawdown | Up months | 2023-now CAGR (held out) |
+|---|---|---|---|---|
+| **buy_hold VOO** | **13.0%** | 34.3% | 66% | **19.4%** |
+| trend (VOO / SGOV, 200-day SMA) | 7.7% | 26.5% | 59% | 10.4% |
+| dual_mom (VOO / QQQ / SGOV) | 10.3% | 28.6% | 57% | 13.1% |
+
+The two timing systems lowered drawdown only modestly and gave up a lot of return, including
+in the held-out period. **Selected: hold VOO, fully invested, cash only.** The timing variants
+stay in the code for comparison. Do not re-tune them on the same data to make them "win".
+
+**Monthly routine (agent):**
+1. Read portfolio, positions, and buying power for the "MCP" account.
+2. If idle cash ≥ $1 (dividends, any deposit the owner chooses to make), prepare a
+   dollar-based market buy of VOO during regular hours.
+3. Preview with `review_equity_order`; get the owner's confirmation (or in-app approval if
+   it is turned on); place; verify the fill.
+4. Report: account value, month change, total change since start, drawdown from peak.
+5. Never sell in a panic. Selling only happens if the owner asks or changes the system.
+
+**Expectations:** roughly 0.5–1%/month on average over long periods, with losing months about
+one third of the time and drawdowns of 30%+ in bad years. On $20 that is cents per month. Growth
+comes mainly from time and from deposits, not from trading skill.
