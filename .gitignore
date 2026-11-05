@@ -31,3 +31,13 @@ examples/sessions/*.tmp
 # Python
 __pycache__/
 *.pyc
+
+# AI company private data (client names, money, prospects). Created by `company.js init`.
+examples/ai-company/finance/*.csv
+examples/ai-company/finance/monthly-close.md
+examples/ai-company/sales/pipeline.csv
+examples/ai-company/sales/outbox/
+examples/ai-company/delivery/clients/
+examples/ai-company/delivery/permissions/
+examples/ai-company/marketing/*-week.md
+examples/ai-company/site/dist/
