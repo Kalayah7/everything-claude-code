@@ -54,6 +54,12 @@ Agents may read market data, positions, and history. Agents must not place live 
 without explicit per-order human confirmation. That includes broker MCP tools
 such as `place_equity_order`: use the review/preview tool first and ask the user.
 
+### 7. Robinhood connector
+When the Robinhood MCP tools are available, follow `examples/trading-agent/ROBINHOOD.md`:
+trade only the agent-enabled "MCP" account, use only the cash already in it, never margin,
+always `review_equity_order` first, and get explicit chat confirmation before every
+`place_*_order` call (in-app approval may be off, so the order would execute immediately).
+
 ## Workflow
 
 1. `/trading-team build "<goal>"`
