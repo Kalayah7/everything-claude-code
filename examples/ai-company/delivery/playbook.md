@@ -11,7 +11,10 @@ How `company-delivery` serves every client. The goal is zero missed SLAs and zer
 4. Draft replies to **all** currently unanswered reviews from the last 12 months (backlog). Send
    any negative ones to the client for approval.
 5. Draft the first 2 Google profile posts.
-6. Add the client to `finance/clients.csv` with `status=active`.
+6. Make the client's review-request QR cards from `delivery/review-card-template.html`, and send
+   the printable file with a note: "Hand one to every customer. Please don't pick only happy ones,
+   because Google doesn't allow it."
+7. Add the client to `finance/clients.csv` with `status=active`.
 
 ### Welcome email
 

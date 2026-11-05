@@ -22,6 +22,20 @@ checks real competitor prices in week 1 and recommends a change if the evidence 
 
 **Guarantee:** the first month is refundable for 30 days. Cancel anytime.
 
+### Competitor scan (checked 2026-11-05; prices from vendor listings and third-party sites, so re-check before quoting)
+
+| Category | Examples | Price | What the owner still does |
+|---|---|---|---|
+| Self-serve AI reply tools | ReplyOnTheFly ($9.99/mo Pro), Revys ($7.90/profile/mo), ReviewNudger ($29/mo per location), ResponseRx (from $59.99/mo per location) | about $8 to $60/month | Logs in, reviews drafts, and posts. Needs time and habit |
+| Freelancers | Gig listings, for example 45 responses/month for $95 | about $95/month | Finds and manages the freelancer. Usually no posts or report |
+| Review platforms | NiceJob (about $75 to $125/mo), GatherUp (about $99/mo), Birdeye (about $299 to $449/mo per location), Podium (about $299 to $599/mo, often annual contracts) | about $75 to $600/month | Learns the software. Often a 12-month contract |
+
+**Positioning:** a done-for-you local service with no software for the owner to learn and no
+contract, including posts and a report. That sits between freelancers and platforms.
+**Price decision:** keep $149 as the list price. If 3 or more sales calls stall on price, test a
+"Replies only" tier at $99/month (no posts or report). Log the result in the change log.
+Do not compete with the $10 tools on price. Compete on "you never have to think about it."
+
 ## 3. Ideal customer
 
 - Local service business with a single location and an owner-operator
@@ -116,3 +130,4 @@ Google profile optimization one-time packages.
 | Date | Change | Reason / evidence |
 |---|---|---|
 | 2026-11-05 | Initial plan | Thesis to be validated in week 1 |
+| 2026-11-05 | Kept $149; added a $99 "Replies only" fallback test | Competitor scan above. Done-for-you sits between $95 freelancers and $75 to $600 platforms |

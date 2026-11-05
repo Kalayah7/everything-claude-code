@@ -68,7 +68,8 @@ Not interested? Reply "no thanks" and I won't email again.
 ## 4. Walk-in script (best channel for local businesses)
 
 Bring a printed **one-page review audit**: the business's rating, number of unanswered reviews,
-and 3 printed draft replies. Visit mid-morning or mid-afternoon on a weekday, not at rush time.
+and 3 printed draft replies. Build it from `sales/review-audit-template.html`. Save each one as
+`sales/outbox/audits/<business-slug>.html` (git-ignored), then print, or save as a PDF to attach to email. Visit mid-morning or mid-afternoon on a weekday, not at rush time.
 
 > "Hi, is the owner or manager around? I'll be quick. I help local businesses with their Google
 > reviews. I noticed [Business] has [N] reviews without a reply, so I wrote replies you can post.

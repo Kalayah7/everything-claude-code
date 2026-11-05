@@ -34,10 +34,12 @@ examples/ai-company/
 |-- plan/business-plan.md      # offer, revenue math, funnel, costs, risks, kill criteria
 |-- site/index.html            # landing page template -> `build-site` -> site/dist/index.html
 |-- sales/outreach-playbook.md # value-first emails, walk-in and phone scripts, call script, objections
+|-- sales/review-audit-template.html # printable one-page audit leave-behind for prospects
 |-- sales/pipeline.csv         # prospects and funnel dates            (private, git-ignored)
 |-- sales/outbox/              # daily drafted messages for the founder (private, git-ignored)
 |-- delivery/playbook.md       # onboarding, reply rules, posts, reports, Website Sprint SOP
 |-- delivery/website-template/ # client website template
+|-- delivery/review-card-template.html # printable review-request QR cards for clients
 |-- delivery/clients/          # one folder per client                  (private, git-ignored)
 |-- marketing/launch-content.md
 |-- finance/ledger.csv         # payments and refunds, verified=yes only when confirmed (private)
