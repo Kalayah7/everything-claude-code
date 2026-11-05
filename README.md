@@ -101,6 +101,7 @@ everything-claude-code/
 |   |-- e2e-runner.md        # Playwright E2E testing
 |   |-- refactor-cleaner.md  # Dead code cleanup
 |   |-- doc-updater.md       # Documentation sync
+|   |-- trading-*.md         # Trading agent build team (see "Trading Agent Team" below)
 |
 |-- skills/           # Workflow definitions and domain knowledge
 |   |-- coding-standards/           # Language best practices
@@ -112,6 +113,7 @@ everything-claude-code/
 |   |-- security-review/            # Security checklist
 |   |-- eval-harness/               # Verification loop evaluation (Longform Guide)
 |   |-- verification-loop/          # Continuous verification (Longform Guide)
+|   |-- trading-agent-development/  # Guardrails for building trading bots
 |
 |-- commands/         # Slash commands for quick execution
 |   |-- tdd.md              # /tdd - Test-driven development
@@ -124,6 +126,7 @@ everything-claude-code/
 |   |-- checkpoint.md       # /checkpoint - Save verification state (Longform Guide)
 |   |-- verify.md           # /verify - Run verification loop (Longform Guide)
 |   |-- setup-pm.md         # /setup-pm - Configure package manager (NEW)
+|   |-- trading-team.md     # /trading-team - Run the trading agent build team
 |
 |-- rules/            # Always-follow guidelines (copy to ~/.claude/rules/)
 |   |-- security.md         # Mandatory security checks
@@ -163,12 +166,37 @@ everything-claude-code/
 |-- examples/         # Example configurations and sessions
 |   |-- CLAUDE.md           # Example project-level config
 |   |-- user-CLAUDE.md      # Example user-level config
+|   |-- trading-agent/      # Starter trading bot (backtester, risk manager, paper broker)
 |
 |-- mcp-configs/      # MCP server configurations
 |   |-- mcp-servers.json    # GitHub, Supabase, Vercel, Railway, etc.
 |
 |-- marketplace.json  # Self-hosted marketplace config (for /plugin marketplace add)
 ```
+
+---
+
+## Trading Agent Team
+
+A team of agents that helps you **build your own trading agent**, from income goal to a
+paper-trading bot. Run it with:
+
+```
+/trading-team build "Help me make $2,000/month trading US ETFs with $60k"
+```
+
+| Agent | Job |
+|---|---|
+| `trading-strategist` | Turns the income goal into capital math and a testable strategy spec |
+| `trading-quant-researcher` | Backtests with no look-ahead, real costs, and out-of-sample checks |
+| `trading-risk-manager` | Sizing, loss limits, kill switches; **can veto deployment** |
+| `trading-execution-engineer` | Paper → live-small → live-scaled order loop, broker adapter |
+| `trading-compliance-auditor` | Secrets, order-path safety, PDT / wash-sale / ToS checks; **can block** |
+| `trading-performance-monitor` | Live vs. backtest, progress to target, continue / reduce / halt |
+
+Starter code (stdlib Python, tested) is in [`examples/trading-agent/`](examples/trading-agent/).
+**No strategy guarantees a minimum monthly income.** The team's first step is to show how
+much capital your target realistically needs. Not financial advice.
 
 ---
 
