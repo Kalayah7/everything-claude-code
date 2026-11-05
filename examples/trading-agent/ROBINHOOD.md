@@ -68,3 +68,39 @@ stay in the code for comparison. Do not re-tune them on the same data to make th
 **Expectations:** roughly 0.5–1%/month on average over long periods, with losing months about
 one third of the time and drawdowns of 30%+ in bad years. On $20 that is cents per month. Growth
 comes mainly from time and from deposits, not from trading skill.
+
+## Quick-trading paper test (2026-11-05)
+
+`python3 -m tradebot.intraday --data DIR` on Robinhood 5-minute bars, 2026-08-10 to 2026-11-04
+(62 trading days), 2 bps slippage per side, $5 start, every trade 1:2 risk/reward, long-only,
+one trade per day, flat by close. Rules fixed before testing.
+
+| Strategy | SPY | QQQ | IWM | Avg R per trade (range) |
+|---|---|---|---|---|
+| Opening-range breakout | $4.81 | $4.77 | $4.81 | −0.24 to −0.31 |
+| VWAP dip | $4.95 | $5.00 | $4.99 | −0.01 to −0.25 |
+| First-hour momentum | $4.95 | $4.94 | $4.96 | −0.16 to −0.29 |
+| Buy & hold (same period) | $4.96 | $4.79 | $4.73 | |
+
+**Result: no edge.** All 9 combinations lost money per trade on average. Few trades (8–38)
+and one falling market, so this is not proof either way, but nothing here justifies real
+money beyond a small learning trade.
+
+**Crypto vs stocks for small trades:** Robinhood crypto showed about a 1.9% bid/ask spread
+(BTC and ETH, 2026-11-04 evening) against about 0.01% for SPY. Crypto allows real stop orders on
+dollar amounts, but the spread is about as large as a sensible stop. Use SPY for tiny trades.
+
+## $5 practice trade with stop-loss and take-profit
+
+Fractional/dollar stock orders are market-only, so Robinhood cannot hold a stop-loss or
+take-profit for them. The agent manages the bracket itself with scheduled check-ins:
+
+| Item | Rule |
+|---|---|
+| Entry | $5.00 SPY, dollar-based market buy, regular hours |
+| Stop-loss | sell all if SPY ≤ entry × 0.995 (−0.5%, about −$0.025) |
+| Take-profit | sell all if SPY ≥ entry × 1.010 (+1.0%, about +$0.05), so risk 1 : reward 2 |
+| Time exit | sell at the last check of the day (15:47 ET) so nothing is held overnight |
+| Checks | hourly at :47 from 09:47 to 15:47 ET. The price can move past a level between checks |
+| PDT | the same-day sell uses 1 of the 3 day trades allowed per 5 business days |
+| Approval | the owner approves the whole bracket once in chat before entry. No approval, no trade |
