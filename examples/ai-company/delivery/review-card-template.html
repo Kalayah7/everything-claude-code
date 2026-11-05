@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  Printable review-request QR cards (4 per Letter page), included with Reputation Autopilot.
+  company-delivery copies this into delivery/clients/<slug>/review-card.html and fills:
+    {{CLIENT_NAME}}         business name
+    {{CLIENT_REVIEW_URL}}   the client's Google review link. In their Business Profile, use
+                            "Ask for reviews" / "Get more reviews" to copy it (looks like g.page/r/...)
+    {{CLIENT_BRAND_COLOR}}  for example #1f5f4a
+  Compliance (Google policy + FTC): give the card to EVERY customer, not only happy ones
+  (no review gating), and never offer anything in exchange for a review. Keep the wording neutral.
+  Open in a browser and print. The QR codes are drawn locally by qrcodejs.
+-->
+<title>{{CLIENT_NAME}} review cards</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<style>
+  @page { size: letter; margin: 0.5in; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #ffffff; color: #1c1b19; font: 12pt/1.4 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+  .sheet { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.25in; max-width: 7.5in; margin: 0 auto; padding: 16px; }
+  .card { border: 1px dashed #b9b4a9; border-radius: 12px; padding: 0.3in; text-align: center; min-height: 4.5in; display: flex; flex-direction: column; justify-content: center; align-items: center; break-inside: avoid; }
+  .card h2 { margin: 0 0 6px; font-size: 17pt; color: {{CLIENT_BRAND_COLOR}}; }
+  .card p { margin: 0 0 14px; color: #5f5b53; }
+  .qr { width: 1.9in; height: 1.9in; margin: 0 auto 12px; }
+  .qr img, .qr canvas { width: 100% !important; height: 100% !important; }
+  .name { font-weight: 800; font-size: 13pt; }
+  .url { font-size: 8.5pt; color: #8a857b; word-break: break-all; margin-top: 6px; }
+  @media screen and (max-width: 600px) { .sheet { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="sheet" id="sheet"></div>
+<script>
+  (function () {
+    var url = "{{CLIENT_REVIEW_URL}}";
+    var sheet = document.getElementById("sheet");
+    for (var i = 0; i < 4; i++) {
+      var card = document.createElement("div");
+      card.className = "card";
+      card.innerHTML =
+        '<h2>How did we do?</h2>' +
+        '<p>We read every review. Scan to tell us about your visit on Google.</p>' +
+        '<div class="qr"></div>' +
+        '<div class="name">{{CLIENT_NAME}}</div>' +
+        '<div class="url"></div>';
+      card.querySelector(".url").textContent = url;
+      sheet.appendChild(card);
+      if (window.QRCode) {
+        new QRCode(card.querySelector(".qr"), { text: url, width: 512, height: 512, correctLevel: QRCode.CorrectLevel.M });
+      } else {
+        card.querySelector(".qr").textContent = "QR library did not load. Connect to the internet and reload.";
+      }
+    }
+  })();
+</script>
+</body>
+</html>

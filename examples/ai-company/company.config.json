@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": "Brightside Local",
+    "nameIsPlaceholder": true,
+    "tagline": "Every review answered. Every customer remembered.",
+    "ownerName": "",
+    "contactEmail": "",
+    "phone": "",
+    "postalAddress": "",
+    "serviceArea": "",
+    "intakeFormUrl": "",
+    "bookingUrl": ""
+  },
+  "goal": {
+    "monthlyNetTarget": 2000,
+    "currency": "USD",
+    "definition": "Verified money received in one calendar month, minus payment fees, refunds and business expenses."
+  },
+  "fees": {
+    "percent": 0.029,
+    "fixed": 0.30
+  },
+  "taxReserveRate": 0.25,
+  "offers": [
+    {
+      "id": "autopilot",
+      "name": "Reputation Autopilot",
+      "type": "recurring",
+      "price": 149,
+      "paymentLink": ""
+    },
+    {
+      "id": "website",
+      "name": "Website Sprint",
+      "type": "one_time",
+      "price": 497,
+      "paymentLink": ""
+    }
+  ],
+  "primaryRecurringOffer": "autopilot",
+  "funnelAssumptions": {
+    "replyRate": 0.05,
+    "callRate": 0.5,
+    "closeRate": 0.3,
+    "minContactsForRealRates": 50
+  }
+}

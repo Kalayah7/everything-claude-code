@@ -102,6 +102,7 @@ everything-claude-code/
 |   |-- refactor-cleaner.md  # Dead code cleanup
 |   |-- doc-updater.md       # Documentation sync
 |   |-- trading-*.md         # Trading agent build team (see "Trading Agent Team" below)
+|   |-- company-*.md         # AI company team (see "AI Company" below)
 |
 |-- skills/           # Workflow definitions and domain knowledge
 |   |-- coding-standards/           # Language best practices
@@ -114,6 +115,7 @@ everything-claude-code/
 |   |-- eval-harness/               # Verification loop evaluation (Longform Guide)
 |   |-- verification-loop/          # Continuous verification (Longform Guide)
 |   |-- trading-agent-development/  # Guardrails for building trading bots
+|   |-- ai-company-operations/      # Operating rules for the AI company agents
 |
 |-- commands/         # Slash commands for quick execution
 |   |-- tdd.md              # /tdd - Test-driven development
@@ -127,6 +129,7 @@ everything-claude-code/
 |   |-- verify.md           # /verify - Run verification loop (Longform Guide)
 |   |-- setup-pm.md         # /setup-pm - Configure package manager (NEW)
 |   |-- trading-team.md     # /trading-team - Run the trading agent build team
+|   |-- company.md          # /company - Run the AI company
 |
 |-- rules/            # Always-follow guidelines (copy to ~/.claude/rules/)
 |   |-- security.md         # Mandatory security checks
@@ -167,6 +170,7 @@ everything-claude-code/
 |   |-- CLAUDE.md           # Example project-level config
 |   |-- user-CLAUDE.md      # Example user-level config
 |   |-- trading-agent/      # Starter trading bot (backtester, risk manager, paper broker)
+|   |-- ai-company/         # AI company workspace (plan, site, playbooks, revenue tracker)
 |
 |-- mcp-configs/      # MCP server configurations
 |   |-- mcp-servers.json    # GitHub, Supabase, Vercel, Railway, etc.
@@ -197,6 +201,35 @@ paper-trading bot. Run it with:
 Starter code (stdlib Python, tested) is in [`examples/trading-agent/`](examples/trading-agent/).
 **No strategy guarantees a minimum monthly income.** The team's first step is to show how
 much capital your target realistically needs. Not financial advice.
+
+---
+
+## AI Company
+
+A team of 8 agents that runs a small services business toward a monthly goal
+(default **$2,000/month net, verified, in pocket**). The default business is a Google review reply
+service for local businesses ($149/month), with a $497 website upsell. Run it with:
+
+```
+/company launch "I'm in Tampa, FL. Start the company."
+/company daily
+```
+
+| Agent | Job |
+|---|---|
+| `company-ceo` | Owns the goal, writes the weekly plan, decides keep / change / kill |
+| `company-market-researcher` | Validates the niche and prices, builds qualified prospect lists |
+| `company-offer-builder` | Offer, pricing, landing page, deliverable templates |
+| `company-sales` | Value-first outreach drafts, follow-ups, call scripts, pipeline |
+| `company-marketer` | Content, referrals, real case studies |
+| `company-delivery` | Onboarding, review replies, profile posts, reports, client websites |
+| `company-finance` | Ledger, verified net vs. goal, clients and contacts still needed |
+| `company-compliance` | Anti-spam, FTC review rules, Google policy, privacy; **can block** |
+
+The workspace is [`examples/ai-company/`](examples/ai-company/). The founder does only the
+human-only steps (bank, Stripe, sending, calls, posting), listed in
+[`FOUNDER-TODO.md`](examples/ai-company/FOUNDER-TODO.md). Progress counts only money the founder
+has verified: `node examples/ai-company/scripts/company.js status`.
 
 ---
 
@@ -339,6 +372,7 @@ node tests/run-all.js
 node tests/lib/utils.test.js
 node tests/lib/package-manager.test.js
 node tests/hooks/hooks.test.js
+node tests/company/company.test.js
 ```
 
 ---

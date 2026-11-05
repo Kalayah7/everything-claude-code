@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{COMPANY_NAME}} | Google review replies for local businesses</title>
+<meta name="description" content="{{COMPANY_NAME}} replies to every Google review for your business within 24 hours, keeps your Google profile active, and sends a plain-English report each month. Serving {{SERVICE_AREA}}.">
+<style>
+  :root {
+    --bg: #fbfaf7;
+    --surface: #ffffff;
+    --ink: #1c1b19;
+    --muted: #5f5b53;
+    --line: #e6e2d9;
+    --brand: #1f5f4a;
+    --brand-ink: #ffffff;
+    --accent: #f2b33d;
+    --soft: #eef4f1;
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141513;
+      --surface: #1d1f1c;
+      --ink: #f0efe9;
+      --muted: #b4b0a6;
+      --line: #33352f;
+      --brand: #5fc29b;
+      --brand-ink: #0f1a15;
+      --accent: #f2b33d;
+      --soft: #1f2a25;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--brand); }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 20px; }
+  header.top { border-bottom: 1px solid var(--line); background: var(--surface); }
+  header.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-top: 14px; padding-bottom: 14px; }
+  .logo { font-weight: 800; letter-spacing: -0.01em; font-size: 1.1rem; color: var(--ink); text-decoration: none; }
+  .logo span { color: var(--accent); }
+  nav a { margin-left: 18px; text-decoration: none; color: var(--muted); font-size: 0.95rem; }
+  nav a:hover { color: var(--ink); }
+  .btn {
+    display: inline-block; padding: 13px 22px; border-radius: 999px; font-weight: 700;
+    text-decoration: none; background: var(--brand); color: var(--brand-ink); border: 2px solid var(--brand);
+  }
+  .btn.ghost { background: transparent; color: var(--brand); }
+  .btn:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  .hero { padding: 72px 0 56px; }
+  .eyebrow { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.78rem; font-weight: 700; color: var(--brand); }
+  h1 { font-size: clamp(2rem, 5vw, 3.2rem); line-height: 1.1; letter-spacing: -0.02em; margin: 10px 0 18px; max-width: 16ch; }
+  .lede { font-size: 1.2rem; color: var(--muted); max-width: 46ch; margin: 0 0 28px; }
+  .cta-row { display: flex; flex-wrap: wrap; gap: 12px; }
+  section { padding: 56px 0; }
+  section.alt { background: var(--soft); }
+  h2 { font-size: clamp(1.5rem, 3vw, 2.1rem); letter-spacing: -0.01em; margin: 0 0 12px; }
+  .sub { color: var(--muted); margin: 0 0 32px; max-width: 60ch; }
+  .grid3 { display: grid; gap: 18px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; }
+  .card h3 { margin: 0 0 8px; font-size: 1.12rem; }
+  .card p { margin: 0; color: var(--muted); }
+  .step-num { display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--brand); color: var(--brand-ink); font-weight: 800; margin-bottom: 12px; }
+  .pricing { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); align-items: stretch; }
+  .plan { display: flex; flex-direction: column; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 28px; }
+  .plan.featured { border: 2px solid var(--brand); }
+  .tag { align-self: flex-start; background: var(--accent); color: #1c1b19; font-size: 0.75rem; font-weight: 800; padding: 3px 10px; border-radius: 999px; margin-bottom: 10px; }
+  .price { font-size: 2.6rem; font-weight: 800; letter-spacing: -0.02em; margin: 6px 0 0; }
+  .price small { font-size: 1rem; font-weight: 600; color: var(--muted); }
+  .plan ul { padding-left: 20px; margin: 18px 0 24px; flex: 1; }
+  .plan li { margin-bottom: 8px; }
+  .fine { font-size: 0.9rem; color: var(--muted); }
+  details { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px 20px; margin-bottom: 10px; }
+  summary { cursor: pointer; font-weight: 700; }
+  details p { color: var(--muted); margin: 10px 0 0; }
+  .legal h3 { margin-top: 28px; }
+  .legal p, .legal li { color: var(--muted); font-size: 0.95rem; }
+  footer { border-top: 1px solid var(--line); padding: 32px 0; color: var(--muted); font-size: 0.9rem; }
+  header.top .btn { white-space: nowrap; }
+  @media (max-width: 640px) {
+    nav { display: none; }
+    header.top .btn { padding: 9px 14px; font-size: 0.88rem; }
+    .hero { padding: 48px 0 40px; }
+    section { padding: 44px 0; }
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#">{{COMPANY_NAME}}<span>.</span></a>
+    <nav aria-label="Main">
+      <a href="#how">How it works</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <a class="btn" href="{{BOOKING_URL}}">Book a 15-min call</a>
+  </div>
+</header>
+
+<main>
+  <div class="hero">
+    <div class="wrap">
+      <div class="eyebrow">For local service businesses in {{SERVICE_AREA}}</div>
+      <h1>Every Google review answered within 24 hours.</h1>
+      <p class="lede">{{TAGLINE}} We write thoughtful, on-brand replies to every review your business gets, keep your Google profile active with fresh posts, and send you a short report each month. You approve the tone once. We handle the rest.</p>
+      <div class="cta-row">
+        <a class="btn" href="{{AUTOPILOT_LINK}}">Start for ${{AUTOPILOT_PRICE}}/month</a>
+        <a class="btn ghost" href="{{BOOKING_URL}}">Get a free review audit</a>
+      </div>
+      <p class="fine" style="margin-top:16px">Cancel anytime. No contracts. Not happy with month one? We refund it.</p>
+    </div>
+  </div>
+
+  <section class="alt">
+    <div class="wrap">
+      <h2>Unanswered reviews cost you customers</h2>
+      <p class="sub">People choosing a plumber, salon, or auto shop read the reviews and how the owner responded. A business that replies looks active and trustworthy. Busy owners rarely have time to reply.</p>
+      <div class="grid3">
+        <div class="card"><h3>Silence looks like neglect</h3><p>A complaint with no reply is the first thing a new customer sees. A calm, helpful reply turns it into proof that you care.</p></div>
+        <div class="card"><h3>Thank-yous build loyalty</h3><p>Customers who get a personal thank-you remember you and are more likely to come back and refer friends.</p></div>
+        <div class="card"><h3>An active profile helps</h3><p>Google recommends keeping your Business Profile current and responding to reviews. We do both, every week.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="how">
+    <div class="wrap">
+      <h2>How it works</h2>
+      <p class="sub">Set up takes about 15 minutes of your time.</p>
+      <div class="grid3">
+        <div class="card"><div class="step-num">1</div><h3>Quick intake</h3><p>Tell us about your business, your tone, and anything we should never say. Add us as a Manager on your Google Business Profile.</p></div>
+        <div class="card"><div class="step-num">2</div><h3>We reply, every day</h3><p>New reviews get a reply within 24 hours. Replies to negative reviews are sent to you to approve before they are posted.</p></div>
+        <div class="card"><div class="step-num">3</div><h3>Monthly report</h3><p>Your new reviews, your average rating, what customers praise and complain about, and one suggestion to improve.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="pricing" class="alt">
+    <div class="wrap">
+      <h2>Simple pricing</h2>
+      <p class="sub">No setup fees. No long-term contracts.</p>
+      <div class="pricing">
+        <div class="plan featured">
+          <span class="tag">Most popular</span>
+          <h3>Reputation Autopilot</h3>
+          <p class="price">${{AUTOPILOT_PRICE}}<small>/month</small></p>
+          <ul>
+            <li>A reply to every Google review within 24 hours</li>
+            <li>Negative-review replies sent to you for approval first</li>
+            <li>4 Google Business Profile posts per month</li>
+            <li>A printable QR card and message templates for asking happy customers for reviews</li>
+            <li>A one-page monthly report</li>
+            <li>Cancel anytime</li>
+          </ul>
+          <a class="btn" href="{{AUTOPILOT_LINK}}">Start Autopilot</a>
+        </div>
+        <div class="plan">
+          <h3>Website Sprint</h3>
+          <p class="price">${{WEBSITE_PRICE}}<small> one time</small></p>
+          <ul>
+            <li>A fast, mobile-friendly one-page website</li>
+            <li>Live within 3 business days after we receive your details</li>
+            <li>Tap-to-call, map, hours, services, and your best real reviews</li>
+            <li>Contact form that emails you</li>
+            <li>One round of revisions</li>
+            <li>You own it. We can host it, or hand it over</li>
+          </ul>
+          <a class="btn ghost" href="{{WEBSITE_LINK}}">Order a website</a>
+        </div>
+      </div>
+      <p class="fine" style="margin-top:18px">After paying, you will get a short intake form: <a href="{{INTAKE_FORM_URL}}">open the intake form</a>.</p>
+    </div>
+  </section>
+
+  <section id="faq">
+    <div class="wrap">
+      <h2>Questions</h2>
+      <details><summary>Do you use AI?</summary><p>Yes. Replies are drafted with AI using your tone and the details of each review. Then they are checked against your guidelines before posting. Replies to negative reviews always wait for your approval.</p></details>
+      <details><summary>Will you write reviews for my business?</summary><p>No, never. Fake reviews are illegal and against Google's rules. We reply to real reviews and give you honest, compliant ways to ask your real customers for feedback.</p></details>
+      <details><summary>Do I have to give you my Google password?</summary><p>No. You add us as a Manager on your Google Business Profile. You can remove us in one click at any time.</p></details>
+      <details><summary>What if I don't like a reply?</summary><p>Tell us and we will edit or remove it the same day. We will also update your guidelines so it does not happen again.</p></details>
+      <details><summary>Can you guarantee more stars or a higher ranking?</summary><p>No one can honestly guarantee that. What we guarantee is the work: every review answered within 24 hours and four profile posts every month.</p></details>
+      <details><summary>How do I cancel?</summary><p>Email us at {{CONTACT_EMAIL}}. Your subscription stops at the end of the current paid month.</p></details>
+    </div>
+  </section>
+
+  <section class="alt legal" id="terms">
+    <div class="wrap">
+      <h2>Terms, refunds and privacy</h2>
+      <h3>Service terms</h3>
+      <p>Reputation Autopilot is a month-to-month subscription billed in advance. Website Sprint is a one-time project fee. Delivery times start when we receive your completed intake form and Google Business Profile access. You are responsible for the accuracy of the business information you give us.</p>
+      <h3>Refunds</h3>
+      <p>If you are not satisfied with your first month of Reputation Autopilot, email us within 30 days of your first payment for a full refund of that month. Website Sprint is refundable in full before work begins, and 50% after a first draft is delivered. Later months are not refunded, but you can cancel at any time.</p>
+      <h3>Privacy</h3>
+      <p>We collect only what we need to provide the service: your contact details, business details, and access to your Google Business Profile. We never sell your data. Payments are processed by Stripe; we never see or store your card number. Review replies never include your customers' personal details. To request deletion of your data, email {{CONTACT_EMAIL}}.</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p><strong>{{COMPANY_NAME}}</strong> &middot; {{POSTAL_ADDRESS}} &middot; <a href="mailto:{{CONTACT_EMAIL}}">{{CONTACT_EMAIL}}</a> &middot; {{PHONE}}</p>
+    <p>&copy; {{YEAR}} {{COMPANY_NAME}}. Not affiliated with or endorsed by Google. Google and Google Business Profile are trademarks of Google LLC.</p>
+  </div>
+</footer>
+
+</body>
+</html>

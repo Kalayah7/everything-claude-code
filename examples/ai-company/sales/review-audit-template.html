@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  One-page review audit: the printed leave-behind for walk-ins, and a PDF attachment for email.
+  company-sales copies this into sales/outbox/audits/<business-slug>.html and replaces every
+  {{TOKEN}} using the prospect's REAL public Google reviews (latest 10). Quote reviews exactly and
+  use the reviewer's first name only. Print to PDF from the browser (Letter, margins: default).
+-->
+<title>Google review audit for {{BUSINESS_NAME}}</title>
+<style>
+  @page { size: letter; margin: 0.6in; }
+  * { box-sizing: border-box; }
+  body { margin: 0; color: #1c1b19; background: #ffffff; font: 11.5pt/1.45 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+  .page { max-width: 7.3in; margin: 0 auto; padding: 24px 16px; }
+  header { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 3px solid #1f5f4a; padding-bottom: 8px; }
+  h1 { font-size: 19pt; margin: 0; letter-spacing: -0.01em; }
+  .from { color: #5f5b53; font-size: 10pt; text-align: right; }
+  .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 16px 0; }
+  .stat { border: 1px solid #e6e2d9; border-radius: 10px; padding: 10px 12px; }
+  .stat b { display: block; font-size: 20pt; line-height: 1.1; }
+  .stat span { color: #5f5b53; font-size: 9.5pt; }
+  .stat.flag b { color: #b3261e; }
+  h2 { font-size: 12.5pt; margin: 18px 0 8px; }
+  .review { border-left: 3px solid #f2b33d; padding: 6px 0 6px 12px; margin-bottom: 12px; break-inside: avoid; }
+  .review q { color: #5f5b53; font-style: italic; }
+  .meta { font-size: 9.5pt; color: #5f5b53; }
+  .reply { margin-top: 4px; }
+  .reply::before { content: "Suggested reply: "; font-weight: 700; color: #1f5f4a; }
+  .offer { background: #eef4f1; border-radius: 10px; padding: 12px 14px; margin-top: 16px; break-inside: avoid; }
+  .offer p { margin: 4px 0; }
+  footer { margin-top: 14px; font-size: 9pt; color: #5f5b53; }
+  @media screen and (max-width: 600px) { .stats { grid-template-columns: 1fr; } header { display: block; } .from { text-align: left; } }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <h1>Google review audit: {{BUSINESS_NAME}}</h1>
+    <div class="from">Prepared {{AUDIT_DATE}}<br>by {{COMPANY_NAME}}</div>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><b>{{RATING}}</b><span>average rating ({{REVIEW_COUNT}} reviews)</span></div>
+    <div class="stat flag"><b>{{UNANSWERED}} of 10</b><span>latest reviews with no owner reply</span></div>
+    <div class="stat"><b>{{OLDEST_UNANSWERED}}</b><span>oldest unanswered recent review</span></div>
+  </div>
+
+  <h2>What customers praise</h2>
+  <p>{{PRAISE_SUMMARY}}</p>
+
+  <h2>Replies you can post today (free)</h2>
+
+  <div class="review">
+    <div class="meta">{{R1_NAME}} &middot; {{R1_STARS}} stars &middot; {{R1_WHEN}}</div>
+    <q>{{R1_TEXT}}</q>
+    <div class="reply">{{R1_REPLY}}</div>
+  </div>
+  <div class="review">
+    <div class="meta">{{R2_NAME}} &middot; {{R2_STARS}} stars &middot; {{R2_WHEN}}</div>
+    <q>{{R2_TEXT}}</q>
+    <div class="reply">{{R2_REPLY}}</div>
+  </div>
+  <div class="review">
+    <div class="meta">{{R3_NAME}} &middot; {{R3_STARS}} stars &middot; {{R3_WHEN}}</div>
+    <q>{{R3_TEXT}}</q>
+    <div class="reply">{{R3_REPLY}}</div>
+  </div>
+
+  <div class="offer">
+    <p><strong>Want every review answered within 24 hours, without thinking about it?</strong></p>
+    <p>{{COMPANY_NAME}} Reputation Autopilot: replies to every review (you approve negative ones first), 4 Google profile posts a month, and a monthly report. ${{AUTOPILOT_PRICE}}/month, cancel anytime, first month refundable.</p>
+    <p>{{FOUNDER_NAME}} &middot; {{CONTACT_EMAIL}} &middot; {{PHONE}} &middot; {{SITE_URL}}</p>
+  </div>
+
+  <footer>Based on public reviews on {{BUSINESS_NAME}}'s Google Business Profile as of {{AUDIT_DATE}}. These replies are yours to use, whether or not you work with us. {{COMPANY_NAME}} is not affiliated with Google. {{POSTAL_ADDRESS}}.</footer>
+</div>
+</body>
+</html>

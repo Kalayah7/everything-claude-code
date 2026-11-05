@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+  Website Sprint template. company-delivery replaces every {{CLIENT_*}} token
+  using the client's intake answers. Remove any section the client has no real content for.
+  Reviews must be quoted exactly from the client's Google profile (first name + last initial).
+  Contact form: create a free form endpoint (for example Formspree or Web3Forms) that emails the
+  client, and put its URL in {{CLIENT_FORM_ENDPOINT}}.
+-->
+<title>{{CLIENT_NAME}} | {{CLIENT_MAIN_SERVICE}} in {{CLIENT_CITY}}</title>
+<meta name="description" content="{{CLIENT_NAME}} provides {{CLIENT_MAIN_SERVICE}} in {{CLIENT_CITY}} and nearby areas. Call {{CLIENT_PHONE}}.">
+<style>
+  :root { --bg:#ffffff; --ink:#1b1d1f; --muted:#5a6168; --line:#e4e7ea; --brand:{{CLIENT_BRAND_COLOR}}; --brand-ink:#ffffff; --soft:#f4f6f8; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#121416; --ink:#eef0f2; --muted:#a9b0b7; --line:#2b3035; --soft:#1a1d20; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif; }
+  a { color: var(--brand); }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 20px; }
+  .bar { position: sticky; top: 0; z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+  .bar .wrap { display:flex; justify-content:space-between; align-items:center; padding-top:12px; padding-bottom:12px; gap:12px; }
+  .name { font-weight: 800; }
+  .call { background:var(--brand); color:var(--brand-ink); text-decoration:none; font-weight:700; padding:10px 18px; border-radius:999px; white-space:nowrap; }
+  .hero { padding: 56px 0 40px; }
+  h1 { font-size: clamp(1.9rem, 5vw, 2.8rem); line-height:1.15; margin:0 0 14px; }
+  .lede { color: var(--muted); font-size: 1.15rem; max-width: 52ch; }
+  section { padding: 44px 0; }
+  .alt { background: var(--soft); }
+  h2 { margin: 0 0 18px; font-size: 1.6rem; }
+  .grid { display:grid; gap:16px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+  .card { background: var(--bg); border:1px solid var(--line); border-radius:12px; padding:20px; }
+  .card h3 { margin:0 0 6px; font-size:1.05rem; }
+  .card p { margin:0; color: var(--muted); }
+  blockquote { margin:0; }
+  .stars { color:#e0a100; letter-spacing:2px; }
+  .who { color: var(--muted); font-size: .9rem; margin-top: 8px; }
+  .info { display:grid; gap:24px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
+  iframe { width:100%; height:280px; border:0; border-radius:12px; }
+  form { display:grid; gap:10px; }
+  label { font-weight:600; font-size:.95rem; }
+  input, textarea { width:100%; font:inherit; padding:10px 12px; border:1px solid var(--line); border-radius:8px; background:var(--bg); color:var(--ink); }
+  button { font:inherit; font-weight:700; padding:12px; border:0; border-radius:999px; background:var(--brand); color:var(--brand-ink); cursor:pointer; }
+  footer { padding: 28px 0; color: var(--muted); font-size: .9rem; border-top:1px solid var(--line); }
+</style>
+</head>
+<body>
+<div class="bar"><div class="wrap">
+  <span class="name">{{CLIENT_NAME}}</span>
+  <a class="call" href="tel:{{CLIENT_PHONE_DIGITS}}">Call {{CLIENT_PHONE}}</a>
+</div></div>
+
+<main>
+  <div class="hero"><div class="wrap">
+    <h1>{{CLIENT_HEADLINE}}</h1>
+    <p class="lede">{{CLIENT_SUBHEADLINE}}</p>
+    <p><a class="call" href="tel:{{CLIENT_PHONE_DIGITS}}">Call now</a> &nbsp; <a href="#contact">or send a message</a></p>
+  </div></div>
+
+  <section class="alt"><div class="wrap">
+    <h2>Services</h2>
+    <div class="grid">
+      <div class="card"><h3>{{CLIENT_SERVICE_1}}</h3><p>{{CLIENT_SERVICE_1_TEXT}}</p></div>
+      <div class="card"><h3>{{CLIENT_SERVICE_2}}</h3><p>{{CLIENT_SERVICE_2_TEXT}}</p></div>
+      <div class="card"><h3>{{CLIENT_SERVICE_3}}</h3><p>{{CLIENT_SERVICE_3_TEXT}}</p></div>
+    </div>
+  </div></section>
+
+  <section><div class="wrap">
+    <h2>What customers say on Google</h2>
+    <div class="grid">
+      <blockquote class="card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"{{CLIENT_REVIEW_1}}"</p><div class="who">{{CLIENT_REVIEW_1_NAME}}, Google review</div></blockquote>
+      <blockquote class="card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"{{CLIENT_REVIEW_2}}"</p><div class="who">{{CLIENT_REVIEW_2_NAME}}, Google review</div></blockquote>
+      <blockquote class="card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>"{{CLIENT_REVIEW_3}}"</p><div class="who">{{CLIENT_REVIEW_3_NAME}}, Google review</div></blockquote>
+    </div>
+    <p><a href="{{CLIENT_GOOGLE_REVIEWS_URL}}">Read all reviews on Google</a></p>
+  </div></section>
+
+  <section class="alt" id="contact"><div class="wrap info">
+    <div>
+      <h2>Hours and location</h2>
+      <p>{{CLIENT_HOURS}}</p>
+      <p>{{CLIENT_ADDRESS}}<br>Serving {{CLIENT_SERVICE_AREA}}</p>
+      <iframe title="Map to {{CLIENT_NAME}}" loading="lazy" src="{{CLIENT_MAP_EMBED_URL}}"></iframe>
+    </div>
+    <div>
+      <h2>Send a message</h2>
+      <form action="{{CLIENT_FORM_ENDPOINT}}" method="POST">
+        <label for="n">Name</label><input id="n" name="name" required autocomplete="name">
+        <label for="p">Phone</label><input id="p" name="phone" type="tel" autocomplete="tel">
+        <label for="e">Email</label><input id="e" name="email" type="email" autocomplete="email">
+        <label for="m">How can we help?</label><textarea id="m" name="message" rows="4" required></textarea>
+        <button type="submit">Send</button>
+      </form>
+    </div>
+  </div></section>
+</main>
+
+<footer><div class="wrap">
+  &copy; {{CLIENT_NAME}} &middot; {{CLIENT_ADDRESS}} &middot; <a href="tel:{{CLIENT_PHONE_DIGITS}}">{{CLIENT_PHONE}}</a>
+</div></footer>
+</body>
+</html>
