@@ -104,3 +104,17 @@ take-profit for them. The agent manages the bracket itself with scheduled check-
 | Checks | hourly at :47 from 09:47 to 15:47 ET. The price can move past a level between checks |
 | PDT | the same-day sell uses 1 of the 3 day trades allowed per 5 business days |
 | Approval | the owner approves the whole bracket once in chat before entry. No approval, no trade |
+
+## Trade log
+
+| Date (ET) | Symbol | Side | Qty | Price | Reason |
+|---|---|---|---|---|---|
+| 2026-11-05 09:49 | VOO | buy $15.00 | 0.021583 | $694.97 | Steady Compounder, long-term hold |
+| 2026-11-05 09:49 | SPY | buy $5.00 | 0.006612 | $756.20 | $5 practice bracket (stop $752.42, take-profit $763.76) |
+| 2026-11-05 10:48 | SPY | sell | 0.006612 | $742.84 | Stop-loss, found at the hourly check, already past the stop |
+
+**SPY practice trade result: −$0.09 (−1.77%).** The plan was −$0.025 (−0.5%) at the stop,
+but SPY fell about 1.8% between the 09:49 entry and the 10:48 check. **Lesson:** an hourly
+check cannot enforce a tight 0.5% stop. For future practice trades, either use a stop wide
+enough for the check interval, check more often, or use an instrument where Robinhood holds
+a real stop order (whole shares, or crypto despite its spread).
