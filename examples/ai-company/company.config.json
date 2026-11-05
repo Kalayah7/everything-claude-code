@@ -38,6 +38,23 @@
     }
   ],
   "primaryRecurringOffer": "autopilot",
+  "mailer": {
+    "enabled": false,
+    "provider": "google",
+    "fromName": "",
+    "fromEmail": "",
+    "replyTo": "",
+    "timezone": "America/New_York",
+    "sendWindow": { "days": [1, 2, 3, 4, 5], "startHour": 9, "endHour": 16 },
+    "maxPerDay": 40,
+    "warmup": [10, 20, 30],
+    "delaySeconds": { "min": 60, "max": 180 },
+    "followUpDays": [3, 7],
+    "autoApproveFollowUps": true,
+    "maxBounceRate": 0.05,
+    "smtp": { "host": "", "port": "", "secure": "" },
+    "imap": { "host": "", "port": "", "secure": "" }
+  },
   "funnelAssumptions": {
     "replyRate": 0.05,
     "callRate": 0.5,

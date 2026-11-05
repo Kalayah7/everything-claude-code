@@ -44,9 +44,11 @@ const DATA_FILES = Object.freeze({
   'finance/ledger.csv': 'date,client,offer_id,description,gross,fee,verified',
   'finance/expenses.csv': 'date,vendor,description,amount',
   'finance/clients.csv': 'client,offer_id,monthly_price,start_date,status,cancel_date,notes',
-  'sales/pipeline.csv': 'business,niche,city,contact_name,email,phone,website,google_rating,review_count,unanswered_reviews,source_url,contacted_on,replied_on,call_on,won_on,lost_on,unsubscribed,next_step,notes'
+  'sales/pipeline.csv': 'business,niche,city,contact_name,email,phone,website,google_rating,review_count,unanswered_reviews,source_url,contacted_on,replied_on,call_on,won_on,lost_on,unsubscribed,next_step,notes',
+  'sales/sent-log.csv': 'sent_at,local_date,batch,message_id_local,message_id,kind,business,to,subject,status,error',
+  'sales/suppression.csv': 'email,reason,date'
 });
-const DATA_DIRS = Object.freeze(['sales/outbox', 'delivery/clients', 'delivery/permissions', 'marketing']);
+const DATA_DIRS = Object.freeze(['sales/outbox', 'sales/inbox', 'delivery/clients', 'delivery/permissions', 'marketing']);
 
 function initWorkspace(dir) {
   const created = [];

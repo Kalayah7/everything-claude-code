@@ -1,0 +1,16 @@
+{
+  "name": "ai-company-workspace",
+  "private": true,
+  "description": "Operating scripts for the AI company: revenue tracker and outreach mailer",
+  "license": "MIT",
+  "scripts": {
+    "status": "node scripts/company.js status",
+    "plan": "node scripts/company.js plan",
+    "mailer": "node scripts/mailer.js"
+  },
+  "dependencies": {
+    "imapflow": "2.5.8",
+    "mailparser": "3.10.0",
+    "nodemailer": "10.1.7"
+  }
+}

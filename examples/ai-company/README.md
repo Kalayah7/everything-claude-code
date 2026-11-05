@@ -6,9 +6,11 @@ goal of **$2,000/month in verified net revenue**.
 - **Business:** "Reputation Autopilot" for local businesses ($149/month). We reply to every Google
   review within 24 hours, post on their Google profile, and send a monthly report. Upsell:
   "Website Sprint" ($497 one-time). See [plan/business-plan.md](plan/business-plan.md).
-- **Team:** 8 agents in `agents/company-*.md`, run with `/company` (see `commands/company.md`).
+- **Team:** 9 agents in `agents/company-*.md`, run with `/company` (see `commands/company.md`).
 - **Founder:** you do the human-only steps in [FOUNDER-TODO.md](FOUNDER-TODO.md): bank, Stripe,
-  sending, calls, and posting.
+  approving each day's email batch, calls, and posting.
+- **Mailer:** sends approved batches from your own mailbox with hard limits, sends follow-ups,
+  and reads replies. Setup: [sales/EMAIL-SETUP.md](sales/EMAIL-SETUP.md).
 
 ## Quick start
 
@@ -17,6 +19,8 @@ cd examples/ai-company
 node scripts/company.js init      # create the private data files (git-ignored)
 node scripts/company.js check     # what's still needed before launch
 node scripts/company.js plan      # clients and contacts needed to hit the goal
+npm install                       # once, for the mailer
+node scripts/mailer.js status     # mailer limits, quota, pending batches
 ```
 
 Then in Claude Code:
@@ -35,6 +39,10 @@ examples/ai-company/
 |-- site/index.html            # landing page template -> `build-site` -> site/dist/index.html
 |-- sales/outreach-playbook.md # value-first emails, walk-in and phone scripts, call script, objections
 |-- sales/review-audit-template.html # printable one-page audit leave-behind for prospects
+|-- sales/EMAIL-SETUP.md       # mailbox, DNS (SPF/DKIM/DMARC), app password, mailer settings
+|-- sales/sent-log.csv         # every email the mailer sent                 (private, git-ignored)
+|-- sales/suppression.csv      # opt-outs, bounces, complaints: never emailed again (private)
+|-- sales/inbox/               # replies for sales to answer             (private, git-ignored)
 |-- sales/pipeline.csv         # prospects and funnel dates            (private, git-ignored)
 |-- sales/outbox/              # daily drafted messages for the founder (private, git-ignored)
 |-- delivery/playbook.md       # onboarding, reply rules, posts, reports, Website Sprint SOP
@@ -46,6 +54,7 @@ examples/ai-company/
 |-- finance/clients.csv        # active subscriptions -> committed MRR     (private)
 |-- finance/expenses.csv       # every business cost                         (private)
 |-- scripts/company.js         # init | status | plan | build-site | check
+|-- scripts/mailer.js          # status | check | approve | followups | send [--live] | inbox | test-connection
 ```
 
 ## How the goal is measured

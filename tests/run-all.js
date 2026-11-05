@@ -14,7 +14,8 @@ const testFiles = [
   'lib/utils.test.js',
   'lib/package-manager.test.js',
   'hooks/hooks.test.js',
-  'company/company.test.js'
+  'company/company.test.js',
+  'company/mailer.test.js'
 ];
 
 console.log('╔══════════════════════════════════════════════════════════╗');

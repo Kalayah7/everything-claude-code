@@ -78,6 +78,23 @@ function parseCsv(text) {
   );
 }
 
+function csvCell(value) {
+  const s = value === undefined || value === null ? '' : String(value);
+  return /[",\r\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+}
+
+/** Serialize rows back to CSV with a fixed header order (unknown keys are dropped). */
+function toCsv(header, rows) {
+  const lines = [header.map(csvCell).join(',')];
+  for (const r of rows) lines.push(header.map(h => csvCell(r[h])).join(','));
+  return lines.join('\n') + '\n';
+}
+
+function csvHeader(text) {
+  const first = String(text || '').replace(/^﻿/, '').split(/\r?\n/)[0] || '';
+  return first ? first.split(',').map(h => h.trim().replace(/^"|"$/g, '')) : [];
+}
+
 function estimateFee(gross, fees) {
   if (gross <= 0) return 0;
   return round2(gross * fees.percent + fees.fixed);
@@ -274,6 +291,8 @@ module.exports = {
   round2,
   toNumber,
   parseCsv,
+  toCsv,
+  csvHeader,
   estimateFee,
   netPerSale,
   summarizeMonth,

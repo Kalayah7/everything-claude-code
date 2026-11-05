@@ -41,12 +41,17 @@ Do them in order. Times are estimates.
 - [ ] **11. Your own Google Business Profile (15 min, optional but good).** List the company as
       a service-area business without showing your home address.
 - [ ] **12. Check (1 min):** `node scripts/company.js check` should show every item done.
+- [ ] **13. Automatic email sending (about 30 to 45 min, optional but recommended).** Follow
+      `sales/EMAIL-SETUP.md`: mailbox, DNS records, app password, the `.env` file, and the
+      `mailer` settings. Then run `npm install` and `node scripts/mailer.js test-connection`.
 
-## Every weekday (about 60 to 90 minutes)
+## Every weekday (about 30 to 60 minutes with the mailer, 60 to 90 without)
 
 - [ ] Run `/company daily` in Claude Code.
-- [ ] Send the messages in `sales/outbox/<today>.md` from your business email. Make the calls and
-      walk-ins it lists. Tell Claude what happened (who replied, who booked).
+- [ ] **With the mailer:** review the dry-run list Claude shows you, then reply "approve" (or ask
+      for changes). The mailer sends during business hours and handles follow-ups and opt-outs.
+      **Without it:** send the drafts from your business email yourself.
+- [ ] Make the calls and walk-ins in `sales/outbox/<today>.md`. Tell Claude what happened.
 - [ ] Post the replies marked READY TO POST for each client (about 5 minutes per client). Tell
       Claude which ones you posted.
 - [ ] Take any sales calls on your calendar (scripts in `sales/outreach-playbook.md`).

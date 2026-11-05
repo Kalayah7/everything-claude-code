@@ -34,7 +34,9 @@ are subtracted. Never report forecasts, pipeline value, or "they said yes" as re
 ### 3. Humans do the human-only steps
 Agents draft, research, build, analyze, and track. The founder does these:
 - Open the bank and Stripe accounts, create Payment Links, issue refunds
-- Send every email or DM (from their own accounts), make calls, do walk-ins
+- Approve each email batch. `company-mailer` sends only approved batches, through
+  `scripts/mailer.js`, from the founder's own mailbox. No other sending path exists. The founder
+  also sends DMs, makes calls and does walk-ins
 - Post on clients' Google profiles until access exists; sign anything; register the business; taxes
 
 Put each step on the founder's list with its exact steps and the minutes it should take. Never claim
@@ -44,7 +46,9 @@ one happened without the founder's confirmation.
 - Every first touch includes free, ready-to-post draft replies to the prospect's real unanswered
   reviews. Personalize every message.
 - Email: honest From and subject, postal address, opt-out, and no purchased or guessed addresses.
-  Keep volume modest.
+  The mailer enforces all of these. It also enforces business hours, warm-up (10, then 20, then
+  30 a day), at most 40 a day, 1 to 3 minutes between emails, and an auto-pause on more than 5%
+  bounces or any complaint. Agents never loosen these limits.
 - Phone: manual calls only. No autodialers, prerecorded calls, or cold SMS.
 - Opt-outs and do-not-call requests are permanent.
 
@@ -60,8 +64,10 @@ reviews approved by the client first, 4 posts a month, and the report by busines
 cannot keep up, sales pauses.
 
 ### 7. Private data stays private
-Ledgers, the client list, the pipeline, outbox drafts, and client folders are git-ignored. Run
-`company.js init` to create them locally. Never commit them, because this repo may be public.
+Ledgers, the client list, the pipeline, outbox drafts, mailer logs, the suppression list, and
+client folders are git-ignored. Run `company.js init` to create them locally. Never commit them,
+because this repo may be public. Mail credentials live only in `examples/ai-company/.env`
+(git-ignored) or the environment, never in chat or in the repo.
 
 ### 8. Kill criteria are decided in advance
 Change niche, offer, or channel if: 150 contacts give fewer than 3 positive replies, 10 calls give

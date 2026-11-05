@@ -206,7 +206,7 @@ much capital your target realistically needs. Not financial advice.
 
 ## AI Company
 
-A team of 8 agents that runs a small services business toward a monthly goal
+A team of 9 agents that runs a small services business toward a monthly goal
 (default **$2,000/month net, verified, in pocket**). The default business is a Google review reply
 service for local businesses ($149/month), with a $497 website upsell. Run it with:
 
@@ -220,14 +220,15 @@ service for local businesses ($149/month), with a $497 website upsell. Run it wi
 | `company-ceo` | Owns the goal, writes the weekly plan, decides keep / change / kill |
 | `company-market-researcher` | Validates the niche and prices, builds qualified prospect lists |
 | `company-offer-builder` | Offer, pricing, landing page, deliverable templates |
-| `company-sales` | Value-first outreach drafts, follow-ups, call scripts, pipeline |
+| `company-sales` | Value-first outreach drafts, reply drafts, call scripts, pipeline |
+| `company-mailer` | Sends founder-approved email batches with hard limits, follow-ups, reads replies |
 | `company-marketer` | Content, referrals, real case studies |
 | `company-delivery` | Onboarding, review replies, profile posts, reports, client websites |
 | `company-finance` | Ledger, verified net vs. goal, clients and contacts still needed |
 | `company-compliance` | Anti-spam, FTC review rules, Google policy, privacy; **can block** |
 
 The workspace is [`examples/ai-company/`](examples/ai-company/). The founder does only the
-human-only steps (bank, Stripe, sending, calls, posting), listed in
+human-only steps (bank, Stripe, approving email batches, calls, posting), listed in
 [`FOUNDER-TODO.md`](examples/ai-company/FOUNDER-TODO.md). Progress counts only money the founder
 has verified: `node examples/ai-company/scripts/company.js status`.
 
@@ -373,6 +374,7 @@ node tests/lib/utils.test.js
 node tests/lib/package-manager.test.js
 node tests/hooks/hooks.test.js
 node tests/company/company.test.js
+node tests/company/mailer.test.js
 ```
 
 ---

@@ -41,3 +41,7 @@ examples/ai-company/delivery/clients/
 examples/ai-company/delivery/permissions/
 examples/ai-company/marketing/*-week.md
 examples/ai-company/site/dist/
+examples/ai-company/sales/sent-log.csv
+examples/ai-company/sales/suppression.csv
+examples/ai-company/sales/mailer-state.json
+examples/ai-company/sales/inbox/
