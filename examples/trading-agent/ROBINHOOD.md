@@ -118,3 +118,25 @@ but SPY fell about 1.8% between the 09:49 entry and the 10:48 check. **Lesson:**
 check cannot enforce a tight 0.5% stop. For future practice trades, either use a stop wide
 enough for the check interval, check more often, or use an instrument where Robinhood holds
 a real stop order (whole shares, or crypto despite its spread).
+
+## Election sell-off dip study (2026-11-06)
+
+`python3 -m tradebot.dipbuy --data DIR` on Robinhood daily bars for 61 large U.S. stocks and
+sector ETFs, 2016-01 to 2026-11-05. Rules fixed before testing; see the module docstring.
+
+**2026 election (Tue Nov 3):** SPY −2.5% from the Nov 2 close to the Nov 5 close (−4.4% on Nov 5
+alone). The sell-off centred on chips/AI and energy: XLK −6.8%, XLE −8.4%. Biggest large-cap
+losers: TSLA −14.9%, AMD −13.4%, INTC −12.9%, LMT −10.4%, NVDA −10.1%, CAT −9.8%, AVGO −9.5%,
+XOM −8.0%, TXN −7.9%, CVX −6.5%.
+
+| Test | Events | Losers (avg) | All 61 stocks | SPY | Losers beat SPY | Losers beat all |
+|---|---|---|---|---|---|---|
+| Past elections, hold 60d | 5 | +7.8% | +5.5% | +3.5% | 60% | 40% |
+| SPY −3% days, hold 20d | 14 | +1.4% | +1.2% | +0.6% | 71% | 50% |
+| SPY −3% days, hold 60d | 14 | +8.7% | +6.5% | +5.4% | 71% | 64% |
+
+**Reading:** after big one-day drops, buying the market's biggest losers has usually done better than
+SPY over the next 3 months, but most of that comes from simply buying stocks after a drop (all 61
+stocks also beat SPY). The extra from picking the losers is about +2 points on average, from only 14
+events, with a survivorship-biased universe and no costs. It is suggestive, not proof. Past
+elections were rallies, not sell-offs, so they are a weak comparison.
