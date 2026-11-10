@@ -103,6 +103,7 @@ everything-claude-code/
 |   |-- doc-updater.md       # Documentation sync
 |   |-- trading-*.md         # Trading agent build team (see "Trading Agent Team" below)
 |   |-- company-*.md         # AI company team (see "AI Company" below)
+|   |-- studio-*.md          # Faith studio team (see "Faith Studio" below)
 |
 |-- skills/           # Workflow definitions and domain knowledge
 |   |-- coding-standards/           # Language best practices
@@ -116,6 +117,7 @@ everything-claude-code/
 |   |-- verification-loop/          # Continuous verification (Longform Guide)
 |   |-- trading-agent-development/  # Guardrails for building trading bots
 |   |-- ai-company-operations/      # Operating rules for the AI company agents
+|   |-- faith-studio-operations/    # Operating rules for the faith studio agents
 |
 |-- commands/         # Slash commands for quick execution
 |   |-- tdd.md              # /tdd - Test-driven development
@@ -130,6 +132,7 @@ everything-claude-code/
 |   |-- setup-pm.md         # /setup-pm - Configure package manager (NEW)
 |   |-- trading-team.md     # /trading-team - Run the trading agent build team
 |   |-- company.md          # /company - Run the AI company
+|   |-- studio.md           # /studio - Run the faith studio
 |
 |-- rules/            # Always-follow guidelines (copy to ~/.claude/rules/)
 |   |-- security.md         # Mandatory security checks
@@ -171,6 +174,7 @@ everything-claude-code/
 |   |-- user-CLAUDE.md      # Example user-level config
 |   |-- trading-agent/      # Starter trading bot (backtester, risk manager, paper broker)
 |   |-- ai-company/         # AI company workspace (plan, site, playbooks, revenue tracker)
+|   |-- faith-studio/       # Faith studio workspace (journals, PDF builder, plan, revenue tracker)
 |
 |-- mcp-configs/      # MCP server configurations
 |   |-- mcp-servers.json    # GitHub, Supabase, Vercel, Railway, etc.
@@ -230,6 +234,37 @@ The workspace is [`examples/ai-company/`](examples/ai-company/). The founder doe
 human-only steps (bank, Stripe, sending, calls, posting), listed in
 [`FOUNDER-TODO.md`](examples/ai-company/FOUNDER-TODO.md). Progress counts only money the founder
 has verified: `node examples/ai-company/scripts/company.js status`.
+
+---
+
+## Faith Studio
+
+A team of 8 agents that runs a faceless digital-product business: **guided prayer journals for
+hard seasons**, sold as printable PDFs (default goal **$5,000/month net, verified**). The founder
+gives about 2 hours a week. Run it with:
+
+```
+/studio weekly
+/studio produce be-still
+```
+
+| Agent | Job |
+|---|---|
+| `studio-director` | Owns the goal, writes the weekly plan, decides keep / change / kill |
+| `studio-researcher` | Demand evidence, backlog ranking, product briefs |
+| `studio-writer` | Writes each journal (verse references, reflections, prompts) |
+| `studio-editor` | Scripture context, pastoral care, honest claims, policy; **can block** |
+| `studio-merchandiser` | Listing copy, tags, PDF build, listing images, pins |
+| `studio-marketer` | Pinterest schedule, email sequence, group-license drafts |
+| `studio-customer-care` | Reply drafts, refund recommendations, product fixes |
+| `studio-finance` | Ledger, verified net vs. goal, orders and visits still needed |
+
+The workspace is [`examples/faith-studio/`](examples/faith-studio/). `studio.js build <slug>`
+turns a product file into print-ready PDFs (US Letter and A4), listing images, pins and a copy
+sheet. Scripture is looked up from a public-domain Bible by reference, never typed. The first
+product, a 30-day journal, is included. The founder's steps are in
+[`FOUNDER-TODO.md`](examples/faith-studio/FOUNDER-TODO.md), and the honest odds are in the
+[business plan](examples/faith-studio/plan/business-plan.md).
 
 ---
 

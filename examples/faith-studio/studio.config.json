@@ -1,0 +1,60 @@
+{
+  "brand": {
+    "name": "Middle Seasons",
+    "nameIsPlaceholder": true,
+    "tagline": "Guided prayer journals for the middle of the story.",
+    "promise": "A verse, a few honest questions, and room to write, for the season you are actually in.",
+    "contactEmail": "",
+    "storeUrl": "",
+    "founderReviewedPolicies": false
+  },
+  "goal": {
+    "monthlyNetTarget": 5000,
+    "currency": "USD",
+    "definition": "Verified payouts in one calendar month, minus marketplace and payment fees, refunds and business expenses."
+  },
+  "taxReserveRate": 0.25,
+  "copyrightYear": "2026",
+  "scripture": {
+    "translation": "World English Bible",
+    "abbreviation": "WEB",
+    "credit": "Scripture quotations are from the World English Bible (WEB), which is in the public domain. Where the WEB uses the name Yahweh, many other translations print \"the LORD\".",
+    "sourceBaseUrl": "https://raw.githubusercontent.com/TehShrike/world-english-bible/68669ba3be9719ae4d1135b19d9e0b6587b7c356/json"
+  },
+  "aiDisclosure": "This journal was planned, written and laid out with the help of AI tools, then read, edited and approved page by page by a person. Scripture is quoted directly from the World English Bible and was not generated.",
+  "careNote": "This journal is a companion for prayer and reflection. It is not counseling or medical care. If you are struggling to cope, please talk to a doctor, a licensed counselor or a pastor you trust. If you are in the United States and in crisis, call or text 988 at any time.",
+  "offers": [
+    { "id": "single", "name": "Single journal (personal use)", "price": 8 },
+    { "id": "bundle", "name": "Seasons bundle (3 journals)", "price": 19 },
+    { "id": "group", "name": "Group license (print for up to 25 people)", "price": 49 }
+  ],
+  "channels": {
+    "etsy": {
+      "name": "Etsy",
+      "url": "",
+      "feePercent": 0.095,
+      "feeFixed": 0.45,
+      "feeNote": "Estimate: 6.5% transaction + 3% payment processing, plus $0.25 processing and $0.20 listing fee per sale. Offsite Ads (12-15%) not included. Real fees from the payout report always win."
+    },
+    "store": {
+      "name": "Own store (Payhip free plan)",
+      "url": "",
+      "feePercent": 0.079,
+      "feeFixed": 0.3,
+      "feeNote": "Estimate: 5% platform fee + 2.9% and $0.30 card processing."
+    }
+  },
+  "pinterest": {
+    "profileUrl": "",
+    "defaultBoard": "Guided Prayer Journals",
+    "pinsPerWeek": 15
+  },
+  "assumptions": {
+    "offerMix": { "single": 0.75, "bundle": 0.17, "group": 0.08 },
+    "channelMix": { "etsy": 0.6, "store": 0.4 },
+    "conversionRate": 0.02,
+    "minOrdersForRealRates": 30,
+    "minVisitsForRealRates": 500,
+    "catalogTargetWeek12": 24
+  }
+}
