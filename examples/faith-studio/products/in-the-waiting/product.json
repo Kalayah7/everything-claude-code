@@ -1,0 +1,405 @@
+{
+  "slug": "in-the-waiting",
+  "title": "In the Waiting",
+  "subtitle": "A 30-day guided prayer journal for seasons of uncertainty",
+  "season": "waiting",
+  "palette": {
+    "ink": "#2e3530",
+    "accent": "#7c8f6c",
+    "paper": "#f5f0e6",
+    "line": "#cfc9bc",
+    "backdrop": "#dde3d3"
+  },
+  "introTitle": "For the middle of the story",
+  "intro": [
+    "You are probably here because something has not happened yet. A job, an answer, a diagnosis, a door, a person, a sense of direction. You have prayed about it, maybe for a long time, and the page of your life still reads: to be continued.",
+    "This journal will not tell you when the wait ends, and it will not pretend the wait is easy. What it offers is smaller and, we hope, more useful: one verse a day, a short thought, two honest questions, and room to write your own prayer in your own words.",
+    "The people in Scripture waited too. Abraham and Sarah, Joseph, Hannah, David, the exiles in Babylon. Their stories were written down from the far side, which makes it easy to forget that each of them lived through long stretches of not knowing. You are in good company.",
+    "Thirty days will not finish your waiting. But thirty days of showing up, telling the truth, and paying attention can change what the waiting does in you. Start wherever you are. Miss a day and come back. There is no behind."
+  ],
+  "howTo": [
+    "Pick a time you can keep. Ten minutes with coffee, at lunch, or before bed is enough.",
+    "Read the verse slowly, twice. Out loud if you can.",
+    "Read the short reflection. Take what helps and leave the rest.",
+    "Answer the two questions honestly. Nobody is grading this. Short answers count.",
+    "Finish the prayer in your own words. One sentence is a real prayer.",
+    "At the end of each week, use the pause page to look back before you go on.",
+    "Use the prayer list at the back to write down what you ask and, later, what happened."
+  ],
+  "beginPrompts": [
+    "What am I waiting for? Say it as plainly as you can.",
+    "How long has it been, and what has the waiting cost me so far?",
+    "If God sat across the table today, what would I want to ask?"
+  ],
+  "weeks": [
+    {
+      "title": "Week 1: Honest",
+      "from": 1,
+      "to": 7,
+      "pauseTitle": "A week of telling the truth",
+      "pause": "This week was about saying what is real instead of what sounds right. Before you move on, look back over your pages. You do not have to fix anything you wrote."
+    },
+    {
+      "title": "Week 2: Held",
+      "from": 8,
+      "to": 14,
+      "pauseTitle": "A week of not being alone",
+      "pause": "This week was about company: the claim that you are not waiting by yourself. Look back and notice where that felt true and where it did not."
+    },
+    {
+      "title": "Week 3: Steady",
+      "from": 15,
+      "to": 21,
+      "pauseTitle": "A week of small, daily things",
+      "pause": "This week was about how to live while you wait: one day, one step, one small faithful thing. Look back and notice what actually helped."
+    },
+    {
+      "title": "Week 4: Open hands",
+      "from": 22,
+      "to": 30,
+      "pauseTitle": "Thirty days of showing up",
+      "pause": "These last days were about holding your plans loosely and looking ahead with hope. You finished. Take a slow look back over the whole month before you write."
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "How long?",
+      "ref": "Psalm 13:1-2",
+      "reflection": "The first words of this prayer are a complaint, and they made it into the Bible. David does not open with thanks or a tidy statement of trust. He opens with the question you may have been too polite to ask. Waiting gets heavier when we feel we have to hide how tired we are of it. Today there is nothing to fix and nothing to prove. Just tell the truth about how long this has felt.",
+      "prompts": [
+        "What is my own \"how long?\" Write it the way I would actually say it.",
+        "What have I been holding back from God because it did not sound faithful enough?"
+      ],
+      "prayer": "God, here is the honest version of how I am doing:"
+    },
+    {
+      "day": 2,
+      "title": "Pour it out",
+      "ref": "Psalm 62:8",
+      "reflection": "Pouring is not careful. When you pour something out, all of it goes: the neat parts and the mess. This verse treats that kind of prayer as trust, not as a lack of it. You bring the whole jumble to someone only when you believe they can hold it. If your prayers have become short and guarded lately, today is an invitation to say more than you planned to.",
+      "prompts": [
+        "What feelings about this season have I not put into words yet?",
+        "Where do I usually take my worries first? What would it look like to bring them here instead?"
+      ],
+      "prayer": "God, I am pouring this out to you, all of it:"
+    },
+    {
+      "day": 3,
+      "title": "New this morning",
+      "ref": "Lamentations 3:22-23",
+      "reflection": "These lines come from one of the saddest books in the Bible, written in the ruins of a city. The writer does not say things are fine. He says something narrower and stronger: that there was mercy for today. You do not need enough strength for the whole wait, and you were never asked to carry next month. Look only at this morning. What got you out of bed counts.",
+      "prompts": [
+        "What small mercy can I name from the last twenty-four hours?",
+        "What am I trying to carry today that actually belongs to a later day?"
+      ],
+      "prayer": "God, thank you for today's portion. This morning I noticed:"
+    },
+    {
+      "day": 4,
+      "title": "Near",
+      "ref": "Psalm 34:18",
+      "reflection": "It is easy to read a long silence as distance, as if God stepped back when life got hard. This verse says the direction runs the other way. The low place is where nearness is promised. That does not always come with a feeling, and it is not a reward for coping well. If you feel crushed by this season, the verse is describing you, and it is saying you have company.",
+      "prompts": [
+        "Where in this season have I felt most alone?",
+        "If God is near even there, what would I want to say?"
+      ],
+      "prayer": "God, be near to me in the part of this that hurts most:"
+    },
+    {
+      "day": 5,
+      "title": "Not yet is not no",
+      "ref": "Habakkuk 2:3",
+      "reflection": "Habakkuk asked God hard questions and was told to write the answer down and wait for it. From inside a delay, slow and never look exactly alike. That is why waiting is so tiring: you cannot tell which one you are in. This verse does not hand you a date. It asks you to consider that God's sense of timing may be different from yours without being careless.",
+      "prompts": [
+        "Where have I started to treat \"not yet\" as \"never\"?",
+        "Looking back, what is one thing that arrived later than I wanted and still arrived?"
+      ],
+      "prayer": "God, I do not know your timing. Help me to trust you with:"
+    },
+    {
+      "day": 6,
+      "title": "In the land of the living",
+      "ref": "Psalm 27:13-14",
+      "reflection": "David expected to see goodness here, in ordinary life, and not only in some far-off someday. Then he says the hard word twice: wait. Notice that he pairs it with courage. Waiting in the Bible is not passive. It is closer to standing your ground. Staying soft, staying hopeful, and getting up again tomorrow takes real strength. If that is all you did this week, you did a brave thing.",
+      "prompts": [
+        "What goodness do I still hope to see in this life? Name it without shrinking it.",
+        "What would courage look like for me this week, in one concrete action?"
+      ],
+      "prayer": "God, give me courage to keep hoping for:"
+    },
+    {
+      "day": 7,
+      "title": "Be still",
+      "ref": "Psalm 46:10",
+      "reflection": "This psalm is loud. It has earthquakes, roaring seas and nations in uproar, and in the middle of the noise comes one quiet instruction. Stillness here is less about silence and more about letting go of the idea that everything depends on you. You can stop refreshing, rehearsing and running scenarios for a few minutes. The outcome is not held together by your worry.",
+      "prompts": [
+        "What am I gripping tightly, as if it all depends on me?",
+        "When and where could I be still for five minutes today? Write the time down."
+      ],
+      "prayer": "God, for these few minutes I am putting down:"
+    },
+    {
+      "day": 8,
+      "title": "With you",
+      "ref": "Isaiah 41:10",
+      "reflection": "Count the promises in this one verse: presence, strength, help, and a hand that holds. None of them is a promise that the hard thing will go away quickly. They are promises about who is there while it lasts. Fear usually talks about the future. This verse answers in the present tense. Whatever tomorrow turns out to be, you will not walk into it alone.",
+      "prompts": [
+        "What exactly am I afraid will happen? Write the fear in one sentence.",
+        "Which of the promises in this verse do I most need today, and why?"
+      ],
+      "prayer": "God, I am afraid of this. Stay with me in it:"
+    },
+    {
+      "day": 9,
+      "title": "Already there",
+      "ref": "Deuteronomy 31:8",
+      "reflection": "Moses said this to Joshua on the edge of a land neither of them had lived in. The future you are worried about is unknown to you. It is not unknown to God, who is described here as already ahead of you on the road. You do not have to see the whole route. It is enough for today that the place you are walking toward is not empty.",
+      "prompts": [
+        "What part of the future feels like a blank I cannot see into?",
+        "How would I walk into this week differently if I believed God was already there?"
+      ],
+      "prayer": "God, go ahead of me into:"
+    },
+    {
+      "day": 10,
+      "title": "Even there",
+      "ref": "Psalm 139:9-10",
+      "reflection": "The far side of the sea was the most distant place the writer could imagine, the edge of the map. Maybe this season has taken you somewhere you never planned to be: a city, a job, a hospital corridor, a quiet house. The psalm says that no place you end up, by choice or not, is outside the reach of God's hand. Even there is a phrase worth keeping in your pocket.",
+      "prompts": [
+        "Where am I right now that I never expected to be?",
+        "Where have I seen a trace of guidance or care, even here?"
+      ],
+      "prayer": "God, even here, lead me. Today I need guidance about:"
+    },
+    {
+      "day": 11,
+      "title": "Look at the birds",
+      "ref": "Matthew 6:26",
+      "reflection": "Jesus gives a small, strange assignment here: go and look at something. Birds do not stockpile, and they are fed anyway. He is not saying work and planning are wrong. He is saying you matter more than you think, and that worry is not what keeps you alive. Sometimes the most spiritual thing you can do is step outside, look up, and let your shoulders drop.",
+      "prompts": [
+        "What need am I most worried will not be met?",
+        "How have I been provided for in the past year? List what comes to mind."
+      ],
+      "prayer": "God, you know what I need. Today I am asking you for:"
+    },
+    {
+      "day": 12,
+      "title": "Hand it over",
+      "ref": "1 Peter 5:6-7",
+      "reflection": "To cast something is to throw it, and you cannot throw a thing while you are still holding on to it. Peter links this to humility, which may sound odd until you see that worry often carries a quiet belief that everything depends on us. Handing your cares over is not giving up. It is admitting you were never built to hold them all, and that someone who cares for you is.",
+      "prompts": [
+        "What worries am I carrying today? List every one, big and small.",
+        "Which of these do I keep taking back after I have prayed about it?"
+      ],
+      "prayer": "God, I am handing these over to you, one at a time:"
+    },
+    {
+      "day": 13,
+      "title": "Look up",
+      "ref": "Psalm 121:1-2",
+      "reflection": "Travelers sang this psalm on the road up to Jerusalem, with hills ahead and risk on every side. The song begins with a real question and answers it out loud, the way you might steady yourself before a hard climb. When you run out of your own answers, it helps to say where help comes from. The one who made the hills is not smaller than what is in them.",
+      "prompts": [
+        "Where have I been looking for help first: my plans, my savings, other people, my own effort?",
+        "What help do I need most right now? Ask for it directly."
+      ],
+      "prayer": "God, maker of heaven and earth, I need your help with:"
+    },
+    {
+      "day": 14,
+      "title": "Through, not around",
+      "ref": "Isaiah 43:2",
+      "reflection": "Look at the small word that repeats: when. Not if you pass through deep water, but when. This verse is honest that hard things come, and just as clear about two other things. You pass through, which means there is another side. And you do not go through alone. Being kept is different from being spared, and on some days it is the stronger promise of the two.",
+      "prompts": [
+        "What am I walking through right now that I wish I could go around?",
+        "What has not swept me away, even though I feared it would?"
+      ],
+      "prayer": "God, walk through this with me:"
+    },
+    {
+      "day": 15,
+      "title": "Strength for today",
+      "ref": "Isaiah 40:31",
+      "reflection": "The order in this verse is easy to miss. It moves from soaring, to running, to walking. You might expect it to build the other way. But in a long wait, the real miracle is often the last one: you kept walking and did not collapse. If you are not soaring this week, you are not failing. Putting one foot in front of the other is on the list.",
+      "prompts": [
+        "Honestly, am I soaring, running, walking or worn out right now?",
+        "What would renewed strength look like for me today, in something small?"
+      ],
+      "prayer": "God, renew my strength. Today I need enough for:"
+    },
+    {
+      "day": 16,
+      "title": "Ask and thank",
+      "ref": "Philippians 4:6-7",
+      "reflection": "Paul wrote this from prison, so it is not advice from someone with an easy life. He does not say to pretend you have no worries. He says to turn each one into a request, and to put thanks next to it. The peace he describes does not come from having the answer. It comes while the answer is still unknown, and it stands guard like a soldier at the door.",
+      "prompts": [
+        "What three worries can I turn into three plain requests today?",
+        "What three things can I honestly thank God for, next to those requests?"
+      ],
+      "prayer": "God, here is what I am asking, and here is what I am thankful for:"
+    },
+    {
+      "day": 17,
+      "title": "Just today",
+      "ref": "Matthew 6:34",
+      "reflection": "Jesus is practical here. Tomorrow will have real problems, and he does not deny it. He only points out that worrying about them today means paying for them twice. A long wait gets shorter when you cut it into days. You do not have to get through the next six months this afternoon. You only have to live the day that is in front of you.",
+      "prompts": [
+        "Which of tomorrow's troubles have I been trying to solve today?",
+        "What does today, and only today, actually ask of me?"
+      ],
+      "prayer": "God, help me to live this one day. Today I will:"
+    },
+    {
+      "day": 18,
+      "title": "Enough light",
+      "ref": "Psalm 119:105",
+      "reflection": "A lamp in the ancient world was a small clay dish with a wick. It lit about one step of the path, not the whole valley. We usually want a floodlight: the full plan, the five-year view, the reason. What we are given more often is enough light for the next step. Take the step you can see. The light tends to move when you do.",
+      "prompts": [
+        "What is the next step I can already see, even if I cannot see the one after it?",
+        "What have I been refusing to do until I can see the whole path?"
+      ],
+      "prayer": "God, show me the next step. I think it might be:"
+    },
+    {
+      "day": 19,
+      "title": "Keep going",
+      "ref": "Galatians 6:9",
+      "reflection": "Farmers know something that is hard to believe in winter: seed in the ground is not wasted, even when the field looks empty for months. The good you are doing while you wait still counts. The applications sent, the kindness shown, the prayers prayed, the ordinary work done well. Being tired does not mean you are doing it wrong. It often means you have been faithful for a long time.",
+      "prompts": [
+        "Where am I most tired of doing the right thing with nothing to show for it?",
+        "What good thing will I keep doing this week anyway?"
+      ],
+      "prayer": "God, I am tired. Help me not to give up on:"
+    },
+    {
+      "day": 20,
+      "title": "Small things",
+      "ref": "Luke 16:10",
+      "reflection": "Jesus said this while teaching about how people handle what they have been given. It is tempting to treat a waiting season as a pause, as if real life starts when the big thing arrives. But the small things in front of you today are not practice. The email answered, the meal cooked, the promise kept: this is where a life is built. Most real change starts at a size that is easy to dismiss.",
+      "prompts": [
+        "What small responsibility in my life am I tempted to dismiss as not counting?",
+        "What is one small, faithful thing I can do today?"
+      ],
+      "prayer": "God, help me to honor the small things. Today that means:"
+    },
+    {
+      "day": 21,
+      "title": "Rest stops",
+      "ref": "Psalm 23:1-3",
+      "reflection": "The shepherd in this psalm leads toward rest before leading anywhere else. Green pasture and still water come first, and the right paths come after. If this season has left you running on empty, rest is not a detour from the journey. It is part of the route. You are allowed to stop, eat, sleep and be looked after before you have figured everything out.",
+      "prompts": [
+        "What restores me, really? When did I last do it?",
+        "What do I need to stop doing this week so that I can rest?"
+      ],
+      "prayer": "God, my shepherd, restore my soul. I am worn out from:"
+    },
+    {
+      "day": 22,
+      "title": "Not my own map",
+      "ref": "Proverbs 3:5-6",
+      "reflection": "To lean on something is to put your full weight on it. Your own understanding is useful, and God gave it to you, but it was never meant to bear all the weight. You only see part of the picture. Trust does not mean you stop thinking or planning. It means you hold your conclusions loosely and keep asking for direction, including about the things you feel sure of.",
+      "prompts": [
+        "What have I already decided this season means? What if I am only seeing part of it?",
+        "In which area of my life have I not really asked God for direction?"
+      ],
+      "prayer": "God, I do not see the whole picture. I trust you with:"
+    },
+    {
+      "day": 23,
+      "title": "Ask for wisdom",
+      "ref": "James 1:5",
+      "reflection": "Some waiting ends with a decision that only you can make, and that can feel like more pressure than the waiting itself. James says to ask, and he adds a detail about God's attitude: generous, and not scolding you for needing to ask. You are not bothering God with your uncertainty. Wisdom often arrives in ordinary ways, through Scripture, wise people, time, and a growing sense of clarity.",
+      "prompts": [
+        "What decision is in front of me, or coming soon?",
+        "Who is one wise person I could talk this over with this week?"
+      ],
+      "prayer": "God, I need wisdom. Please make it clear to me:"
+    },
+    {
+      "day": 24,
+      "title": "Plans in pencil",
+      "ref": "Proverbs 16:9",
+      "reflection": "This proverb holds two things together. You plan, and you should. God directs your steps, and you can count on that. Problems start when we drop either half: when we refuse to plan and call it faith, or grip our plan so hard that any change feels like disaster. Make the plan. Write it in pencil. Then stay curious about the steps that turn out different from what you drew.",
+      "prompts": [
+        "What plan am I holding so tightly that changing it feels like losing?",
+        "Where has a changed plan in my past turned out better than the one I made?"
+      ],
+      "prayer": "God, here are my plans, written in pencil:"
+    },
+    {
+      "day": 25,
+      "title": "Something new",
+      "ref": "Isaiah 43:18-19",
+      "reflection": "These words were first spoken to people who measured everything by the past: how God had rescued them before, and how good things used to be. The invitation was to look up, because the next thing would not be a copy of the last. If you are waiting for life to go back to how it was, consider that what is coming may be different, and that different can still be good.",
+      "prompts": [
+        "What from the past am I still hoping to get back exactly as it was?",
+        "Where might something new already be starting, even faintly?"
+      ],
+      "prayer": "God, open my eyes to what you are doing now. I think I see:"
+    },
+    {
+      "day": 26,
+      "title": "A future and a hope",
+      "ref": "Jeremiah 29:11",
+      "reflection": "This well-loved verse was part of a letter to exiles in Babylon, and the letter also told them their wait would last seventy years. In the meantime they were to build houses, plant gardens and seek the good of the city they were in. So the promise was never a shortcut. It was a reason to live fully in a place they had not chosen, sure that God had not forgotten them.",
+      "prompts": [
+        "What would it look like to plant a garden where I am, instead of only waiting to leave?",
+        "What do I most need God to remember about me? Say it."
+      ],
+      "prayer": "God, you have not forgotten me. While I wait, help me to build:"
+    },
+    {
+      "day": 27,
+      "title": "Worked together",
+      "ref": "Romans 8:28",
+      "reflection": "This verse does not say that everything that happens is good. Some things are simply hard, and you do not have to call them anything else. What it says is that God keeps working inside all of it, the way a weaver uses dark threads along with bright ones. You may not see the pattern from where you stand today. You do not have to see it to be part of it.",
+      "prompts": [
+        "What in this season can I not call good? Name it honestly.",
+        "Where can I already see something good being worked out of something hard?"
+      ],
+      "prayer": "God, I cannot see how this fits. I am trusting you with:"
+    },
+    {
+      "day": 28,
+      "title": "In its time",
+      "ref": "Ecclesiastes 3:11",
+      "reflection": "The writer of Ecclesiastes was a realist, and he noticed two things at once. There is a fitting time for things. And people carry a longing for more than they can understand, without being able to see the whole of what God is doing. Both are true of you. The ache you feel in the waiting is not a flaw in your faith. It was put there, and it points somewhere.",
+      "prompts": [
+        "What am I longing for underneath the specific thing I am waiting on?",
+        "What has become beautiful in its own time, in my life or in someone else's?"
+      ],
+      "prayer": "God, I cannot see from beginning to end. I leave the timing of this with you:"
+    },
+    {
+      "day": 29,
+      "title": "Not finished",
+      "ref": "Philippians 1:6",
+      "reflection": "While you have been waiting for something to change around you, something has been changing in you. Paul was confident that God finishes what God starts, and the work he had in mind was the people themselves. You are not the same person who opened this journal on day one. Whatever happens with the thing you are waiting for, the work in you is not on hold.",
+      "prompts": [
+        "How am I different from who I was when this season began?",
+        "What do I sense God working on in me right now?"
+      ],
+      "prayer": "God, thank you for not giving up on me. Keep working on:"
+    },
+    {
+      "day": 30,
+      "title": "Hope, again",
+      "ref": "Romans 15:13",
+      "reflection": "This verse is a blessing, written to be spoken over people, so receive it that way today. It asks for joy and peace now, in the believing, before anything is resolved. And it names the source of hope plainly: it is something God gives, not something you have to produce by trying harder. You came here for thirty days and told the truth. That is what hope looks like in practice.",
+      "prompts": [
+        "What am I hoping for now, after thirty days? Has the hope changed shape?",
+        "What do I want to remember from this month the next time waiting gets hard?"
+      ],
+      "prayer": "God of hope, fill me with joy and peace as I keep waiting for:"
+    }
+  ],
+  "closingTitle": "Where you are now",
+  "closing": [
+    "You may have finished this journal with your answer in hand, or you may be exactly where you started on the outside. Either way, you did something real. For thirty days you showed up, said true things, and paid attention.",
+    "Keep what worked. A verse in the morning, two honest questions, one sentence of prayer. Come back to any page here whenever you need it, and keep adding to the prayer list at the back. One day you will want the record."
+  ],
+  "closingPrompts": [
+    "A letter to myself, to open the next time I am in a season of waiting:",
+    "What I want to say to God today:"
+  ]
+}

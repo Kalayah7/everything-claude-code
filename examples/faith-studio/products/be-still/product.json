@@ -1,0 +1,381 @@
+{
+  "slug": "be-still",
+  "title": "Be Still",
+  "subtitle": "A 30-day guided prayer journal for an anxious mind",
+  "season": "anxiety",
+  "palette": { "ink": "#2b3440", "accent": "#6f8aa3", "paper": "#f3f1ec", "line": "#cbd0d6", "backdrop": "#d9e1e8" },
+  "introTitle": "For the mind that will not slow down",
+  "intro": [
+    "If your thoughts run ahead of you, if you lie awake going over what might happen, if your chest gets tight for reasons you cannot always name, this journal was made with you in mind.",
+    "It will not tell you to stop worrying, as if you had not already tried. It will not say that worry means your faith is weak. Many of the people in Scripture were afraid, said so out loud, and were met with kindness.",
+    "What you will find here is small on purpose: one verse a day, a short thought, two questions, and room to write a prayer in your own words. Ten minutes. Nothing to get right.",
+    "One more thing, said plainly. Anxiety can be a medical condition as well as a hard season. Prayer and a doctor or counselor go well together, and using both is wise, not faithless. If your anxiety is keeping you from eating, sleeping or working, please talk to someone qualified this week."
+  ],
+  "howTo": [
+    "Pick a calm spot and a time you can keep. Mornings help some people. Bedtime helps others.",
+    "Before you read, take three slow breaths. In through the nose, out through the mouth.",
+    "Read the verse slowly, twice. Out loud if you can.",
+    "Read the short reflection. Take what helps and leave the rest.",
+    "Answer the two questions honestly. Short answers count. Lists count.",
+    "Finish the prayer in your own words. One sentence is a real prayer.",
+    "At the end of each week, use the pause page to notice what helped."
+  ],
+  "beginPrompts": [
+    "What does anxiety feel like in my body and my thoughts right now?",
+    "What are the three worries that visit me most often?",
+    "What do I hope will be different, even slightly, thirty days from now?"
+  ],
+  "pausePrompts": [
+    "One thing I noticed about God this week",
+    "When I felt most anxious, and what was happening",
+    "What helped, even a little",
+    "Someone I can tell about this week"
+  ],
+  "weeks": [
+    { "title": "Week 1: Named", "from": 1, "to": 7, "pauseTitle": "A week of saying it out loud", "pause": "This week was about naming what is going on instead of hiding it. Look back over your pages. You do not have to fix anything you wrote." },
+    { "title": "Week 2: Near", "from": 8, "to": 14, "pauseTitle": "A week of company", "pause": "This week was about who is with you when the fear comes. Look back and notice where that felt true and where it did not." },
+    { "title": "Week 3: Now", "from": 15, "to": 21, "pauseTitle": "A week of coming back to today", "pause": "This week was about returning to the present: this breath, this day, this one next thing. Look back and notice what actually helped." },
+    { "title": "Week 4: Steady", "from": 22, "to": 30, "pauseTitle": "Thirty days of showing up", "pause": "These last days were about what holds when you are shaky. You finished, anxious days and all. Take a slow look back over the whole month before you write." }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "A crowd of thoughts",
+      "ref": "Psalm 94:19",
+      "reflection": "The person who wrote this had a head full of thoughts, a whole crowd of them. That detail is in the Bible, and it is not treated as a failure. Notice the order, too. The comfort arrives while the thoughts are still there, not after they have been cleared away. You do not need a quiet mind before you can pray. You can start in the middle of the noise.",
+      "prompts": [
+        "What thoughts are crowding my mind today? List them without sorting them.",
+        "What has comforted me before, even briefly, when my mind was this full?"
+      ],
+      "prayer": "God, my mind is crowded today. Here is what is in it:"
+    },
+    {
+      "day": 2,
+      "title": "When, not if",
+      "ref": "Psalm 56:3",
+      "reflection": "David wrote this after being seized by his enemies, and he does not say \"if I am ever afraid.\" He says when. Fear was a regular part of his life, and he was honest about it. Trust, in this verse, is not the absence of fear. It is what he chose to do while afraid. Both can be in the same room. You can be scared and still turn toward God.",
+      "prompts": [
+        "What am I afraid of right now? Write it in one plain sentence.",
+        "What would it look like to trust God with that while I am still afraid?"
+      ],
+      "prayer": "God, I am afraid of this, and I am bringing it to you anyway:"
+    },
+    {
+      "day": 3,
+      "title": "Known",
+      "ref": "Psalm 139:23",
+      "reflection": "This is a brave prayer. The writer invites God to look at everything, including the anxious thoughts most of us would rather keep out of sight. There is relief in being fully known by someone who is not surprised or disappointed. You do not have to tidy your mind before God looks at it. The thoughts you are embarrassed by are already seen, and you are still welcome.",
+      "prompts": [
+        "Which anxious thought am I most embarrassed by?",
+        "How does it feel to consider that God already knows it and has not turned away?"
+      ],
+      "prayer": "God, search me. You already know this, but I want to say it:"
+    },
+    {
+      "day": 4,
+      "title": "Higher ground",
+      "ref": "Psalm 61:2",
+      "reflection": "Overwhelmed is the word here, and the writer feels far from everything, at the edge of the map. He does not ask for the flood to stop at once. He asks to be led somewhere higher than himself, somewhere solid above the water line. When anxiety rises, you may not be able to think your way out. You can ask to be led. That is a complete prayer.",
+      "prompts": [
+        "What is overwhelming me most this week?",
+        "What feels like solid ground to me: a place, a person, a habit, a truth?"
+      ],
+      "prayer": "God, I am overwhelmed. Lead me to higher ground. Right now I need:"
+    },
+    {
+      "day": 5,
+      "title": "Talking to your own soul",
+      "ref": "Psalm 42:11",
+      "reflection": "Here the writer does something unusual. He asks himself a question, as you might ask a friend what is wrong. He does not scold. He is curious about his own distress, and then he points himself gently toward hope. You are allowed to do this. Instead of only listening to your anxious thoughts, you can ask them a kind question and answer with something true.",
+      "prompts": [
+        "If I asked my own soul \"why are you disturbed?\", what would it say?",
+        "What is one true and hopeful thing I can say back to myself today?"
+      ],
+      "prayer": "God, my soul is disturbed. Help me to hope in you about:"
+    },
+    {
+      "day": 6,
+      "title": "Sleep and bread",
+      "ref": "1 Kings 19:5-6",
+      "reflection": "Elijah had run for his life and collapsed under a tree, worn out and wanting to give up. God's first response was not a lecture or even an answer. It was sleep, food, water, and more sleep. Sometimes what feels like a crisis of the soul is also a body that is exhausted. Looking after your body is not unspiritual. It was the first thing God did for him.",
+      "prompts": [
+        "How have I been sleeping, eating and moving this week? Be honest.",
+        "What is one kind thing I can do for my body today?"
+      ],
+      "prayer": "God, I am tired in body as well as mind. Help me to rest. Today I will:"
+    },
+    {
+      "day": 7,
+      "title": "Come as you are",
+      "ref": "Matthew 11:28-29",
+      "reflection": "The invitation is addressed to the tired and the weighed down, so you qualify. Jesus describes himself here with two words: gentle and humble. He is not waiting for you to pull yourself together first. A yoke was a wooden frame that let two animals share one load. The picture is not of you carrying more. It is of you no longer carrying it alone.",
+      "prompts": [
+        "What am I carrying that feels too heavy for one person?",
+        "What do I imagine when I hear the word \"rest\"? Describe it."
+      ],
+      "prayer": "Jesus, I am tired and carrying a lot. I am coming to you with:"
+    },
+    {
+      "day": 8,
+      "title": "Very present",
+      "ref": "Psalm 46:1",
+      "reflection": "Anxiety lives in the future. It is nearly always about something that has not happened yet. This verse answers with the present tense. Help is described as very present, here in the trouble and not waiting at the far end of it. You may not feel that today, and feelings are not the measure. When your mind races ahead, it can help to say quietly: right now, I am not alone.",
+      "prompts": [
+        "Which future moment does my mind keep racing ahead to?",
+        "What is actually true and present in this moment, where I am sitting?"
+      ],
+      "prayer": "God, you are present, right now. In this moment I need help with:"
+    },
+    {
+      "day": 9,
+      "title": "Where the mind rests",
+      "ref": "Isaiah 26:3",
+      "reflection": "A steadfast mind is not one that never wanders. It is one that keeps coming back. Think of how you might steady yourself on a moving bus by fixing your eyes on one point. Your thoughts will drift toward worry many times today, and that is not failure. Each time you notice and turn back toward God counts. The returning is the practice.",
+      "prompts": [
+        "Where does my mind drift most often when I am not paying attention?",
+        "What one short phrase could I return to today when I notice the drift?"
+      ],
+      "prayer": "God, keep bringing my mind back to you. Today I will return to this:"
+    },
+    {
+      "day": 10,
+      "title": "A different kind of peace",
+      "ref": "John 14:27",
+      "reflection": "Jesus said this on the night before his death, to friends who were about to be very frightened. The peace he offered was not the kind that depends on things going well. That kind comes and goes with the news. His was a gift given in the middle of a hard night. You can ask for it without first solving anything.",
+      "prompts": [
+        "What would have to go right for me to feel at peace? List the conditions.",
+        "What might peace look like today, even if none of those conditions change?"
+      ],
+      "prayer": "Jesus, give me the peace you promised. My heart is troubled about:"
+    },
+    {
+      "day": 11,
+      "title": "Lying down",
+      "ref": "Psalm 4:8",
+      "reflection": "Night is when worries get loud. The house is quiet, there is nothing to do, and every problem looks bigger in the dark. David wrote this psalm in a time of trouble, and it ends with him going to sleep. Sleep is a small act of trust: for a few hours you stop keeping watch. The world carries on without your supervision, and you are kept.",
+      "prompts": [
+        "What tends to keep me awake at night?",
+        "What could I do in the last half hour before bed to help my mind settle?"
+      ],
+      "prayer": "God, tonight I am handing you the night watch. Please hold:"
+    },
+    {
+      "day": 12,
+      "title": "Sung over",
+      "ref": "Zephaniah 3:17",
+      "reflection": "Read the middle of this verse again. It describes God calming someone with love, the way a parent settles a frightened child, and then singing over them. If you tend to picture God as tired of your worrying, hold that picture up to this one. You are not being tolerated. According to the prophet, you are delighted in, on your anxious days too.",
+      "prompts": [
+        "How do I imagine God feels about me when I am anxious?",
+        "What changes if the picture in this verse is the true one?"
+      ],
+      "prayer": "God, calm me with your love. I find it hard to believe that you:"
+    },
+    {
+      "day": 13,
+      "title": "Sustained",
+      "ref": "Psalm 55:22",
+      "reflection": "Look at what is promised here. It does not say the burden will vanish. It says you will be sustained, which means held up and kept going while the weight is real. That is a quieter promise than rescue, and it is one many people can look back on and recognize. You may still be carrying something hard today, and you are also still standing.",
+      "prompts": [
+        "What burden have I been carrying longest?",
+        "Looking back, how have I been sustained through it so far?"
+      ],
+      "prayer": "God, I am giving you this burden. Hold me up under it:"
+    },
+    {
+      "day": 14,
+      "title": "In the boat",
+      "ref": "Mark 4:39",
+      "reflection": "Before this moment, the disciples were in real danger and truly afraid, and several of them were fishermen who knew that lake. Their fear was not silly. Notice where Jesus was the whole time: in the boat with them, in the same storm. Some storms are stilled quickly and some are not. Either way, the story says you are not in the boat by yourself.",
+      "prompts": [
+        "What is the storm in my life right now?",
+        "What would I say to Jesus if he were sitting in the boat with me?"
+      ],
+      "prayer": "Jesus, you are in this boat with me. Speak peace over:"
+    },
+    {
+      "day": 15,
+      "title": "What worry cannot do",
+      "ref": "Matthew 6:27",
+      "reflection": "Jesus asks a practical question, and the honest answer is no. Worry feels like work. It feels as if you are doing something about the problem. But it does not add anything, and it cannot protect the people you love. That is not a reason to feel guilty. It is permission. You are allowed to put down a tool that has never worked.",
+      "prompts": [
+        "What do I secretly believe my worrying accomplishes?",
+        "Is there one real action I can take on this worry today? If not, can I set it down until tomorrow?"
+      ],
+      "prayer": "God, my worrying has not helped. Today I am setting down:"
+    },
+    {
+      "day": 16,
+      "title": "Quietly",
+      "ref": "Lamentations 3:25-26",
+      "reflection": "The word that stands out here is quietly. Much of anxiety is noise: the same loop, played again, a little louder. Waiting quietly does not mean feeling nothing. It means you stop rehearsing every possible outcome for a while. You can try it for two minutes. Sit, breathe, and each time the loop begins, say only: not now. The waiting will still be there. So will God.",
+      "prompts": [
+        "Which loop of thought have I replayed most this week?",
+        "What happens when I sit quietly for two minutes? Try it, then write what I noticed."
+      ],
+      "prayer": "God, quiet the loop in my mind. For these few minutes I will only say:"
+    },
+    {
+      "day": 17,
+      "title": "Like a child at rest",
+      "ref": "Psalm 131:2",
+      "reflection": "This short psalm paints one picture: a small child resting against its mother, no longer frantic, asking for nothing. The writer says he stilled and quieted his own soul, which means it was something he practiced, not something that simply happened to him. Calm can be learned slowly, like any skill. A few slow breaths and a hand on your chest is a real beginning.",
+      "prompts": [
+        "When did I last feel truly settled? Where was I, and who was I with?",
+        "What helps my body calm down: breathing, walking, music, being held, being outside?"
+      ],
+      "prayer": "God, quiet my soul like a child at rest. Right now I am letting go of:"
+    },
+    {
+      "day": 18,
+      "title": "What you feed your mind",
+      "ref": "Philippians 4:8",
+      "reflection": "Paul gives a list of what to think about, and the first item is whatever is true. Anxious thoughts are often guesses dressed up as facts. A simple test is to ask: is this true, or is it a prediction? You cannot always choose your first thought, but you have some say over what you keep feeding. What you read, watch and scroll through late at night counts too.",
+      "prompts": [
+        "Which worry of mine is a prediction, not a fact? What do I actually know to be true?",
+        "What am I feeding my mind each day that makes anxiety worse? What could I swap it for?"
+      ],
+      "prayer": "God, turn my mind toward what is true. Today the true things are:"
+    },
+    {
+      "day": 19,
+      "title": "Not given by God",
+      "ref": "2 Timothy 1:7",
+      "reflection": "Paul wrote this to Timothy, a young leader who seems to have been timid by nature, and he wrote it as encouragement, not as a rebuke. The point is not that feeling afraid is a sin. It is that fear is not the last word about you, and it is not what God handed you. Power, love and a sound, steady mind are named as gifts. Gifts are received, not manufactured.",
+      "prompts": [
+        "Where has fear been making my decisions for me lately?",
+        "Of power, love and self-control, which do I most need today, and for what?"
+      ],
+      "prayer": "God, fear has been loud. Please give me what you promised for:"
+    },
+    {
+      "day": 20,
+      "title": "Not your fight",
+      "ref": "Exodus 14:14",
+      "reflection": "Moses said this to people trapped between an army and the sea, with no plan and no way out that they could see. Their part, for that moment, was to stop panicking and stand still. Some problems do need your effort. Others were never yours to solve, however hard you grip them. Part of wisdom is learning which is which, and letting go of the second kind.",
+      "prompts": [
+        "Which problem am I fighting that is not actually mine to solve?",
+        "What would \"standing still\" look like for me in that situation this week?"
+      ],
+      "prayer": "God, this one is beyond me. I am asking you to fight for me in:"
+    },
+    {
+      "day": 21,
+      "title": "The bread of toil",
+      "ref": "Psalm 127:2",
+      "reflection": "This verse describes a life many of us know: up early, up late, running on worry and calling it responsibility. The psalm calls that way of living empty and offers a surprising alternative, which is sleep, given as a gift to people who are loved. Rest is not what you earn after everything is finished. Everything is never finished. Rest is given anyway.",
+      "prompts": [
+        "Where am I overworking or overthinking because I am afraid of what happens if I stop?",
+        "What would I do this week if I truly believed rest was a gift and not a reward?"
+      ],
+      "prayer": "God, I have been eating the bread of toil. Help me to receive rest by:"
+    },
+    {
+      "day": 22,
+      "title": "Wherever you go",
+      "ref": "Joshua 1:9",
+      "reflection": "Joshua had just lost Moses, his leader and teacher, and was about to step into the largest task of his life. He is told several times in this chapter to be strong and courageous, which suggests he did not feel that way. Courage is not a feeling you wait for. The reason given is not that the road is safe. It is that God goes wherever he goes.",
+      "prompts": [
+        "What is in front of me that I do not feel ready for?",
+        "What is one small, brave step I could take toward it this week?"
+      ],
+      "prayer": "God, go with me. I need courage for:"
+    },
+    {
+      "day": 23,
+      "title": "A wide place",
+      "ref": "Psalm 118:5-6",
+      "reflection": "The word translated distress in this psalm carries the sense of a tight, narrow place, and the answer is described as freedom, room to breathe. That is close to how anxiety feels in the body: tight chest, narrow vision, walls closing in. The writer called out from inside the tight place and was brought somewhere wide. You can call from wherever you are. You do not have to get out first.",
+      "prompts": [
+        "Where does my life feel tight and narrow right now?",
+        "What would \"a wide place\" look like for me? Describe it in detail."
+      ],
+      "prayer": "God, I am calling from a tight place. Bring me into room to breathe:"
+    },
+    {
+      "day": 24,
+      "title": "Carried",
+      "ref": "Isaiah 40:11",
+      "reflection": "This verse comes just after a description of God's enormous strength, and then the picture changes to a shepherd carrying lambs against his chest and walking slowly for the sake of the ones who cannot go fast. If you feel you are falling behind, or that everyone else manages life more easily than you do, look at the pace here. It is set by the most vulnerable. That is how you are led.",
+      "prompts": [
+        "Where do I feel I am falling behind or going too slowly?",
+        "What would it mean to let myself be led gently in that area?"
+      ],
+      "prayer": "God, lead me gently. I cannot go fast right now in:"
+    },
+    {
+      "day": 25,
+      "title": "Enough for the weak",
+      "ref": "2 Corinthians 12:9",
+      "reflection": "Paul had asked three times for a painful problem to be taken away, and it was not. What he was given was this sentence. He was never told to become strong first. Weakness turned out to be the very place where he met God's strength. If your anxiety has not lifted, even after much prayer, you have not failed. You are in the company of an apostle.",
+      "prompts": [
+        "What have I asked God to take away that is still here?",
+        "Where have I seen grace show up in the middle of my weakness?"
+      ],
+      "prayer": "God, this has not gone away. Let your grace be enough for me in:"
+    },
+    {
+      "day": 26,
+      "title": "Nothing can separate",
+      "ref": "Romans 8:38-39",
+      "reflection": "Paul makes a list here, and it is long on purpose. He includes things present and things to come, which covers both today's trouble and every future you have ever worried about. Anxiety asks \"what if?\" again and again. This passage does not answer each question. It says something underneath all of them: whatever happens, there is one thing it cannot do.",
+      "prompts": [
+        "What are my biggest \"what ifs\"? Write three of them down.",
+        "After each one, write: \"Even then, I would not be separated from God's love.\" How does that sit with me?"
+      ],
+      "prayer": "God, even if the thing I fear happens, I will not be separated from you. Help me to believe that about:"
+    },
+    {
+      "day": 27,
+      "title": "At my right hand",
+      "ref": "Psalm 16:8",
+      "reflection": "The writer says he set God in front of him, which is a choice about where to look. Whatever you stare at grows. Stare at the worry and it fills the frame. He does not claim that nothing shakes him. He says he will not be moved, the way a tree bends in strong wind and keeps its roots. You can be shaken and still be held in place.",
+      "prompts": [
+        "What have I been staring at this week, so that it fills the whole frame?",
+        "What practical thing helps me set God in front of me during an ordinary day?"
+      ],
+      "prayer": "God, I set you in front of me today. Hold me steady through:"
+    },
+    {
+      "day": 28,
+      "title": "Honest about trouble",
+      "ref": "John 16:33",
+      "reflection": "Jesus does not promise a life without trouble. He says plainly that there will be some. Many anxious people brace for bad news while feeling guilty for expecting it. Here is permission to be realistic: hard things happen. And here is the other half, said in the same breath: trouble does not get the final say. You can hold both.",
+      "prompts": [
+        "What trouble am I bracing for?",
+        "What does it mean for that fear that trouble is real but does not get the last word?"
+      ],
+      "prayer": "Jesus, you said there would be trouble, and that you have overcome. I am trusting you with:"
+    },
+    {
+      "day": 29,
+      "title": "Shelter",
+      "ref": "Psalm 91:1-2",
+      "reflection": "This psalm is full of words for a safe place: shelter, shadow, refuge, fortress. People have prayed it in wars, plagues and long nights for thousands of years. It is not a charm that keeps every hard thing away, and its first readers knew that. It is a decision about where to live, and the writer says so out loud. Saying it is part of how it becomes real.",
+      "prompts": [
+        "Where do I usually run for shelter when I feel anxious?",
+        "Write my own sentence that begins: \"I will say of the Lord...\""
+      ],
+      "prayer": "God, you are my refuge. Today I am taking shelter in you from:"
+    },
+    {
+      "day": 30,
+      "title": "Peace over you",
+      "ref": "Numbers 6:24-26",
+      "reflection": "These are among the oldest words of blessing in the Bible, given to the priests to speak over the people. They are not instructions. There is nothing here for you to do. The last word of the blessing is peace, and it is described as something given. For thirty days you have shown up with an anxious mind and told the truth. Today, simply receive this.",
+      "prompts": [
+        "Which line of this blessing do I most need to hear today, and why?",
+        "What do I want to remember from this month the next time anxiety rises?"
+      ],
+      "prayer": "God, bless me and keep me. Give me your peace, especially in:"
+    }
+  ],
+  "closingTitle": "Where you are now",
+  "closing": [
+    "You may feel much calmer than you did a month ago, or about the same. Both are fine. Anxiety rarely leaves in a straight line. What you have now is a practice: stop, breathe, read something true, tell God what is real.",
+    "Keep what worked, and come back to any page whenever you need it. If your anxiety is still heavy, please take that seriously and talk to a doctor or a counselor. Getting help is a strong and faithful thing to do."
+  ],
+  "closingPrompts": [
+    "A note to myself for the next anxious day. What helps, and what is true:",
+    "What I want to say to God today:"
+  ]
+}

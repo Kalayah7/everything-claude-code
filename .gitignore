@@ -41,3 +41,10 @@ examples/ai-company/delivery/clients/
 examples/ai-company/delivery/permissions/
 examples/ai-company/marketing/*-week.md
 examples/ai-company/site/dist/
+
+# Faith studio: private money data, downloaded Bible text, and built product files.
+# Built PDFs are what the shop sells. Never commit them: this repo may be public.
+examples/faith-studio/finance/*.csv
+examples/faith-studio/data/
+examples/faith-studio/products/*/dist/
+examples/faith-studio/ops/inbox/
