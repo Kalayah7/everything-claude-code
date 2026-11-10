@@ -6,8 +6,8 @@ and sales data. Two products ship per week.
 | # | Slug | Title and season | Search phrases to check | List by |
 |---|---|---|---|---|
 | done | `in-the-waiting` | In the Waiting: uncertainty, job loss, unanswered prayer | prayer journal waiting on God | now |
+| done | `be-still` | Be Still: 30 days for an anxious mind | anxiety prayer journal, Bible verses for anxiety | now |
 | 1 | `begin-again` | Begin Again: 31 days for a new year | new year prayer journal, word of the year Christian | Dec 5 |
-| 2 | `be-still` | Be Still: 30 days for an anxious mind | anxiety prayer journal, Bible verses for anxiety | Nov 20 |
 | 3 | `held-in-grief` | Held: 30 days after a loss | grief prayer journal, sympathy gift Christian | Nov 27 |
 | 4 | `between-jobs` | Between Jobs: 21 days after a layoff | job loss encouragement, career prayer journal | Dec 5 |
 | 5 | `forty-days` | Forty Days: a Lent journal | Lent journal printable, Lent devotional 2027 | Jan 25 |

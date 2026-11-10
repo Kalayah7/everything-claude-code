@@ -14,6 +14,13 @@ const SIZES = Object.freeze({
 
 const DEFAULT_PALETTE = Object.freeze({ ink: '#2e3530', accent: '#7c8f6c', paper: '#f5f0e6', line: '#cfc9bc', backdrop: '#dde3d3' });
 
+const DEFAULT_PAUSE_PROMPTS = Object.freeze([
+  'One thing I noticed about God this week',
+  'One thing I noticed about myself',
+  'What I am still waiting on, said plainly',
+  'Someone I can tell about this week'
+]);
+
 const e = s => escapeHtml(String(s === undefined || s === null ? '' : s));
 
 function baseCss(palette, size) {
@@ -111,6 +118,8 @@ function renderJournal(product, verses, config, sizeKey = 'letter') {
   add('begin', `<div class="eyebrow">Before you begin</div><h2>Name the season</h2><div class="rule"></div>
     ${(product.beginPrompts || []).map(p => `<div class="prompt">${e(p)}</div><div class="lines"></div>`).join('')}`);
 
+  const pausePrompts = product.pausePrompts || DEFAULT_PAUSE_PROMPTS;
+
   for (const d of product.days) {
     const week = weekFor(product, d.day);
     add('day', `<div class="eyebrow">Day ${d.day}${week ? ` &middot; ${e(week.title)}` : ''}</div>
@@ -126,10 +135,7 @@ function renderJournal(product, verses, config, sizeKey = 'letter') {
       add('pause', `<div class="eyebrow">Weekly pause &middot; ${e(week.title)}</div>
         <h2>${e(week.pauseTitle || 'Look back before you go on')}</h2><div class="rule"></div>
         <p>${e(week.pause || '')}</p>
-        <div class="prompt">One thing I noticed about God this week</div><div class="lines"></div>
-        <div class="prompt">One thing I noticed about myself</div><div class="lines"></div>
-        <div class="prompt">What I am still waiting on, said plainly</div><div class="lines"></div>
-        <div class="prompt">Someone I can tell about this week</div><div class="lines" style="flex:0.4 1 0"></div>`);
+        ${pausePrompts.map((p, i) => `<div class="prompt">${e(p)}</div><div class="lines"${i === 3 ? ' style="flex:0.4 1 0"' : ''}></div>`).join('')}`);
     }
   }
 

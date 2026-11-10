@@ -81,6 +81,7 @@ function balanceQuotes(text) {
   let out = `${needsOpener ? '\u201c' : ''}${text}${depth > 0 ? '\u201d' : ''}`;
   const inner = out.slice(1, -1);
   if (out.startsWith('\u201c') && out.endsWith('\u201d') && !/[\u201c\u201d]/.test(inner)) out = inner;
+  if (out.startsWith('\u2018') && out.endsWith('\u2019') && !out.slice(1).includes('\u2018')) out = out.slice(1, -1);
   return out;
 }
 
@@ -161,6 +162,8 @@ function validateProduct(product) {
     need(w.title && w.from === next && w.to >= w.from, `week ${i + 1}: needs a title and must start on day ${next}`);
     next = w.to + 1;
   });
+  need(product.pausePrompts === undefined || (Array.isArray(product.pausePrompts) && product.pausePrompts.length === 4),
+    'pausePrompts, when given, must be exactly 4');
   need(weeks.length === 0 || next === (product.days || []).length + 1, 'weeks must cover every day exactly once');
 
   return errors;

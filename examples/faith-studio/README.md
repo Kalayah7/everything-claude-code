@@ -8,7 +8,7 @@ sells **guided prayer journals for hard seasons** (waiting, grief, anxiety, new 
 - **Brand:** "Middle Seasons" (a placeholder until the founder checks the name).
 - **Founder's time:** about 2 hours a week. See [FOUNDER-TODO.md](FOUNDER-TODO.md).
 - **Staff:** 8 agents in `agents/studio-*.md`, run with `/studio` (see `commands/studio.md`).
-- **First product:** `products/in-the-waiting/`, a finished 30-day journal.
+- **Products so far:** `products/in-the-waiting/` and `products/be-still/`, two finished 30-day journals.
 
 ## Quick start
 

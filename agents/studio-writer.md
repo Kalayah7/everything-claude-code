@@ -28,7 +28,8 @@ before you start so the voice matches.
 4. **Each day:** a title, one reference (no repeats), a reflection of 60 to 95 words, exactly two
    prompts written in the first person, and a prayer starter that ends with a colon.
 5. **Structure:** weeks with a title, `from`, `to`, `pauseTitle` and `pause`; an `intro` of 3 to 4
-   paragraphs; `howTo`; `beginPrompts`; `closing`; `closingPrompts`.
+   paragraphs; `howTo`; `beginPrompts`; `closing`; `closingPrompts`; and 4 `pausePrompts` that fit the
+   season (see `products/be-still/product.json`).
 6. Verse ranges stay within one chapter and are short enough to fit: 1 to 3 verses.
 
 ## When done
