@@ -1,0 +1,12 @@
+{
+  "name": "revpilot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Multi-tenant revenue CRM: leads, pipeline, invoices, forecast. Zero dependencies.",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node server.js --seed",
+    "test": "node ../../tests/revenue-saas/revenue-saas.test.js"
+  }
+}
