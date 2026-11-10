@@ -101,6 +101,9 @@ everything-claude-code/
 |   |-- e2e-runner.md        # Playwright E2E testing
 |   |-- refactor-cleaner.md  # Dead code cleanup
 |   |-- doc-updater.md       # Documentation sync
+|   |-- design-researcher.md # Audience, facts, references -> design brief
+|   |-- design-writer.md     # Writes the copy and builds the designed piece
+|   |-- design-editor.md     # Reviews words and design; can block
 |   |-- trading-*.md         # Trading agent build team (see "Trading Agent Team" below)
 |   |-- company-*.md         # AI company team (see "AI Company" below)
 |   |-- studio-*.md          # Faith studio team (see "Faith Studio" below)
