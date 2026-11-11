@@ -112,6 +112,8 @@ take-profit for them. The agent manages the bracket itself with scheduled check-
 | 2026-11-05 09:49 | VOO | buy $15.00 | 0.021583 | $694.97 | Steady Compounder, long-term hold |
 | 2026-11-05 09:49 | SPY | buy $5.00 | 0.006612 | $756.20 | $5 practice bracket (stop $752.42, take-profit $763.76) |
 | 2026-11-05 10:48 | SPY | sell | 0.006612 | $742.84 | Stop-loss, found at the hourly check, already past the stop |
+| 2026-11-10 09:49 | XLK | buy $4.91 | 0.029060 | $168.96 | Quick A (stop $165.58 at -2%, take-profit $175.72 at +4%, max 3 days) |
+| 2026-11-11 12:50 | XLK | sell | 0.029060 | $176.19 | Take-profit, found at the hourly check |
 
 **SPY practice trade result: −$0.09 (−1.77%).** The plan was −$0.025 (−0.5%) at the stop,
 but SPY fell about 1.8% between the 09:49 entry and the 10:48 check. **Lesson:** an hourly
@@ -140,3 +142,8 @@ SPY over the next 3 months, but most of that comes from simply buying stocks aft
 stocks also beat SPY). The extra from picking the losers is about +2 points on average, from only 14
 events, with a survivorship-biased universe and no costs. It is suggestive, not proof. Past
 elections were rallies, not sell-offs, so they are a weak comparison.
+
+**Quick A (XLK) result: +$0.21 (+4.28%).** Entry Tue 09:49, exit Wed 12:50, so no day trade was used.
+Account value after the trade: about $20.22, back above the $20 start. Note: two Tuesday afternoon
+checks were delayed by a session restart. XLK closed well above the stop, so nothing was missed, but
+it shows why a broker-held stop is safer than hourly checks.
