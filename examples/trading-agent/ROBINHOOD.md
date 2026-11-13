@@ -15,6 +15,7 @@ with `get_accounts` at runtime.
 | Leverage / margin / options / shorting | Not used. Cash only, even though the account allows margin |
 | Per-order confirmation | **Required.** Robinhood in-app approval is currently OFF, so the order executes as soon as it is placed. The agent must show the preview and get an explicit "yes" in chat before every `place_*_order` call |
 | Max per order | ≤ current buying power; default ≤ 25% of account value per position |
+| Quick-trade budget (set 2026-11-12) | **$5.00 per quick trade, no more.** Profits stay in the account as cash and are **not** reused or reinvested without the owner's explicit approval. This holds until the owner adds money or says otherwise |
 
 ## Order workflow (every order)
 
