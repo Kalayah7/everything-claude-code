@@ -1,0 +1,355 @@
+{
+  "slug": "money-on-my-mind",
+  "title": "Money on My Mind",
+  "subtitle": "A 30-day journal for when money stress follows you everywhere",
+  "label": "Guided journal: money and mental health",
+  "audience": "Adults in their twenties and thirties who feel anxious or ashamed about money and have started to avoid looking at it.",
+  "look": "serif",
+  "motif": "overlap",
+  "maxGrade": 8,
+  "partWord": "Week",
+  "palette": { "ink": "#1f2d3a", "accent": "#2c6e68", "paper": "#f3eee4", "tint": "#e4eeeb", "line": "#cdd3d6" },
+  "checkin": { "label": "Money stress right now:", "options": ["1 calm", "2", "3", "4", "5 overwhelmed"] },
+  "introTitle": "Money is never only about money",
+  "intro": [
+    "If you picked this up, money is probably taking up more room in your head than you want it to. Maybe you have stopped opening the mail. Maybe you check your balance ten times a day, or not at all. Maybe you earn enough and still feel afraid.",
+    "You are not bad with money and you are not broken. Money stress and mental health pull on each other. Worry makes it harder to look at the numbers, and not looking makes the worry grow. This journal works on both sides at once.",
+    "Each day has a short reading, two questions and one small step. Weeks 1 and 3 are mostly about your mind. Weeks 2 and 4 are mostly about your money. No step asks you to fix everything. Each one asks you to look at one thing for a few minutes.",
+    "Go at your own speed. If a page feels like too much, skip it and come back. Skipping a day is not failing. Closing the journal for good because you missed a day is the only real way to lose."
+  ],
+  "howToTitle": "Ten minutes, one page, one small step",
+  "howTo": [
+    "Pick a regular time and place. The same chair and the same cup help your body learn that this is safe.",
+    "Read the short piece at the top. Then write whatever is true, even if it is messy. Nobody grades this.",
+    "Circle your money stress number at the bottom of each page. After a few weeks you will be able to see what moves it.",
+    "Do the small step if you can. Tick the box when it is done. A ticked box is proof that you did something hard.",
+    "Use a pencil for numbers. They will change, and that is the point.",
+    "Keep this journal somewhere private. It will hold real numbers and real feelings."
+  ],
+  "beginTitle": "Where I am starting from",
+  "beginPrompts": [
+    "When I think about money, the first feeling that shows up is",
+    "The money thing I most avoid looking at is",
+    "How money stress is touching my sleep, my body or my mood right now",
+    "In 30 days, I would like to be able to say"
+  ],
+  "parts": [
+    {
+      "title": "Notice",
+      "from": 1,
+      "to": 7,
+      "pauseTitle": "A week of noticing",
+      "pause": "This week you did not change a single number. You looked at how money stress lives in you. That is real work. Read back over your pages before you answer.",
+      "pausePrompts": [
+        "The pattern I saw most clearly this week",
+        "Something I learned about where my money feelings come from",
+        "My stress numbers were highest when",
+        "One kind thing I can say to myself about all of this"
+      ]
+    },
+    {
+      "title": "Look",
+      "from": 8,
+      "to": 14,
+      "pauseTitle": "A week of looking",
+      "pause": "You looked at real numbers this week. For many people that is the hardest part of all. Whatever you found, you now know more than you did seven days ago.",
+      "pausePrompts": [
+        "What was easier to look at than I expected",
+        "What was harder, and what I felt in my body when I saw it",
+        "One fact I know now that I was guessing at before",
+        "What I want to look at next"
+      ],
+      "worksheets": [
+        {
+          "title": "My money snapshot",
+          "intro": "One month, in pencil. Use real numbers from your bank or your pay stub if you can. A good guess is fine for now.",
+          "columns": [{ "label": "What", "width": "44%" }, { "label": "Amount each month" }, { "label": "Date it happens" }],
+          "rowLabels": ["Pay or income 1", "Pay or income 2", "Other money in", "TOTAL IN", "Rent or housing", "Food", "Power, water, phone, internet", "Getting around", "Health and medicine", "Debt payments (minimums)", "Everything else", "TOTAL OUT", "IN minus OUT"]
+        },
+        {
+          "title": "Everything I owe",
+          "intro": "One line for each debt. If you do not know a number, write a question mark and find it later. Writing the list is the win.",
+          "columns": [{ "label": "Who I owe", "width": "30%" }, { "label": "How much" }, { "label": "Interest rate" }, { "label": "Minimum payment" }, { "label": "Due date" }],
+          "rows": 12
+        },
+        {
+          "title": "Seven days of spending and feeling",
+          "intro": "Write down what you spent and how you felt just before. Do not judge it. You are looking for patterns, not mistakes.",
+          "columns": [{ "label": "Day", "width": "12%" }, { "label": "What I bought" }, { "label": "Cost", "width": "14%" }, { "label": "How I felt just before" }],
+          "rows": 14
+        }
+      ]
+    },
+    {
+      "title": "Untangle",
+      "from": 15,
+      "to": 22,
+      "pauseTitle": "A week of untangling",
+      "pause": "This week was about the knots: feelings, people and old beliefs tied up with money. You do not have to undo them all. Seeing a knot clearly is how untying starts.",
+      "pausePrompts": [
+        "The belief about money I am ready to question",
+        "A feeling I often try to fix by spending, or by refusing to spend",
+        "A money talk I need to have, and with whom",
+        "What I am doing better than I give myself credit for"
+      ]
+    },
+    {
+      "title": "Steady",
+      "from": 23,
+      "to": 30,
+      "pauseTitle": "A week of getting steady",
+      "pause": "You built a few small supports this week. They do not need to be perfect. They need to still be standing next month.",
+      "pausePrompts": [
+        "The one habit from this week I most want to keep",
+        "Who is on my side now that I have asked for help, or who I will ask",
+        "What I will do the next time I want to stop looking",
+        "How my stress numbers changed from week 1 to now"
+      ],
+      "worksheets": [
+        {
+          "title": "My weekly money date",
+          "intro": "Fifteen minutes, once a week. Check your balance, look at what is due, and write one line. Then stop.",
+          "columns": [{ "label": "Date", "width": "13%" }, { "label": "Balance" }, { "label": "Due this week" }, { "label": "Stress 1 to 5", "width": "13%" }, { "label": "One thing I did well" }],
+          "rows": 12
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "The knot in your stomach",
+      "read": "Money stress is not just in your head. It shows up in the body: a tight chest when the phone buzzes, a sick feeling at the cash register, a sore jaw in the morning. Your body is reacting to a threat, the same way it would to any danger. In surveys, about two out of three adults in the United States say money is a big source of stress. You are in very large company. Today you only need to notice where the stress lives in you.",
+      "prompts": ["Where I feel money stress in my body, and what it feels like", "The last time I felt it strongly, and what set it off"],
+      "try": "The next time you feel the knot, put a hand on that spot and take three slow breaths before you do anything else."
+    },
+    {
+      "day": 2,
+      "title": "What I avoid",
+      "read": "When something scares us, we look away. The unopened envelope, the banking app you never tap, the call you let ring out. Looking away works for a moment, because the fear drops. That short relief is why the habit sticks. But the bill is still there, and now not knowing is added to it. Avoiding is not laziness. It is a normal answer to fear, and it can be unlearned one small look at a time.",
+      "prompts": ["The money things I avoid, listed honestly", "What I am afraid I will find if I look"],
+      "try": "Pick the smallest thing on your list. Do not open it yet. Just put it where you can see it."
+    },
+    {
+      "day": 3,
+      "title": "The 3 a.m. math",
+      "read": "Many people do their worst money thinking in the dark. The same sums go round and round, and nothing gets solved. This is called rumination: the mind chews on a problem without moving it forward. At night your tired brain is poor at solving and good at fearing. One thing that helps is to give worry a time and a place in the day. Write the worries down, then tell yourself you will come back to them at that time.",
+      "prompts": ["The money thoughts that loop when I cannot sleep", "Which of these I can act on this week, and which I cannot"],
+      "try": "Keep paper by your bed tonight. If the loop starts, write the worry down in one line and tell yourself: tomorrow at six."
+    },
+    {
+      "day": 4,
+      "title": "Where I learned it",
+      "read": "Nobody is born with feelings about money. We pick them up as children by watching. Maybe money was a secret in your home, or a fight, or a way to show love. Maybe there was never enough, or there was plenty and it still felt unsafe. Those early lessons turn into rules we follow without knowing it, such as never ask, never owe, or spend it before it is gone. A rule you can see is a rule you can choose to keep or change.",
+      "prompts": ["What I saw and heard about money when I was growing up", "A money rule I still follow that came from back then"],
+      "try": "Finish this line out loud: In my family, money meant..."
+    },
+    {
+      "day": 5,
+      "title": "Guilt and shame are not the same",
+      "read": "Guilt says: I did something I wish I had not. Shame says: there is something wrong with me. Guilt can be useful, because it points at one action you can change. Shame is heavier and points at your whole self. It makes people hide, and money problems grow fastest when they are hidden. Having debt, a low balance or a late bill is a fact about your account. It says nothing about your worth as a person.",
+      "prompts": ["A money choice I feel guilty about, said as a plain fact", "What shame tells me about myself, and what a good friend would say back"],
+      "try": "Write one money fact about yourself on a scrap of paper, with no judging words in it. Read it aloud once."
+    },
+    {
+      "day": 6,
+      "title": "A two-way street",
+      "read": "Money trouble can wear down your mood. It also runs the other way. When you feel low, it is harder to open mail, plan meals, compare prices or make calls. When you feel anxious, you may check everything all the time or check nothing at all. Research on debt and mental health keeps finding the two together, each one making the other worse. This means working on either side helps both. A calmer mind makes money tasks easier, and one finished money task calms the mind.",
+      "prompts": ["How my mood changes the way I handle money", "How my money situation changes my mood"],
+      "try": "Draw two arrows between the words MOOD and MONEY. Write one example from your own life next to each arrow."
+    },
+    {
+      "day": 7,
+      "title": "What okay would look like",
+      "read": "Stress often has no finish line. However much comes in, it never feels like enough, because enough was never given a shape. So give it one. Okay is not rich. Okay might be paying rent without holding your breath, or having one month of costs saved, or opening the mail the day it comes. When okay has a shape you can see how far away it is, and it is often closer than the fear says.",
+      "prompts": ["What an okay month would look like for me, in plain detail", "How I would know I was a little less stressed about money"],
+      "try": "Write your picture of okay in one sentence. Put it on the inside cover of this journal."
+    },
+    {
+      "day": 8,
+      "title": "Five minutes, one number",
+      "read": "This week you look. Start small. Today you look at one number for five minutes: the balance in the account you use most. That is all. You do not have to like it, fix it or plan around it. Fear of a number is almost always bigger than the number, because your mind fills a blank with the worst case. A real number, even a bad one, gives you something solid to stand on.",
+      "prompts": ["The number I looked at, and what I felt just before and just after", "What I had pictured, next to what was really there"],
+      "try": "Set a timer for five minutes. Look at one balance. When the timer ends, close the app and do something kind for yourself."
+    },
+    {
+      "day": 9,
+      "title": "Breathe first",
+      "read": "If your heart races when you open a bill, your body has switched on its alarm. In that state the thinking part of your brain works less well, so money tasks feel even harder. You can turn the alarm down before you start. Breathe in through your nose for a count of four. Breathe out slowly for a count of six. Do that five times. A longer out-breath tells your body the danger has passed. Then begin.",
+      "prompts": ["What my body does when I sit down to deal with money", "What helps me feel safe enough to start"],
+      "try": "Do five slow breaths, in for four and out for six, before any money task today. Write down if anything felt different."
+    },
+    {
+      "day": 10,
+      "title": "What comes in",
+      "read": "Start with the good news side of the page: money coming in. Write down every source and the amount that really lands in your account, after tax. Use the last two or three months. If your pay changes from week to week, use the lowest month as your base. Planning around your lowest month feels strict, but it means every better month brings a surprise you can enjoy rather than a shortfall you have to fear.",
+      "prompts": ["Every source of money I have, and what each brings in a month", "How steady my income is, and how that affects my stress"],
+      "try": "Fill in the top rows of the worksheet called My money snapshot at the end of this week."
+    },
+    {
+      "day": 11,
+      "title": "What must go out",
+      "read": "Some costs keep you housed, fed, well and able to work. Name these first: rent or mortgage, food, power and water, the phone, getting to work, medicine. If money is very tight, these come before everything else, even before debts with loud letters. The lender who shouts loudest is not always the one that matters most. A roof and food do. Knowing your must-pay total gives you the one number that matters most in a hard month.",
+      "prompts": ["My must-pay costs each month, listed with amounts", "Which of these I worry about most, and why"],
+      "try": "Add up your must-pay costs and write the total in big numbers. This is your survival number."
+    },
+    {
+      "day": 12,
+      "title": "Where the rest goes",
+      "read": "After the must-pay costs, where does the rest go? Most of us do not really know, and guessing makes it feel worse than it is. For the next seven days, write down what you spend and how you felt just before. You are not trying to spend less this week. You are collecting facts. Often the feeling before the purchase is more useful to know than the price.",
+      "prompts": ["What I think I spend the most on, apart from the basics", "The feelings that most often come before I spend"],
+      "try": "Start the worksheet called Seven days of spending and feeling. Write down today's spending before you go to sleep."
+    },
+    {
+      "day": 13,
+      "title": "The full list of what I owe",
+      "read": "This may be the hardest page in the journal, so go gently. Today you write down every debt: who you owe, about how much, and the rate if you know it. A pile of separate worries turns into one list with an end. People often find the total is different from the number they feared. Sometimes it is higher. Even then, you can plan around a known total, and you could never plan around a guess.",
+      "prompts": ["How I feel before I write the list", "How I feel now that it is on paper"],
+      "try": "Fill in the worksheet called Everything I owe. Put a question mark for anything you do not know yet."
+    },
+    {
+      "day": 14,
+      "title": "Facts and stories",
+      "read": "A fact is something a stranger could check: I owe $3,200 on one card. A story is what your mind adds: I am a failure, I will never get out, everyone else has this figured out. Stories feel like facts when you are stressed. You can deal with a fact. A story only weighs you down. When a money thought hurts, ask which one it is. Keep the fact, and question the story.",
+      "prompts": ["Three money facts about my life right now, with no judging words", "The story I tell about those facts, and a fairer way to tell it"],
+      "try": "Catch one harsh money thought today. Write it down, then cross out every word a stranger could not check."
+    },
+    {
+      "day": 15,
+      "title": "Spending to feel better",
+      "read": "Buying something can lift your mood for a short time. That is why a hard day so often ends with a parcel on the way. There is nothing shameful in it. It is a quick way to feel a bit of control or comfort. The trouble starts when it is your only way. The urge to buy rises, peaks and fades like a wave, often within about twenty minutes. If you wait for a day, most urges pass, and the things you truly want are still there.",
+      "prompts": ["The feelings that send me shopping, scrolling or ordering", "Other things that give me the same comfort and cost nothing"],
+      "try": "Leave one thing in your cart for 24 hours. Tomorrow, write down whether you still want it."
+    },
+    {
+      "day": 16,
+      "title": "Afraid to spend",
+      "read": "Money anxiety does not always look like overspending. For some people it looks like the opposite: putting off the dentist, wearing shoes with holes, feeling sick over buying food, even when the money is there. Holding on tight can feel safe, yet it can cost you your health and your joy. Money is a tool for living. Spending on what you truly need, and on some of what makes life good, is part of handling money well.",
+      "prompts": ["Something I need that I keep refusing to buy", "What I am afraid will happen if I spend on myself"],
+      "try": "Choose one real need you have been putting off. Write down what it costs and a date you will take care of it."
+    },
+    {
+      "day": 17,
+      "title": "The comparison trap",
+      "read": "You see your friend's trip, their new car, their dinner out. You do not see their card balance, their help from family or their own 3 a.m. worry. Online, people show what they spend and hide what they owe. Comparing your full, private picture with someone else's best public moments will always leave you feeling behind. Their life is not a measure of yours. The only fair comparison is you last year and you now.",
+      "prompts": ["Who I compare myself with, and how I feel afterwards", "One way I am better off, in money or in life, than I was a year ago"],
+      "try": "Mute or unfollow one account that leaves you feeling poor. Notice how the next few days feel."
+    },
+    {
+      "day": 18,
+      "title": "Money and the people I love",
+      "read": "Money worries get heavier when they are secret. Many people hide a debt or a purchase from a partner or from family. They are not being dishonest for its own sake. They are ashamed. But a secret keeps you alone with the problem, and it can hurt trust more than the debt itself would. You do not have to tell everything at once. One true sentence to one safe person is a start, and most people feel lighter after saying it.",
+      "prompts": ["Something about my money that nobody else knows", "The person I could tell, and what I fear they would say"],
+      "try": "Write the first sentence you would say. You do not have to say it today. Just get the words ready."
+    },
+    {
+      "day": 19,
+      "title": "Saying no",
+      "read": "Some money stress comes from other people: the group dinner you cannot afford, the relative who needs a loan again, the gift that is expected. Saying no can feel unkind, so we say yes and pay for it later, in money and in anger. A clear, warm no protects both your budget and the friendship. You can try: I can't do that this month, but I would love to see you. Could we do something that costs less?",
+      "prompts": ["A time I said yes to spending when I wanted to say no", "A kind sentence I could use next time"],
+      "try": "Say your sentence out loud three times so it is ready when you need it."
+    },
+    {
+      "day": 20,
+      "title": "When my mood drives my money",
+      "read": "Most people have a money pattern tied to mood. On low days, bills go unopened and takeaway replaces cooking. On anxious days, you might check your balance again and again. On high-energy days, big purchases can feel like great ideas. None of this makes you careless. Once you know your pattern you can put up guardrails: bills paid on their own, a waiting rule for large buys, or a trusted person who asks how you are doing.",
+      "prompts": ["What I do with money when my mood is low, and when it is high", "One guardrail that would protect me on those days"],
+      "try": "Set up one guardrail today, such as removing a saved card from one shop or app."
+    },
+    {
+      "day": 21,
+      "title": "My worth is not my net worth",
+      "read": "We live in a world that keeps score in money, so it is easy to believe your value goes up and down with your balance. It does not. A person with a great deal of money can be unkind, and a person with debts can be a loyal friend, a good parent and a hard worker. Your account measures one narrow thing: what is in it today. It cannot measure what you give to the people around you.",
+      "prompts": ["Things I am proud of that have nothing to do with money", "How I would treat myself if I truly believed my worth was not for sale"],
+      "try": "Ask someone who cares about you what they value in you. Write their answer here."
+    },
+    {
+      "day": 22,
+      "title": "What I can and cannot control",
+      "read": "Some of your money stress comes from things no budget can fix: rent going up, prices rising, a job market you did not design, a medical bill you did not choose. It is fair to be angry about those. It also helps to sort your worries into two piles: what you can act on and what you cannot. Give your energy to the first pile. The second pile is real, but worrying will not change it.",
+      "prompts": ["Money worries that are outside my control", "Money worries I can do something about, and the next small step for each"],
+      "try": "Choose one item from the pile you can control. Do the smallest possible first step before tonight."
+    },
+    {
+      "day": 23,
+      "title": "One small system",
+      "read": "Willpower runs out, most of all when you are tired or low. A system does the job when you cannot. The simplest one is an automatic payment. Set one must-pay bill to leave your account the day after you are paid. Now that bill is handled on your worst days as well as your best. Each task you automate is one less choice to make and one less thing to dread.",
+      "prompts": ["The money task I most often forget or avoid", "How I could make it happen without having to remember"],
+      "try": "Set up one automatic payment or one calendar reminder for a bill. Check first that the money will be there on that date."
+    },
+    {
+      "day": 24,
+      "title": "A cushion, however thin",
+      "read": "An emergency cushion is money set aside for a flat tyre, a vet bill or a short week at work. Its biggest gift is calm. Even a small one means the next surprise does not have to go on a card. Do not wait until you can save a lot. Five dollars a week is a real start. The amount matters less than the habit. Each time you add to it, you remind yourself that you are someone who looks after your future self.",
+      "prompts": ["The surprise cost I fear most", "A small amount I could set aside each week, and where I would keep it"],
+      "try": "Move a small amount, even one dollar, into savings or an envelope today. Give it a name."
+    },
+    {
+      "day": 25,
+      "title": "The weekly money date",
+      "read": "Dread grows in the gaps between looks. A short, regular check keeps money a normal thing, not a monster in the cupboard. Pick one time each week. Make tea or put on music. Spend fifteen minutes on three things: check your balance, see what is due in the next seven days, and write one line. Then stop. Keep it short and pleasant, so you will not mind doing it again next week.",
+      "prompts": ["The day and time that would work best for my weekly money date", "What would make those fifteen minutes feel calm, not scary"],
+      "try": "Put your first money date in your calendar. Use the worksheet at the end of this week to record it."
+    },
+    {
+      "day": 26,
+      "title": "Asking for help with money",
+      "read": "You do not have to solve this alone, and good help does not have to cost much. Nonprofit credit counselors can look at your whole picture and explain your options for free or for a small fee. Many lenders have hardship plans, but you usually have to call and ask. In most of the United States you can also dial 211 to find local help with rent, food and bills. Asking early gives you more choices.",
+      "prompts": ["The kind of money help I need most right now", "What has stopped me from asking, and what I would tell a friend in my place"],
+      "try": "Look at the help page at the back of this journal. Circle one service and write down when you will contact it."
+    },
+    {
+      "day": 27,
+      "title": "Asking for help with my mind",
+      "read": "If money worry is hurting your sleep, your appetite, your work or your hope, that deserves care of its own. A doctor or counselor has heard about money stress many times. Tell them plainly that money is part of what is going on, since it changes what help fits. Many clinics charge fees based on what you earn. If you ever feel that you cannot go on, call or text 988 right away. That is exactly what it is for.",
+      "prompts": ["How money stress is affecting my health, sleep or relationships", "Who I could talk to about my mental health, and what I would want them to know"],
+      "try": "Write down one name or number you could contact. Put it in your phone today."
+    },
+    {
+      "day": 28,
+      "title": "My bad-day plan",
+      "read": "Hard days will still come. A plan made on a calm day protects you on a rough one. Decide now what you will and will not do when you feel swamped. For example: no big money choices while upset, no shopping apps after ten at night, and one person to text. Add two things that settle you, like a walk or a shower. On a bad day you only need to follow the plan you already wrote.",
+      "prompts": ["How I can tell that a bad money day has started", "What I will do, what I will not do, and who I will contact"],
+      "try": "Write your bad-day plan on a card: three things to do, two not to do and one person. Keep it in your wallet."
+    },
+    {
+      "day": 29,
+      "title": "Progress a statement cannot show",
+      "read": "Your balance may not look very different from a month ago. That does not mean nothing changed. You opened things you used to hide from. You know your numbers. You have words for what you feel and a few tools to use. These changes come first, and the numbers follow them later. Count the progress that no bank statement can print. It is what will keep the rest going.",
+      "prompts": ["Things I do now that I could not do 30 days ago", "A moment this month when I handled money stress better than I used to"],
+      "try": "Look back at your stress numbers from week 1. Write one line about what you see."
+    },
+    {
+      "day": 30,
+      "title": "The next 30 days",
+      "read": "You do not need a perfect plan. You need two or three small habits you will really keep. Choose the ones that helped most: the weekly money date, the breath before a bill, the waiting rule, or the honest talk with someone you trust. Expect to slip, and decide now that a slip is only a pause. The habit worth protecting above the others is the one you have practised all month, which is looking.",
+      "prompts": ["The three habits I am keeping, and when I will do each one", "What I will say to myself the first time I slip"],
+      "try": "Write today's date and one promise to yourself on the last page. Come back to it in 30 days."
+    }
+  ],
+  "closingTitle": "Where I am now",
+  "closing": [
+    "Thirty days ago you started from fear, or shame, or simply being tired of it all. You have now looked at your money and at your mind, and you have seen how each one moves the other.",
+    "Nothing here was meant to make the stress vanish. It was meant to make it smaller than you are. Keep the pages. On a hard day, they are proof that you have done this before."
+  ],
+  "closingPrompts": [
+    "What has changed in how I feel about money",
+    "What has changed in what I do with money",
+    "What I want to say to the person who wrote the first page"
+  ],
+  "helpTitle": "Where to get help",
+  "help": [
+    { "name": "988 Suicide and Crisis Lifeline", "detail": "Call or text 988 in the United States, at any time, for any kind of emotional crisis. It is free. Chat is at 988lifeline.org." },
+    { "name": "Crisis Text Line", "detail": "Text HOME to 741741 in the United States to reach a trained crisis counselor by text message." },
+    { "name": "211", "detail": "Dial 211 or visit 211.org to find local help with rent, food, utility bills and other basics in most parts of the United States." },
+    { "name": "Nonprofit credit counseling", "detail": "The National Foundation for Credit Counseling (nfcc.org) lists nonprofit agencies. A first budget and debt session is usually free or low cost. Ask about all fees before you agree to anything." },
+    { "name": "Consumer Financial Protection Bureau", "detail": "consumerfinance.gov has plain guides on debt collectors, credit reports and your rights, and a place to send a complaint about a lender." },
+    { "name": "Your free credit reports", "detail": "AnnualCreditReport.com is the official site for free reports from the three main credit bureaus. You do not need to pay for a report." },
+    { "name": "Finding a counselor or clinic", "detail": "FindTreatment.gov lists mental health services near you in the United States. Ask about sliding-scale fees, which are based on what you earn. Community health centers often offer low-cost care." }
+  ],
+  "sources": [
+    "American Psychological Association, Stress in America surveys: money has ranked among the top sources of stress for adults since 2007. In 2022, 65% of adults called it a significant source of stress.",
+    "Money and Mental Health Policy Institute (UK): people with mental health problems are about three and a half times as likely to be in problem debt, and close to half of people in problem debt also have a mental health problem.",
+    "The breathing, worry-time and fact-versus-story exercises are common self-help tools drawn from cognitive behavioral therapy. They are offered as general skills, not as treatment."
+  ]
+}

@@ -48,3 +48,6 @@ examples/faith-studio/finance/*.csv
 examples/faith-studio/data/
 examples/faith-studio/products/*/dist/
 examples/faith-studio/ops/inbox/
+
+# Life journals: built PDFs are the product. Never commit them: this repo may be public.
+examples/life-journals/journals/*/dist/

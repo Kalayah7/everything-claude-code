@@ -107,6 +107,7 @@ everything-claude-code/
 |   |-- trading-*.md         # Trading agent build team (see "Trading Agent Team" below)
 |   |-- company-*.md         # AI company team (see "AI Company" below)
 |   |-- studio-*.md          # Faith studio team (see "Faith Studio" below)
+|   |-- journal-marketer.md  # Listings and a step-by-step publish guide for examples/life-journals
 |
 |-- skills/           # Workflow definitions and domain knowledge
 |   |-- coding-standards/           # Language best practices

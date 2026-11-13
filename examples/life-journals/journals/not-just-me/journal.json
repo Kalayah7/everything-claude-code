@@ -1,0 +1,332 @@
+{
+  "slug": "not-just-me",
+  "title": "Not Just Me",
+  "subtitle": "A 30-day journal for the hard parts of high school",
+  "label": "Guided journal: teen mental health",
+  "audience": "High school students dealing with pressure, friend problems, phones, family stress and worries about the future.",
+  "look": "sans",
+  "motif": "waves",
+  "maxGrade": 7,
+  "partWord": "Week",
+  "tryLabel": "Try this today",
+  "palette": { "ink": "#1d2433", "accent": "#5546b8", "paper": "#f1eefb", "tint": "#eceafa", "line": "#cfd0dc" },
+  "checkin": { "label": "Right now I feel:", "options": ["good", "okay", "tired", "stressed", "sad", "angry", "numb"] },
+  "careNote": "This journal is for thinking and writing. It is not therapy or medical care, and it cannot keep you safe by itself. If things feel too heavy, tell an adult you trust. If you are in the United States and you are thinking about hurting yourself, call or text 988 at any time. It is free and private. If you are in danger right now, call 911.",
+  "introTitle": "You are not the only one",
+  "intro": [
+    "High school can look fine from the outside and feel very different on the inside. Grades, friends, your phone, your family, your body, your future: any one of these can keep you up at night. Sometimes it is all of them at once.",
+    "Here is something most people do not say out loud. A lot of the people in your classes feel the same way. In a large national survey, 4 out of 10 high school students said they had felt sad or hopeless for weeks at a time. You are not weird, and you are not alone.",
+    "This journal will not tell you to cheer up. Each day has a short reading about one real problem, two questions to write about and one small thing to try. Writing does not fix everything. It helps you see what is going on, and that makes the next step easier to find.",
+    "There are no wrong answers and nobody reads this but you. Spelling does not matter. You can draw, write one word, or fill the page. Skip a day if you need to and come back."
+  ],
+  "howToTitle": "Ten minutes, no wrong answers",
+  "howTo": [
+    "Pick a time that works, such as before bed or after school. Ten minutes is enough.",
+    "Read the short piece at the top. Then write what is true for you. Be honest. Nobody is grading it.",
+    "Circle how you feel at the bottom of the page. After a few weeks you might see a pattern.",
+    "Try the small step if you can, and tick the box. If you cannot, that is okay too.",
+    "The weeks go in order, but you can jump to the page you need today.",
+    "Keep this somewhere private. It is yours."
+  ],
+  "beginTitle": "Where I am starting from",
+  "beginPrompts": [
+    "The hardest thing about my life right now is",
+    "Something I wish people understood about me",
+    "What I do now when things get to be too much",
+    "One thing I hope is different in 30 days"
+  ],
+  "parts": [
+    {
+      "title": "Pressure",
+      "from": 1,
+      "to": 7,
+      "pauseTitle": "A week about pressure",
+      "pause": "This week was about school, grades and the feeling that it is never enough. Read back over your pages. You do not have to fix anything you wrote.",
+      "pausePrompts": ["Where most of my pressure comes from", "Something that helped this week, even a little", "A thing I can stop being so hard on myself about", "One adult or friend I could tell about this week"]
+    },
+    {
+      "title": "People",
+      "from": 8,
+      "to": 14,
+      "pauseTitle": "A week about people",
+      "pause": "This week was about friends, fitting in, and the people who make school better or worse. Read back over your pages before you answer.",
+      "pausePrompts": ["The people I feel most like myself around", "A friendship I want to look after, and how", "Something I want to stop putting up with", "One thing I learned about the kind of friend I am"],
+      "worksheets": [
+        {
+          "title": "My people",
+          "intro": "When something is wrong, it is hard to think of who to tell. Fill this in now, while you are calm. Try to list at least two adults.",
+          "columns": [{ "label": "Who", "width": "28%" }, { "label": "How I reach them" }, { "label": "What I can talk to them about" }],
+          "rowLabels": ["An adult at home", "An adult at school", "Another adult I trust", "A friend", "Another friend", "School counselor", "Crisis line: call or text 988", "Crisis Text Line: text HOME to 741741"]
+        }
+      ]
+    },
+    {
+      "title": "Phone, body and sleep",
+      "from": 15,
+      "to": 22,
+      "pauseTitle": "A week about my phone, my body and my mind",
+      "pause": "This week was about the things that shape your mood without you noticing: your phone, your sleep, your body and your thoughts. Read back before you answer.",
+      "pausePrompts": ["What changes my mood the most, for better or worse", "One small habit I want to keep", "A thought I have learned to answer back", "What my body has been trying to tell me"],
+      "worksheets": [
+        {
+          "title": "Two weeks of sleep and mood",
+          "intro": "Fill in one line each morning. After two weeks, look for a link between how you slept and how the day felt.",
+          "columns": [{ "label": "Day", "width": "10%" }, { "label": "Phone down at" }, { "label": "Hours slept" }, { "label": "Mood 1 to 5" }, { "label": "One word for the day" }],
+          "rowLabels": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14"]
+        },
+        {
+          "title": "My calm list",
+          "intro": "Things that help you settle when you are upset. Try a few and write down the ones that work for you. Different things work for different people.",
+          "columns": [{ "label": "What I can do", "width": "40%" }, { "label": "When it helps most" }, { "label": "Did it work?" }],
+          "rowLabels": ["Slow breathing: in 4, out 6", "Name 5 things I can see", "Cold water on my face", "A walk or a run", "Music", "Texting or calling someone", "Drawing or writing", "", "", ""]
+        }
+      ]
+    },
+    {
+      "title": "Home and what is next",
+      "from": 23,
+      "to": 30,
+      "pauseTitle": "A week about home and the future",
+      "pause": "This week was about family, who you are becoming, and getting help when you need it. Read back over your pages before you answer.",
+      "pausePrompts": ["Something about home I understand better now", "What I want for my future, in my own words", "Who I will go to the next time things get heavy", "What I am proud of from these 30 days"]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Everyone else seems fine",
+      "read": "Walk down any school hallway and it looks like everyone has it together. They do not. People hide stress the same way you do, with a joke, a blank face or a phone. In a national survey, 4 out of 10 high school students said they had felt sad or hopeless for two weeks or more in the past year. That is close to half the people in the hallway. Feeling bad does not mean something is wrong with you. A lot of people are carrying heavy things, and you are one of them.",
+      "prompts": ["What I show people at school, and what I keep hidden", "How it feels to know that so many other students feel this way too"],
+      "try": "Look around one class today. Remind yourself: some of these people are having a hard time too, and I cannot tell which ones."
+    },
+    {
+      "day": 2,
+      "title": "Name it",
+      "read": "When someone asks how you are, you most likely say fine, tired or stressed. Those words are too small. Stressed can mean scared about a test, hurt by a friend, or worn out from a week of bad sleep. Each one needs a different fix. Finding the right word for a feeling can make it feel a bit less strong, and it shows you what you need. Try words like let down, left out, jealous, nervous, embarrassed, lonely or worn out.",
+      "prompts": ["Three feelings I had today, using words more exact than fine or stressed", "What each of those feelings was really about"],
+      "try": "The next time you want to say I am stressed, stop and find a more exact word, even if you only say it to yourself."
+    },
+    {
+      "day": 3,
+      "title": "You are more than a grade",
+      "read": "About 7 in 10 teens say they feel a lot of pressure to get good grades. It can come from parents, teachers, college plans or your own head. Grades do matter. They open some doors. But a grade measures how you did on one piece of work on one day. It does not measure how smart you are, how kind you are or what your life will be. Many adults with good lives had bad report cards. You can care about your grades and still know they are only one part of you.",
+      "prompts": ["Where my pressure about grades comes from", "Things that are true and good about me that no report card shows"],
+      "try": "Write one sentence that starts: Even if I fail this, I am still..."
+    },
+    {
+      "day": 4,
+      "title": "The pile",
+      "read": "Some weeks it all lands at once: two tests, an essay, practice and chores. When you look at the whole pile, your brain can freeze. Then you end up scrolling, which makes the pile worse. The way out is to stop looking at the pile and look at one piece. Write everything down so it is out of your head. Pick the one thing due first. Then find the first tiny step, like opening the document or reading one page. Starting is the hardest part, and it gets easier once you have begun.",
+      "prompts": ["Everything on my plate right now, dumped out in a list", "The one thing I will do first, and its very first small step"],
+      "try": "Set a timer for 10 minutes and work on only that first step. When it rings, you can stop or keep going."
+    },
+    {
+      "day": 5,
+      "title": "Perfect or nothing",
+      "read": "Some people feel that if a thing is not perfect, it is a failure. So an A minus hurts. One mistake in a game ruins the day. Sometimes you do not even start, because not trying feels safer than doing it badly. This is called perfectionism. It looks like having high standards, but it is really fear. Good enough is not lazy. Good enough gets the work handed in and lets you sleep. Most things in life only need your decent effort, not your best ever.",
+      "prompts": ["A time I was very hard on myself over a small mistake", "What I would say to a friend who made the same mistake"],
+      "try": "Do one thing today to a good enough level on purpose. Hand it in or leave it. Notice that nothing terrible happens."
+    },
+    {
+      "day": 6,
+      "title": "Test nerves",
+      "read": "Before a test, your heart may pound, your hands may sweat and your mind may go blank. That is your body's alarm. It is trying to help you, but it gets too loud. Feeling nervous does not mean you are not ready. You can turn the alarm down. Breathe in through your nose for 4 counts and out for 6. Do it five times. Some students also find it helps to spend a few minutes writing their worries down just before a test, to get them out of the way.",
+      "prompts": ["What happens in my body and my thoughts before a test or a game", "What I would want a kind coach to say to me in that moment"],
+      "try": "Practice the 4 in, 6 out breathing five times right now, so you know how to do it when you need it."
+    },
+    {
+      "day": 7,
+      "title": "Rest is not lazy",
+      "read": "If you feel guilty every time you stop working, read this twice. Your brain is not a machine. It learns and remembers better after a break. Rest is part of doing well. It is not a prize you get only when everything is done, because everything is never done. Real rest is something that leaves you feeling better afterwards, like a walk, music, a nap or time with a friend. Scrolling for an hour often does not do that. Notice what truly fills you back up.",
+      "prompts": ["How I feel when I take a break, and where that feeling comes from", "Things that leave me feeling rested, next to things that only pass the time"],
+      "try": "Take one 20 minute break today with no homework and no guilt. Choose something from your rested list."
+    },
+    {
+      "day": 8,
+      "title": "Fitting in or belonging",
+      "read": "Fitting in means changing yourself so a group will accept you. You laugh at jokes you do not find funny. You hide the music you like. Belonging is different. It means being accepted as you are. Fitting in is tiring because you can never relax. Most people do some of both in high school, and that is normal. It helps to notice which is which. The people you can be quiet, weird or sad around are the ones you belong with. Even one person like that is enough.",
+      "prompts": ["Ways I change myself to fit in", "The people or places where I do not have to pretend"],
+      "try": "Spend a few minutes today with someone you can be yourself around, in person or by message."
+    },
+    {
+      "day": 9,
+      "title": "Friend drama",
+      "read": "A friend leaves you on read. Two people stop talking when you walk up. Your mind fills in the rest: they hate me, they were talking about me. Most drama grows in the gap between what happened and what we guess. What you saw is a fact. What it means is a guess, and guesses made when we are hurt tend to be the worst ones. Before you react, ask yourself what you really know. Then, if it matters, ask the person calmly and in private. Do it face to face if you can, not in a group chat.",
+      "prompts": ["A problem with a friend right now, split into what I know and what I am guessing", "What I could say to them, starting with I felt, not You always"],
+      "try": "Before you reply to a message that upsets you, wait ten minutes. Then decide what to say."
+    },
+    {
+      "day": 10,
+      "title": "When a friendship changes",
+      "read": "Sometimes a friendship does not end with a fight. It just fades. You get new classes, new teams or new interests, and one day you see that you do not talk any more. This hurts, and it is one of the most common things in high school. People change fast at your age. Growing apart does not mean the friendship was fake or that either of you did something wrong. You can miss someone and still let them go. You can also reach out once more if you want to.",
+      "prompts": ["A friendship that has changed or ended, and how I feel about it", "What that friendship gave me that I want to keep"],
+      "try": "If there is someone you miss, send one simple message such as Hey, I was thinking about you. If not, write what you would say."
+    },
+    {
+      "day": 11,
+      "title": "Lonely in a crowded hallway",
+      "read": "You can be around people all day and still feel alone. Loneliness is not about how many people are near you. It is about feeling that no one really knows you. It does not mean you are unlikeable. Nearly everyone feels it at some point, even the people who look popular. It eases through small, repeated contact, like sitting near the same person, joining one club or saying one real thing to someone. You do not need a big friend group. One or two real connections make a big difference.",
+      "prompts": ["When I feel most alone, and what I tell myself about why", "One person I would like to know better, and a small way to start"],
+      "try": "Say one real thing to someone today. It can be small, like a comment about class or a question about their day."
+    },
+    {
+      "day": 12,
+      "title": "Bullying is not your fault",
+      "read": "About 1 in 5 high school students say they were bullied at school in the past year. Bullying means being hurt, left out or made fun of again and again by someone who has more power in that moment. If it is happening to you, it is not because of something wrong with you. It is about the person doing it. You do not have to handle it alone or just take it. Telling an adult is not snitching. It is how bullying gets stopped. Keep telling until someone acts.",
+      "prompts": ["A time I was bullied, left out, or saw it happen to someone else", "The adult I could tell, and what I would want them to do"],
+      "try": "Write down the name of one adult at school you would go to. If bullying is happening now, tell them this week."
+    },
+    {
+      "day": 13,
+      "title": "Crushes, dating and pressure",
+      "read": "Liking someone can feel huge. So can being rejected, going through a breakup, or feeling like everyone is dating except you. All of that is normal. There is no deadline for dating. A good relationship makes you feel safe and more like yourself. In a bad one you feel watched, scared or small. You never owe anyone a photo, a reply, your time or your body. You can say no and you can change your mind. Someone who truly cares about you will respect that.",
+      "prompts": ["How I feel about dating and crushes right now, said honestly", "How I want to be treated by someone who likes me"],
+      "try": "Finish this sentence in writing: In any relationship, I will not accept..."
+    },
+    {
+      "day": 14,
+      "title": "Saying no and still being liked",
+      "read": "At some point someone will offer you a vape, a drink or a dare, or ask you to join in on something that feels wrong. Saying no is hard because you want to belong. It helps to plan your words ahead, so you are not trying to think under pressure. Short is best: No thanks, I am good. You do not have to explain. You can blame a parent, a coach or a test. Real friends may tease you for a moment and then move on. If people drop you for saying no, they were not treating you as a friend.",
+      "prompts": ["A time I went along with something I did not want to do, and how it felt after", "My go-to line for saying no, and my excuse if I need one"],
+      "try": "Say your line out loud three times. It sounds silly, but it makes it easier to use for real."
+    },
+    {
+      "day": 15,
+      "title": "The highlight reel",
+      "read": "People post their best moments online, like the party, the good photo or the win. They do not post the fight with their mom, the test they failed or the night they cried. When you scroll, you compare your whole real life with everyone else's best bits. You will lose that game every time, and so will they when they look at your page. Almost half of teens say social media has a mostly bad effect on people their age. What you see online is real, but it leaves most of life out.",
+      "prompts": ["Accounts or people that leave me feeling worse about my own life", "What my own posts leave out"],
+      "try": "Mute or unfollow one account that makes you feel bad. You can undo it later if you want."
+    },
+    {
+      "day": 16,
+      "title": "My phone and my mood",
+      "read": "Your phone is not all bad. It is how you talk to friends, laugh and find people like you. It is also built to keep you scrolling for as long as it can. Nearly half of teens say they spend too much time on social media. You do not need to quit. Pay attention to how you feel after you use it, not only while you use it. Some apps leave you feeling connected. Others leave you feeling empty or anxious. You can use more of the first kind and less of the second.",
+      "prompts": ["How I usually feel after 30 minutes on my most used app", "What I would do with one extra hour a day if I got it back"],
+      "try": "Check your screen time for yesterday. Write the number here. Do not judge it."
+    },
+    {
+      "day": 17,
+      "title": "Mean stuff online",
+      "read": "Getting picked on online can feel worse than in person, because it follows you home and other people can see it. About 1 in 6 high school students say it has happened to them in the past year. If it happens to you, do not reply, because a reply gives them what they want. Take screenshots so you have proof. Block and report the account. Then tell an adult, even if you worry they will take your phone. You can say that fear out loud to them. You should not have to face this alone.",
+      "prompts": ["Something hurtful I have seen or received online, and how I handled it", "What I would do differently, or what I would tell a friend to do"],
+      "try": "Find the block and report buttons on the app you use most, so you know where they are."
+    },
+    {
+      "day": 18,
+      "title": "The body I live in",
+      "read": "In high school, bodies change at different speeds and in different ways. At the same time, you see thousands of edited and filtered pictures. It is no wonder so many teens feel bad about how they look. Most of what you see online is not what people look like in real life. Your body is not a project to fix so other people will approve. It lets you walk, laugh, hug, play and rest. If thoughts about food or your body are taking over your day, please tell an adult you trust.",
+      "prompts": ["What I say to myself about my body, and where I learned to talk that way", "Things my body lets me do that I am thankful for"],
+      "try": "Each time you catch a harsh thought about your looks today, add one thing your body did for you."
+    },
+    {
+      "day": 19,
+      "title": "Sleep is not optional",
+      "read": "Sleep doctors say teens need 8 to 10 hours of sleep a night. About 3 out of 4 high school students get less than 8. When you are short on sleep, everything is harder. You feel more sad, more anxious and more easily annoyed, and it is harder to learn. Your body clock also shifts later in the teen years, so early school starts are truly rough. One change helps a lot. Put your phone out of reach 30 minutes before bed, and try to go to bed at about the same time each night.",
+      "prompts": ["What time I really fall asleep, and what keeps me up", "How I feel and act on days after a bad night"],
+      "try": "Tonight, charge your phone across the room. Start the sleep and mood worksheet at the end of this week."
+    },
+    {
+      "day": 20,
+      "title": "Move, eat, go outside",
+      "read": "This can sound like something a gym teacher would say, but it is true. Your mood lives in your body. When you skip meals, sit all day and stay indoors, your mind feels worse. You do not need a workout plan. A ten minute walk can lift your mood for a while. Eating real food at regular times keeps your energy steady. Daylight in the morning helps you sleep at night. These things will not solve a serious problem, but they make most problems easier to carry.",
+      "prompts": ["How I feel after I move my body, compared with after a day of sitting", "One small change to how I eat, move or get outside that I could really do"],
+      "try": "Go outside for ten minutes today without headphones. Notice three things you see or hear."
+    },
+    {
+      "day": 21,
+      "title": "Big feelings, fast",
+      "read": "Sometimes anger or hurt shows up so fast that you have said or sent something before you can think. That is how a teen brain works. The feeling part reacts quickly and the part that plans is still growing. You are not a bad person. Anger often covers another feeling, like being embarrassed, hurt or scared. Do not try to stop feeling. Try to put a small gap between the feeling and what you do. Leave the room, splash cold water on your face or count your breaths. The strongest part of the feeling passes quickly.",
+      "prompts": ["The last time I blew up or shut down, and what was under the anger", "What I can do in the first minute to give myself a gap"],
+      "try": "Pick your gap move, such as leaving the room, cold water or ten breaths. Write it on your hand or in your notes."
+    },
+    {
+      "day": 22,
+      "title": "Worry loops",
+      "read": "Worry likes to ask what if. What if I fail, what if they laugh, what if it all goes wrong. Each what if brings another, and soon you are living in a bad future that has not happened. Some worry is useful because it gets you to study or prepare. A loop is worry that goes round and round and gets you nowhere. To step out of it, come back to what is true now. Ask yourself what you know for sure, and what one thing you can do about it today. Then do that thing.",
+      "prompts": ["My most common what if worries", "For one of them: what I know for sure, and one thing I can do"],
+      "try": "When a loop starts today, name five things you can see and four you can touch. It brings your mind back to now."
+    },
+    {
+      "day": 23,
+      "title": "Home stuff",
+      "read": "Home is not calm for everyone. Parents fight, split up, lose jobs, get sick, or drink too much. Money can be tight. You might be looking after younger kids or keeping secrets for the family. If home is hard, school gets harder too, and people may not know why. The problems of the adults in your life are not your fault, and they are not yours to fix. You are allowed to be a kid. If home does not feel safe, tell a school counselor or another adult you trust.",
+      "prompts": ["What is hard at home right now", "What I carry that is really an adult's job"],
+      "try": "Write this down and read it back: It is not my job to fix the adults in my life."
+    },
+    {
+      "day": 24,
+      "title": "What they want and what I want",
+      "read": "The adults in your life have hopes for you. They might want good grades, a certain college, a sport or a career. Most of the time those hopes come from love or from their own fears. They can still feel like a weight, most of all when what they want is not what you want. You do not need to decide your whole life this year. You can start to notice which goals are truly yours. A calm talk that starts with I want you to understand something often goes better than you expect.",
+      "prompts": ["What the adults in my life expect from me", "Which of those I want too, and which I do not"],
+      "try": "Write the first two sentences of what you would say to a parent or guardian about one of these. Keep it for when you are ready."
+    },
+    {
+      "day": 25,
+      "title": "Who am I, anyway",
+      "read": "High school is when most people start asking who they are. What do I like? What do I believe? Who am I drawn to? Where do I fit, with my family, my culture and my friends? Not knowing can feel scary, as if everyone else got a guide and you did not. They did not get one either. Working out who you are takes years, and you are allowed to change your mind along the way. You do not have to pick a label or explain yourself to anyone before you are ready.",
+      "prompts": ["Things I know are true about me, even if no one else knows them", "Questions about myself that I am still working out"],
+      "try": "List five things you like that have nothing to do with what your friends like."
+    },
+    {
+      "day": 26,
+      "title": "What are you doing after high school?",
+      "read": "Adults love this question, and it can make your stomach drop. Some people have a plan and many do not. There are a lot of good paths, such as a four year college, community college, a trade, the military, a job or a gap year. People switch paths all the time. Most adults are not doing what they planned at 17. You do not need the whole map. You only need the next step. That might be one class, one talk with a counselor or one thing you want to try.",
+      "prompts": ["How I feel when people ask about my future", "Things I am curious about, even if they do not look like a career yet"],
+      "try": "Ask one adult how they ended up in their job. Most of the stories are less planned than you would think."
+    },
+    {
+      "day": 27,
+      "title": "When it is more than a bad day",
+      "read": "Everyone has bad days. Sometimes it is more than that. Signs to take seriously include feeling sad, empty or hopeless most days for two weeks or more. So are losing interest in things you used to like, big changes in sleep or eating, and feeling like a burden. If you have thoughts of hurting yourself or of not being alive, take that seriously too. These signs do not mean you are weak or broken. They mean you need more help than a journal can give. Help does work. Tell an adult today. You can also call or text 988 at any time.",
+      "prompts": ["How I have really been doing over the last two weeks", "If I needed more help, the person I would tell first"],
+      "try": "Save 988 in your phone contacts right now, for you or for a friend."
+    },
+    {
+      "day": 28,
+      "title": "How to ask for help",
+      "read": "Asking for help is hard, mostly because you do not know how to start. Here is a line you can use: I have been having a hard time and I do not know what to do. Can I talk to you? You do not need to explain it all or have the right words. You can write it in a note or a text if saying it is too much. If the first adult does not listen, try another one. A school counselor is a good place to start, because this is part of their job.",
+      "prompts": ["What makes it hard for me to ask for help", "The words I would use, written out"],
+      "try": "Fill in the My people page in this journal if you have not yet. Check that it has at least two adults."
+    },
+    {
+      "day": 29,
+      "title": "Being there for a friend",
+      "read": "Sometimes a friend is the one who is struggling. You do not have to fix it or say the perfect thing. Listen. Say things like That sounds really hard, and I am glad you told me. Do not turn it into a story about you. One rule matters more than any other. If a friend says they want to hurt themselves or someone else, do not keep it secret, even if they ask you to. Tell an adult. Your friend may be angry with you for a while, but their safety matters more than the secret.",
+      "prompts": ["A time someone was really there for me, and what they did", "A friend I am worried about, and what I could say or do"],
+      "try": "Check in with one friend today. Ask: How are you really doing? Then just listen."
+    },
+    {
+      "day": 30,
+      "title": "What I know now",
+      "read": "Thirty days ago you started writing about things most people keep inside. That took courage. Your problems may not be gone. You do have more words for what you feel now, and a few tools to use. You know who you can go to, and you know you are far from the only one. High school does not last for ever, even when it feels like it will. Keep this journal. On a hard day, flip back through it and see how much you have already made it through.",
+      "prompts": ["What I understand about myself now that I did not a month ago", "The tools and people I will lean on when things get hard again"],
+      "try": "Write a short note to yourself to read in six months. Fold it into the back of this journal."
+    }
+  ],
+  "closingTitle": "After the last page",
+  "closing": [
+    "You wrote about pressure, people, your phone, your body, your home and your future. That is a lot to look at, and you looked at it honestly.",
+    "Hard days will still come. When they do, you have these pages, your calm list and your people. Keep writing if it helps. Any notebook will do."
+  ],
+  "closingPrompts": [
+    "The page that helped me the most, and why",
+    "What I want to keep doing",
+    "What I would tell another student who is where I was 30 days ago"
+  ],
+  "helpTitle": "Where to get help",
+  "help": [
+    { "name": "988 Suicide and Crisis Lifeline", "detail": "Call or text 988 in the United States, any time, day or night. It is free and private. You can call about yourself or about a friend. Chat is at 988lifeline.org." },
+    { "name": "Crisis Text Line", "detail": "Text HOME to 741741 in the United States to text with a trained crisis counselor. Good if you do not want to talk out loud." },
+    { "name": "If you are in danger right now", "detail": "Call 911, or go to the nearest adult you trust." },
+    { "name": "Your school counselor", "detail": "Counselors help with stress, friends, bullying, family problems and plans after high school. You can stop by, send an email or ask a teacher to set it up." },
+    { "name": "An adult you trust", "detail": "A parent, a relative, a teacher, a coach, a nurse or a faith leader. If the first person does not listen, tell another." },
+    { "name": "Bullying", "detail": "StopBullying.gov explains what to do about bullying and online bullying, for students and for parents." },
+    { "name": "Your doctor", "detail": "You can tell your doctor or school nurse how you have been feeling. Low mood, worry and sleep problems are health matters, and they hear about them every day." }
+  ],
+  "sources": [
+    "Centers for Disease Control and Prevention, Youth Risk Behavior Survey 2023: about 40% of high school students felt sad or hopeless for two weeks or more, about 19% were bullied at school, about 16% were bullied online, and about 3 in 4 slept less than 8 hours on school nights.",
+    "Pew Research Center, 2025 surveys of teens aged 13 to 17: 68% feel a great deal or a fair amount of pressure to get good grades, 48% say social media has a mostly negative effect on people their age, and 45% say they spend too much time on it.",
+    "American Academy of Sleep Medicine: teenagers aged 13 to 18 should sleep 8 to 10 hours a night.",
+    "Studies of expressive writing with teenagers find small but real benefits on average, and some find that writing about worries before a test can ease test nerves. Writing helps some people more than others."
+  ]
+}

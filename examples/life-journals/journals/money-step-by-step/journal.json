@@ -1,0 +1,401 @@
+{
+  "slug": "money-step-by-step",
+  "title": "Money, Step by Step",
+  "subtitle": "A financial literacy journal for four stages of life: high school, college, your first year out, and getting out of debt",
+  "label": "Guided journal: financial literacy",
+  "audience": "High school students, college students, new graduates and anyone working their way out of debt. Start at the step you are on.",
+  "look": "sans",
+  "motif": "steps",
+  "maxGrade": 8,
+  "partWord": "Step",
+  "tryLabel": "Do this today",
+  "palette": { "ink": "#14213d", "accent": "#b3541e", "paper": "#f6f1e7", "tint": "#f7ebe1", "line": "#cfd2d9" },
+  "introTitle": "Nobody is born knowing this",
+  "intro": [
+    "Most people are never taught how money works. They find out by making mistakes, often expensive ones. If you feel behind, you are in the same place as nearly everyone else.",
+    "This journal has four steps, one for each stage where money questions hit hardest: high school, college, the first year after graduation, and the climb out of debt. Each step has seven short lessons, each with one key word to learn, two questions to write about and one thing to do.",
+    "Start at the step that matches your life today. You can go back to an earlier step if you missed those lessons, or read ahead to see what is coming. If you are in debt, you can go straight to Step 4. Everything there stands on its own.",
+    "The writing matters as much as the reading. A fact you read stays in your head for a day. A plan you write down in your own words, with your own numbers, tends to stick."
+  ],
+  "howToTitle": "One lesson, one word, one action",
+  "howTo": [
+    "Find your step. Step 1 is for high school. Step 2 is for college. Step 3 is for your first year after graduating. Step 4 is for paying off debt.",
+    "Do one lesson a day, or one a week. Slow and finished is better than fast and dropped.",
+    "Learn the key word in the shaded box. By the end of a step you will know seven words that many adults cannot explain.",
+    "Use your real numbers in the worksheets, in pencil. Made-up numbers teach you very little.",
+    "Tick the box when you have done the action. Each one is small on purpose.",
+    "The examples use round numbers to show how things work. Your own rates and prices will be different, so look yours up."
+  ],
+  "beginTitle": "Where I am starting from",
+  "beginPrompts": [
+    "The step I am starting on, and why",
+    "What I already know about money, and who taught me",
+    "The money question I most want answered",
+    "One thing I want to be true about my money a year from now"
+  ],
+  "parts": [
+    {
+      "title": "High school: first dollars",
+      "from": 1,
+      "to": 7,
+      "opener": {
+        "who": "For you if: you are in high school, you have your first job or allowance, or you are starting to think about what comes after.",
+        "text": "You do not need much money to start learning how it works. The habits you build with your first $50 are the same ones you will use with your first $50,000. In this step you will learn to:",
+        "learn": ["Tell a need from a want", "Read a pay stub", "Choose a bank account", "See how money grows over time", "Save for a goal", "Understand what borrowing costs", "Start planning how to pay for what comes next"]
+      },
+      "pauseTitle": "Seven words I now own",
+      "pause": "Needs and wants, net pay, interest, compound interest, pay yourself first, APR, FAFSA. Plenty of adults cannot explain all seven. Look back over the step before you answer.",
+      "pausePrompts": ["The lesson that surprised me most", "One money habit I want to start now, while the amounts are small", "A question I still have, and who I could ask"],
+      "worksheets": [
+        {
+          "title": "My first budget",
+          "intro": "A budget is a plan for your money before you spend it. Fill this in for one month. Money in should be equal to or more than money out.",
+          "columns": [{ "label": "What", "width": "46%" }, { "label": "My plan" }, { "label": "What really happened" }],
+          "rowLabels": ["Job (take-home pay)", "Allowance or gifts", "Other money in", "TOTAL IN", "Savings (pay yourself first)", "Phone", "Food and snacks", "Gas or transport", "Clothes", "Fun and going out", "Other", "TOTAL OUT", "IN minus OUT"]
+        },
+        {
+          "title": "My savings goal",
+          "intro": "Write your goal and its price at the top. Add a line each time you put money in. Watching the total grow is what keeps you going.",
+          "columns": [{ "label": "Date", "width": "18%" }, { "label": "Amount added" }, { "label": "Total so far" }, { "label": "Still to go" }],
+          "rows": 14,
+          "note": "My goal: ______________________   It costs: $________   I want it by: ____________"
+        }
+      ]
+    },
+    {
+      "title": "College: on your own",
+      "from": 8,
+      "to": 14,
+      "opener": {
+        "who": "For you if: you are in college or a training program, or about to start, and you are handling money without a parent watching for the first time.",
+        "text": "College is where many people first meet loans, credit cards and rent, all in the same year. A few careful choices now can save you years of payments later. In this step you will learn to:",
+        "learn": ["Make money that arrives once last a whole term", "Know exactly what you have borrowed", "Use a first credit card without getting hurt", "Find the small leaks in your spending", "Cut the big costs: books, rent and food", "Weigh work against study time", "Spot scams aimed at students"]
+      },
+      "pauseTitle": "Halfway up",
+      "pause": "You now know more about loans and credit than most people do when they sign for them. Look back over the step before you answer.",
+      "pausePrompts": ["The total I have borrowed so far, and how I feel seeing it written down", "One cost I can cut this term without making life worse", "What I will do differently with money next term"],
+      "worksheets": [
+        {
+          "title": "My term budget",
+          "intro": "Add up all the money for the whole term, then divide by the number of months. That monthly number is what you really have to live on.",
+          "columns": [{ "label": "What", "width": "46%" }, { "label": "Whole term" }, { "label": "Per month" }],
+          "rowLabels": ["Aid left after tuition and fees", "Job or work-study", "Help from family", "Savings I will use", "TOTAL IN", "Rent and utilities", "Food", "Books and supplies", "Phone and internet", "Transport", "Fun and everything else", "TOTAL OUT", "IN minus OUT"]
+        },
+        {
+          "title": "My loan log",
+          "intro": "One line for each loan, each year. Find the details by logging in at studentaid.gov, and ask any private lender for theirs.",
+          "columns": [{ "label": "Loan and year", "width": "26%" }, { "label": "Type" }, { "label": "Amount" }, { "label": "Interest rate" }, { "label": "Who I pay" }],
+          "rows": 12,
+          "note": "Total borrowed so far: $____________   Date I checked: ____________"
+        }
+      ]
+    },
+    {
+      "title": "Just graduated: the first real paycheck",
+      "from": 15,
+      "to": 21,
+      "opener": {
+        "who": "For you if: you finished school in the last year or two and you are starting work, looking for work, or facing your first loan payments.",
+        "text": "The first year out sets patterns that can last for decades. Your pay may be bigger than anything you have had before, and so are your bills. In this step you will learn to:",
+        "learn": ["Read a job offer and a pay stub", "Build a budget for adult life", "Get ready for student loan payments", "Start an emergency fund", "Collect the free money your employer offers", "Choose insurance without overpaying", "Keep your costs from rising as fast as your pay"]
+      },
+      "pauseTitle": "Standing on your own",
+      "pause": "You have a budget, a plan for your loans and the start of a safety net. Look back over the step before you answer.",
+      "pausePrompts": ["What my take-home pay really covers, and what it does not", "The date my loan payments start, and my plan for them", "One thing I am doing now that my future self will thank me for"],
+      "worksheets": [
+        {
+          "title": "My first-job budget",
+          "intro": "Start with your take-home pay for one month. The 50/30/20 split is a starting guide. If rent is high where you live, your needs may take more than half, so adjust the rest to fit.",
+          "columns": [{ "label": "What", "width": "46%" }, { "label": "Guide" }, { "label": "My real number" }],
+          "rowLabels": ["Take-home pay each month", "NEEDS (about 50%)", "Rent and utilities", "Food at home", "Transport", "Insurance", "Minimum loan payments", "WANTS (about 30%)", "Eating out and fun", "Subscriptions and shopping", "SAVINGS AND EXTRA DEBT (about 20%)", "Emergency fund", "Retirement", "Extra loan payments"]
+        },
+        {
+          "title": "My bills calendar",
+          "intro": "List every bill and the day it is due. Setting each one to pay automatically, just after payday, saves you late fees.",
+          "columns": [{ "label": "Bill", "width": "30%" }, { "label": "Amount" }, { "label": "Due date" }, { "label": "Paid from" }, { "label": "Automatic?" }],
+          "rows": 12
+        }
+      ]
+    },
+    {
+      "title": "In debt: the way out",
+      "from": 22,
+      "to": 28,
+      "opener": {
+        "who": "For you if: you owe money on cards, loans or bills at any age, and it feels heavy or stuck.",
+        "text": "Debt is common, and it is a math problem with known answers. It says nothing about what kind of person you are. People get out of it every day by following a few plain steps in order. In this step you will learn to:",
+        "learn": ["List everything you owe", "See what interest is really costing you", "Stop the debt from growing", "Pick a payoff order and stick to it", "Ask lenders and counselors for help", "Check your credit report and know your rights", "Plan for life after the last payment"]
+      },
+      "pauseTitle": "A plan with an end date",
+      "pause": "You know what you owe, what it costs and the order you will pay it in. That is more than most people in debt ever write down. Look back over the step before you answer.",
+      "pausePrompts": ["My total debt today, and the first one I am paying off", "The call I made or will make, and what I will ask for", "How I will mark each debt I finish"],
+      "worksheets": [
+        {
+          "title": "My debt list",
+          "intro": "Every debt, one per line. Then number them in the order you will pay them off. Pay the minimum on all of them, and put every spare dollar on number 1.",
+          "columns": [{ "label": "Who I owe", "width": "26%" }, { "label": "Balance" }, { "label": "Interest rate" }, { "label": "Minimum" }, { "label": "Payoff order" }],
+          "rows": 12,
+          "note": "Total owed: $____________   Total minimums each month: $____________"
+        },
+        {
+          "title": "My payoff tracker",
+          "intro": "Once a month, write down each balance. Some months it will drop a lot and some months only a little. A drop of any size counts.",
+          "columns": [{ "label": "Month", "width": "16%" }, { "label": "Debt 1" }, { "label": "Debt 2" }, { "label": "Debt 3" }, { "label": "Total owed" }],
+          "rows": 14
+        }
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Needs, wants and the space between",
+      "read": "A need keeps you safe and well: food, a place to live, a way to get to school or work. A want makes life more fun: new shoes when the old ones still fit, a game, takeout. Wants are not bad. The skill is knowing which is which before you pay, so the needs are covered first. Many things sit in between. You need a phone, but you do not need the newest one. Asking which part is the need is a habit you will use all your life.",
+      "term": { "word": "Needs and wants", "meaning": "A need is something you must have to live and work. A want is something you would like to have. Pay for needs first." },
+      "prompts": ["The last five things I spent money on, marked N for need or W for want", "A want I bought that I am glad about, and one I regret"],
+      "try": "Before you buy anything today, ask: need or want? Buy it anyway if you choose to. Just ask first."
+    },
+    {
+      "day": 2,
+      "title": "Your first paycheck",
+      "read": "Say you work ten hours at $15 an hour. You expect $150, and the check says about $130. Where did the rest go? Taxes and other amounts come out before you are paid. The full amount you earned is called gross pay. What lands in your account is called net pay, or take-home pay. Your pay stub lists each amount taken out. Always plan with your net pay, because that is the money you can really spend.",
+      "term": { "word": "Net pay", "meaning": "The money you take home after taxes and other amounts are taken out of your paycheck. Gross pay is the amount before anything is taken out." },
+      "prompts": ["What I earn, or would like to earn, and what I would do with it", "What surprised me about the difference between gross pay and net pay"],
+      "try": "If you have a job, find your last pay stub and circle the gross pay and the net pay. If not, ask an adult to show you theirs with the numbers covered."
+    },
+    {
+      "day": 3,
+      "title": "A safe place to keep it",
+      "read": "Cash in a drawer can be lost or spent without a trace. A bank or credit union keeps it safe. A checking account is for money you spend, often with a debit card. A savings account is for money you are keeping, and it pays you a little extra, called interest. If you are under 18 you will usually need an adult on the account with you. Look for an account with no monthly fee and no minimum balance. Many banks have one for students.",
+      "term": { "word": "Interest", "meaning": "Money paid for the use of money. A bank pays you interest on your savings. You pay interest when you borrow." },
+      "prompts": ["Where I keep my money now, and how well that is working", "What I would want from a bank account: no fees, an app, a branch nearby"],
+      "try": "Look up one student or teen account at a bank or credit union near you. Write down its monthly fee and its savings interest rate."
+    },
+    {
+      "day": 4,
+      "title": "Money that grows by itself",
+      "read": "When your savings earn interest, that interest gets added to your total. Next time, you earn interest on the bigger total. This is called compound interest, and time is what gives it power. Here is an example. Put $1,000 away once and never add to it. If it grew by 7% each year, it would be about $1,967 after 10 years and about $14,974 after 40 years. Real growth is never that even, and some years it falls. Still, the money you save while young has the longest time to grow.",
+      "term": { "word": "Compound interest", "meaning": "Earning interest on your interest. Each time, the growth is worked out on a bigger amount, so the total rises faster and faster." },
+      "prompts": ["Something I want that is years away, such as a car, college or a place of my own", "How I feel about saving for something I cannot have yet"],
+      "try": "Search for a compound interest calculator online. Type in $25 a month for 10 years and see what it shows."
+    },
+    {
+      "day": 5,
+      "title": "Saving for something real",
+      "read": "Saving works much better when it has a name and a number. I should save more is a wish. I want $240 for concert tickets by June is a goal. Divide the price by the number of weeks you have. $240 over 12 weeks is $20 a week. Now you can see what it takes. The best trick is to pay yourself first. Move the money into savings the day you are paid, before you spend anything.",
+      "term": { "word": "Pay yourself first", "meaning": "Putting money into savings as soon as you are paid, before spending on anything else." },
+      "prompts": ["One thing I want to save for, what it costs and when I want it", "How much I would need to save each week, and where that money could come from"],
+      "try": "Fill in the top line of the worksheet called My savings goal. Put in your first amount, even if it is $1."
+    },
+    {
+      "day": 6,
+      "title": "Borrowing has a price",
+      "read": "Credit means using someone else's money now and paying it back later. It is almost never free. The price is interest, shown as a yearly rate called APR. A higher APR means borrowing costs more. A credit card with a 24% APR is very expensive money if you do not pay the bill in full. Borrowing is sometimes the right choice, such as for school or a car you need for work. Find out the full cost before you agree to it.",
+      "term": { "word": "APR", "meaning": "Annual percentage rate. The yearly cost of borrowing money, shown as a percent. The higher the APR, the more you pay." },
+      "prompts": ["Something my family or I have borrowed money for", "What I would want to know before I borrowed money for anything"],
+      "try": "Find an advert for a car loan, a phone payment plan or a credit card. Look for the APR. It is often in small print."
+    },
+    {
+      "day": 7,
+      "title": "Paying for what comes next",
+      "read": "College, trade school and training programs all cost money, but the price on the website is rarely what you pay. Grants and scholarships are free money that you do not pay back. Loans must be paid back with interest. In the United States, most aid starts with one free form, the FAFSA, at studentaid.gov. Fill it in even if you think you will not qualify. Then compare what each school will cost you after grants. That figure is called the net price.",
+      "term": { "word": "FAFSA", "meaning": "The Free Application for Federal Student Aid. A free form that schools in the United States use to decide what grants, loans and work-study you can get." },
+      "prompts": ["What I might want to do after high school, and what I know about its cost", "Who could help me with forms and deadlines: a counselor, a teacher or a family member"],
+      "try": "Ask your school counselor one question about paying for life after high school. Write the answer here."
+    },
+    {
+      "day": 8,
+      "title": "Making a lump of money last",
+      "read": "In college, money often arrives in big chunks: an aid refund, summer savings or a check from family. It looks like a lot in week one, yet it has to last for months. The fix is simple. Add up everything you will have for the term. Take away what you owe for the whole term, such as rent. Divide the rest by the number of weeks. That weekly number is your real spending money.",
+      "term": { "word": "Budget", "meaning": "A plan for your money made before you spend it. It lists what will come in and what will go out." },
+      "prompts": ["All the money I expect this term, and when each part arrives", "What I usually run short of money for near the end of term"],
+      "try": "Work out your weekly spending number for this term. Write it on a note where you will see it."
+    },
+    {
+      "day": 9,
+      "title": "Know your loans",
+      "read": "Many students sign for loans each year and never add them up. Be the one who knows. Federal loans come in two main kinds. With a subsidized loan, the government pays the interest while you are in school at least half-time. With an unsubsidized loan, interest starts adding up from day one. You can turn down part of a loan. Borrow what you need for school costs, not the most you are offered. Each $1,000 you borrow has to be paid back with interest.",
+      "term": { "word": "Subsidized loan", "meaning": "A federal student loan, based on need, on which the government pays the interest while you are in school at least half-time." },
+      "prompts": ["What I know, and do not know, about the loans I have", "How I decide how much to borrow each year"],
+      "try": "Log in at studentaid.gov and find the total you have borrowed. Start the worksheet called My loan log."
+    },
+    {
+      "day": 10,
+      "title": "Your first credit card",
+      "read": "A credit card can help you or hurt you. Used well, it builds your credit score, which lenders and landlords check later. The rules are short. Charge only what you could pay in cash today. Pay the full statement balance every month, on time, and you pay no interest. Try to use less than about a third of your limit. If you cannot pay the bill in full, stop using the card until you can. One card is plenty.",
+      "term": { "word": "Credit score", "meaning": "A number that shows how well you have handled borrowed money. Paying on time, every time, helps it the most." },
+      "prompts": ["How I feel about credit cards, and where that feeling comes from", "My own rules for using a card"],
+      "try": "If you have a card, set the full statement balance to be paid automatically. If you do not, write your rules down for the day you get one."
+    },
+    {
+      "day": 11,
+      "title": "The small leaks",
+      "read": "Big bills get your attention. Small ones slip by: a delivery fee, a coffee, a subscription you forgot about, a late-night order. Each one is fine alone. Added up over a term, they can equal a month of rent. You do not have to give them all up. First find out where the money is going. Then decide which of those things are worth it to you. Track every dollar for one week and the leaks will show.",
+      "term": { "word": "Subscription", "meaning": "A charge that repeats every month or year until you cancel it. Easy to start and easy to forget." },
+      "prompts": ["The small things I buy most often", "Which of them I would truly miss, and which I would not notice were gone"],
+      "try": "Open your bank app and list every subscription you pay for. Cancel one you do not use."
+    },
+    {
+      "day": 12,
+      "title": "Books, rent and roommates",
+      "read": "The fastest way to save in college is to cut the big costs. Rent, borrow or buy used textbooks, and check the library first. Splitting housing with roommates can save you thousands of dollars a year. Before you sign a lease, read it. Find out who is responsible if someone moves out, and how bills are shared. Put the split in writing, even with friends. A short written agreement keeps a money problem from turning into a friendship problem.",
+      "term": { "word": "Lease", "meaning": "A written contract to rent a home for a set time. Everyone who signs it is responsible for the rent." },
+      "prompts": ["My three biggest costs this term", "One way I could lower each of them"],
+      "try": "Pick your biggest cost. Find one cheaper option for next term and write down how much it would save."
+    },
+    {
+      "day": 13,
+      "title": "Work, study and your time",
+      "read": "A job in college brings in money and experience. It also takes hours away from study and sleep. There is no perfect answer, only a trade to weigh. A few hours a week of paid work often fits well. Too many can hurt your grades and stretch out how long you are paying tuition. Ask your school about work-study jobs on campus, which tend to be flexible. Paid internships in your field can lead to a job after you graduate.",
+      "term": { "word": "Work-study", "meaning": "A federal aid program that gives students part-time jobs, often on campus, to help pay for school." },
+      "prompts": ["How many hours I work or could work, and what that does to my studies", "What I want from a job besides the money"],
+      "try": "Visit your school's career or job office website. Write down one job or internship worth applying for."
+    },
+    {
+      "day": 14,
+      "title": "Scams and pressure",
+      "read": "Students are a common target for scams. Watch for a job offer that sends you a check and asks you to send part of it back. Be wary of a message saying your account is locked, with a link to click. Be just as wary of a company that charges a fee for help with student aid forms, which are free. Take care also with buy now, pay later plans. Four small payments feel painless, but several plans at once are easy to lose track of. If someone is rushing you, slow down.",
+      "term": { "word": "Buy now, pay later", "meaning": "A plan that splits a purchase into several payments. Missing one can bring fees, and several plans at once are hard to keep track of." },
+      "prompts": ["A scam or money pressure I have seen, or nearly fell for", "My rule for what to do when a money offer feels rushed"],
+      "try": "List any pay-later plans you have right now and the total you still owe on them."
+    },
+    {
+      "day": 15,
+      "title": "Read the offer and the pay stub",
+      "read": "A salary of $48,000 a year is not $4,000 a month in your account. Taxes, health insurance and retirement savings come out first. What is left is often between two thirds and three quarters of the gross amount, depending on where you live. Look at the whole offer too. Health insurance, a retirement match, paid time off and help with loans are all worth real money. Two jobs with the same salary can be worth very different amounts.",
+      "term": { "word": "Benefits", "meaning": "What a job gives you besides pay, such as health insurance, retirement savings and paid time off." },
+      "prompts": ["My pay or the pay I expect, and my best guess at the monthly take-home amount", "The benefits that matter most to me right now, and why"],
+      "try": "Find your real take-home pay for one month from a pay stub, or use an online paycheck calculator for your state."
+    },
+    {
+      "day": 16,
+      "title": "A budget for real life",
+      "read": "A simple way to start is the 50/30/20 guide. About half of your take-home pay goes to needs, such as rent, food, transport and minimum debt payments. About 30% goes to wants. About 20% goes to savings and extra debt payments. It is a guide, not a law. In a city with high rent, needs may take 60% or more, and the other parts have to shrink. What matters is that savings gets a line of its own.",
+      "term": { "word": "50/30/20", "meaning": "A budget guide: about 50% of take-home pay for needs, 30% for wants and 20% for savings and extra debt payments." },
+      "prompts": ["How my spending splits today between needs, wants and savings, as a rough guess", "The part I most want to change, and why"],
+      "try": "Fill in the worksheet called My first-job budget with your real numbers."
+    },
+    {
+      "day": 17,
+      "title": "When your student loans wake up",
+      "read": "Most federal student loans give you about six months after you leave school before payments start. Use that time. Log in at studentaid.gov to see every loan and the company that collects your payments, called your loan servicer. Make sure the servicer has your current address and email. If the standard payment is too high, ask about plans based on your income. These plans have changed in recent years, so check the current choices on the official site. Not paying, and not calling, is the costliest path.",
+      "term": { "word": "Grace period", "meaning": "The time after you leave school before loan payments begin. For most federal student loans it is about six months." },
+      "prompts": ["What I know about when my payments start and how much they will be", "How I feel when I think about my student loans, said honestly"],
+      "try": "Find the name of your loan servicer and your first payment date. Put the date in your calendar."
+    },
+    {
+      "day": 18,
+      "title": "Your emergency fund",
+      "read": "Cars break down, jobs end, and phones fall in water. An emergency fund is money kept aside for exactly these times, so a bad week does not turn into card debt. Start with a first target of $500 to $1,000. After that, build toward three months of must-pay costs. Keep it in a separate savings account that is easy to reach but out of sight. Building it takes time. Send a set amount each payday and let it add up.",
+      "term": { "word": "Emergency fund", "meaning": "Savings kept only for costs you could not plan for, such as a repair, a medical bill or time out of work." },
+      "prompts": ["An unplanned cost that hit me or my family, and how it was paid", "My first target amount, and how much I can add each payday"],
+      "try": "Open a separate savings account or pocket for emergencies. Set up an automatic transfer on payday, even if it is $10."
+    },
+    {
+      "day": 19,
+      "title": "Free money at work",
+      "read": "Many employers offer a retirement plan, often called a 401(k). You put in part of each paycheck, and some employers add money too. This is called a match. If your employer matches up to 4% of your pay and you put in nothing, you are leaving part of your pay unclaimed. Retirement feels far away at 22. Because of compound interest, though, the dollars you save in your twenties have the most time to grow. Ask your employer how its plan works.",
+      "term": { "word": "Employer match", "meaning": "Money your employer adds to your retirement account when you put in your own. It is part of your pay, but only if you sign up." },
+      "prompts": ["What I know about the retirement plan at my job, or the questions I need to ask", "How I picture my life at 65, and what I would want to have by then"],
+      "try": "Ask your employer or look in your benefits site: Is there a match, and how much must I put in to get all of it?"
+    },
+    {
+      "day": 20,
+      "title": "Insurance and other dull things",
+      "read": "Insurance is not much fun to buy, but it can save you from ruin. You pay a set amount so that a disaster does not wipe you out. Health insurance comes first. In the United States you can usually stay on a parent's health plan until you turn 26. If you rent, renters insurance covers your things for a small monthly cost. When you compare plans, look at both the monthly price and the deductible. The deductible is what you pay before the plan starts to pay.",
+      "term": { "word": "Deductible", "meaning": "The amount you must pay yourself before your insurance starts to pay. A lower monthly price often means a higher deductible." },
+      "prompts": ["The insurance I have now, and any gaps I am not sure about", "What it would cost me if my laptop, phone and bike were all stolen"],
+      "try": "Find your health insurance card or plan page. Write down your deductible. If you rent, get one price for renters insurance."
+    },
+    {
+      "day": 21,
+      "title": "When your pay goes up",
+      "read": "When your pay goes up, your spending tends to rise to meet it: a nicer flat, a newer car, more meals out. Soon the bigger paycheck feels as tight as the old one. This is called lifestyle creep. You can beat it with one rule. Each time your pay rises, send half of the raise to savings or debt before it reaches your spending account. You still get to enjoy the other half.",
+      "term": { "word": "Lifestyle creep", "meaning": "When your spending rises each time your pay rises, so you never feel better off." },
+      "prompts": ["What I would be tempted to upgrade first if I earned more", "What I would want half of my next raise to do for me"],
+      "try": "Write your raise rule on this page and sign it. Example: Half of every raise goes to savings before I see it."
+    },
+    {
+      "day": 22,
+      "title": "Write it all down",
+      "read": "The first step out of debt is the one most people skip, which is making the full list. Write down every card, loan, medical bill and amount owed to family. For each one, write the balance, the interest rate and the minimum payment. It may feel heavy to see it all at once. But debt you have not added up feels endless, and a list has a last line. Starting today, you are working from real numbers.",
+      "term": { "word": "Minimum payment", "meaning": "The smallest amount a lender will accept each month. Paying only the minimum keeps you in debt the longest and costs the most interest." },
+      "prompts": ["How I feel before I make the list, and how I feel after", "How each debt started, without blaming myself"],
+      "try": "Fill in the worksheet called My debt list. Log in or call to find any numbers you do not know."
+    },
+    {
+      "day": 23,
+      "title": "What interest really costs",
+      "read": "Here is why minimum payments keep people stuck. Say you owe $3,000 on a card with a 24% APR and you pay $90 a month. It would take about 56 months to clear, and you would pay close to $2,000 in interest on top. Pay $150 a month and it is gone in about 26 months, with about $870 in interest. That extra $60 a month saves you more than $1,100 and two and a half years.",
+      "term": { "word": "Principal", "meaning": "The amount you borrowed, not counting interest. Paying more than the minimum makes the principal shrink faster." },
+      "prompts": ["The debt on my list with the highest interest rate, and what it costs me each month", "Where I could find a little extra each month to put toward it"],
+      "try": "Find an online credit card payoff calculator. Enter your highest-rate debt and see what $25 more a month would do."
+    },
+    {
+      "day": 24,
+      "title": "Stop the leak first",
+      "read": "You cannot empty a bath with the tap still running. Before you speed up your payments, stop adding new debt. Take your cards out of your wallet and delete them from shopping sites. Cover the basics first, which are housing, food, power and transport. Then set aside a small buffer, even $200 to $500. Without one, the next surprise goes straight back on the card. Once those are in place, you can start paying the debt down faster.",
+      "term": { "word": "Buffer", "meaning": "A small amount of savings that keeps a surprise cost from becoming new debt." },
+      "prompts": ["What usually sends me back to borrowing", "What I could change so that it happens less often"],
+      "try": "Remove your saved card details from one shopping site or app today."
+    },
+    {
+      "day": 25,
+      "title": "Snowball or avalanche",
+      "read": "There are two well-known ways to order your debts. In both, you pay the minimum on everything and put all spare money on one debt at a time. With the avalanche method you attack the highest interest rate first, which costs the least overall. With the snowball method you attack the smallest balance first. You get a quick win, and that helps many people keep going. Both work. Choose the one you are more likely to stay with. When one debt is cleared, move its payment to the next.",
+      "term": { "word": "Avalanche and snowball", "meaning": "Two payoff plans. Avalanche pays the highest interest rate first. Snowball pays the smallest balance first." },
+      "prompts": ["Which method fits me better, and why", "My payoff order, from first to last"],
+      "try": "Number your debts in payoff order on the worksheet called My debt list."
+    },
+    {
+      "day": 26,
+      "title": "Call and ask",
+      "read": "Lenders would rather get paid slowly than not at all. If you are struggling, call them before you miss a payment. Ask plainly: Do you have a hardship plan? Can you lower my rate or drop this fee? Write down who you spoke to and what they said. A nonprofit credit counselor can also go through your budget and may set up one lower monthly payment. Be careful with any company that asks for a fee before it has done anything, or that tells you to stop paying your bills.",
+      "term": { "word": "Hardship plan", "meaning": "A short-term deal from a lender, such as a lower payment or interest rate, for people going through a hard time." },
+      "prompts": ["The lender I most need to call, and what I am afraid they will say", "The exact words I will use when I call"],
+      "try": "Make one call. Ask for a lower rate or a hardship plan. Write the date, the name and the answer here."
+    },
+    {
+      "day": 27,
+      "title": "Your credit report and your rights",
+      "read": "Your credit report is the record of your loans and payments. Mistakes on it are common, and they can cost you money. In the United States you can check your reports for free at AnnualCreditReport.com, the official site. If something is wrong, you have the right to dispute it. If a debt collector contacts you, you can ask them in writing to prove the debt is yours. You also have the right not to be harassed. Checking your own report does not lower your score.",
+      "term": { "word": "Credit report", "meaning": "A record of your debts and whether you paid on time. Lenders, landlords and some employers look at it." },
+      "prompts": ["What I expect to find on my credit report", "Anything I found that looks wrong or that I do not recognise"],
+      "try": "Get one free credit report at AnnualCreditReport.com. Read it and mark anything you do not recognise."
+    },
+    {
+      "day": 28,
+      "title": "After the last payment",
+      "read": "One day you will make a last payment. Plan for that day now, because that is when new debt most often creeps back in. For months or years you have lived without that money. Keep doing it. Send the same amount to your emergency fund until it holds three months of costs. After that, send it to savings and retirement. From then on, the payment that used to go to a lender goes to you.",
+      "term": { "word": "Net worth", "meaning": "What you own minus what you owe. Paying off debt raises it, even if your bank balance looks the same." },
+      "prompts": ["What being free of debt would change in my daily life", "Where my old debt payments will go once the debt is gone"],
+      "try": "Write the month and year you expect to be debt-free at the top of your payoff tracker."
+    }
+  ],
+  "closingTitle": "The step I am on now",
+  "closing": [
+    "You have learned the words, done the sums with your own numbers and taken real actions. That puts you ahead of where most people are at your stage.",
+    "Money skills build up the same way savings do. Come back to this journal when your life changes, with a new school, a new job or a new goal, and take the next step up."
+  ],
+  "closingPrompts": [
+    "The three most useful things I learned",
+    "The habits I am keeping, and when I do each one",
+    "My next money goal, with a number and a date"
+  ],
+  "helpTitle": "Where to learn more and get help",
+  "help": [
+    { "name": "Federal Student Aid", "detail": "studentaid.gov is the official United States site for the FAFSA, your loan details, your loan servicer and current repayment plans. Filling in the FAFSA is free." },
+    { "name": "Consumer Financial Protection Bureau", "detail": "consumerfinance.gov has plain guides to bank accounts, credit cards, student loans, debt collectors and your rights." },
+    { "name": "Your free credit reports", "detail": "AnnualCreditReport.com is the official site for free credit reports from the three main credit bureaus." },
+    { "name": "Nonprofit credit counseling", "detail": "The National Foundation for Credit Counseling (nfcc.org) lists nonprofit agencies that review your budget and debts. Ask about all fees first." },
+    { "name": "Your school", "detail": "High school counselors can help with the FAFSA and scholarships. College financial aid offices can explain your aid and your loans, and many colleges have free money coaching." },
+    { "name": "Reporting a scam", "detail": "In the United States you can report scams to the Federal Trade Commission at ReportFraud.ftc.gov." },
+    { "name": "If money stress gets heavy", "detail": "Call or text 988 in the United States at any time if you are in crisis. Money problems can be solved, and you do not have to face them alone." }
+  ],
+  "sources": [
+    "Federal Student Aid (studentaid.gov): how the FAFSA, subsidized and unsubsidized loans, work-study and the six-month grace period work.",
+    "Consumer Financial Protection Bureau and Federal Trade Commission consumer guides: credit reports, credit scores, debt collection rights and debt relief scams.",
+    "The interest examples were worked out for this journal: $1,000 growing at 7% a year, and a $3,000 balance at a 24% APR with a fixed monthly payment. They are examples only. Real rates and returns differ and are never steady.",
+    "Background: in the United States the average federal student loan balance is roughly $40,000 for each borrower, and average credit card rates have been above 20% (2025 and 2026 reports of Department of Education and Federal Reserve figures)."
+  ]
+}
