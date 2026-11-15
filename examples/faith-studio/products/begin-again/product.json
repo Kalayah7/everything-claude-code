@@ -1,0 +1,392 @@
+{
+  "slug": "begin-again",
+  "title": "Begin Again",
+  "subtitle": "A 31-day guided prayer journal for a new year",
+  "season": "new-year",
+  "palette": { "ink": "#33302a", "accent": "#b08a4f", "paper": "#f6f1e6", "line": "#d4cdbd", "backdrop": "#ebe2cf" },
+  "introTitle": "For the start of something",
+  "intro": [
+    "A new year arrives with a lot of noise: goals, plans, lists of who you ought to become by spring. If that energizes you, good. If it already makes you tired, this journal is for you too.",
+    "It will not ask you to set ten resolutions. It asks for ten quiet minutes a day for one month, to do four things in order: look back honestly, put down what you do not need to carry, listen, and take a few real steps.",
+    "Each day has one verse, a short thought, two questions and room to write your own prayer. The questions matter more than the answers. Nobody is grading this, and you cannot fall behind.",
+    "You can begin on January 1, or on any ordinary Tuesday when you need a fresh start. God's mercy has never depended on the calendar."
+  ],
+  "howTo": [
+    "Pick a time you can keep. Ten minutes with coffee, at lunch, or before bed is enough.",
+    "Read the verse slowly, twice. Out loud if you can.",
+    "Read the short reflection. Take what helps and leave the rest.",
+    "Answer the two questions honestly. Short answers count.",
+    "Finish the prayer in your own words. One sentence is a real prayer.",
+    "At the end of each week, use the pause page to gather what you noticed.",
+    "Use the prayer list at the back for what you are asking God for this year."
+  ],
+  "beginPrompts": [
+    "In a few honest sentences, how was the past year?",
+    "How do I feel about the year ahead: hopeful, tired, afraid, eager, numb?",
+    "If one thing could be different a year from now, what would I want it to be?"
+  ],
+  "pausePrompts": [
+    "One thing I noticed about God this week",
+    "One thing I noticed about myself",
+    "What I want to carry into next week",
+    "Someone I can share this with"
+  ],
+  "weeks": [
+    { "title": "Week 1: Look back", "from": 1, "to": 7, "pauseTitle": "A week of looking back", "pause": "This week was about remembering the past year honestly, the good and the hard. Look over what you wrote before you go on." },
+    { "title": "Week 2: Let go", "from": 8, "to": 14, "pauseTitle": "A week of putting things down", "pause": "This week was about what you do not need to carry into a new year. Notice what felt lighter, and what you are still holding." },
+    { "title": "Week 3: Listen", "from": 15, "to": 21, "pauseTitle": "A week of listening", "pause": "This week was about getting quiet enough to hear. Look back and notice anything that kept coming up." },
+    { "title": "Week 4: Step forward", "from": 22, "to": 31, "pauseTitle": "Thirty-one days of showing up", "pause": "These last days were about small, real steps. You finished. Take a slow look back over the whole month before you write." }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Counting days",
+      "ref": "Psalm 90:12",
+      "reflection": "This old prayer, linked with Moses, asks for one thing at the turn of time: wisdom about how short and valuable our days are. That is a different request from asking to get more done. A year is a few hundred ordinary days, and most of life happens in them. Before you plan anything, it is worth asking what a wise use of those days would look like.",
+      "prompts": [
+        "If I counted my days well this year, what would I spend more of them on?",
+        "What would I spend fewer of them on?"
+      ],
+      "prayer": "God, teach me to count my days. This year I want to give my time to:"
+    },
+    {
+      "day": 2,
+      "title": "All the way",
+      "ref": "Deuteronomy 8:2",
+      "reflection": "Moses said this to a people standing at the edge of something new. Before they stepped forward, he told them to look back over the whole road, including the hard stretches in the wilderness. Looking back is different from living in the past. It is how you find out what the road did to you, and who was with you on it. You cannot learn from a year you refuse to look at.",
+      "prompts": [
+        "What were the three or four biggest moments of my past year, good or hard?",
+        "What did the hardest stretch show me about what is in my heart?"
+      ],
+      "prayer": "God, as I look back over the road, I can see that:"
+    },
+    {
+      "day": 3,
+      "title": "This far",
+      "ref": "1 Samuel 7:12",
+      "reflection": "After a hard-won rescue, Samuel set up a stone and gave it a name that means stone of help. It marked a spot and a sentence: help has reached us as far as here. The stone made no claims about next year. It only recorded what was true so far. You are here, reading this. Whatever the past year held, something got you through it.",
+      "prompts": [
+        "Where did help reach me this past year? List what I can remember.",
+        "If I set up a stone today, what would I want it to say?"
+      ],
+      "prayer": "God, you have helped me this far. I want to remember:"
+    },
+    {
+      "day": 4,
+      "title": "Don't forget",
+      "ref": "Psalm 103:2",
+      "reflection": "The writer is talking to himself here, giving his own soul an instruction, because he knows how memory works. Trouble sticks. Good things slide away unless we stop and name them. This is not about pretending the year was easy. It is about making an accurate record, one that includes the gifts along with the losses. Gratitude is mostly a matter of paying attention.",
+      "prompts": [
+        "What good things from the past year have I already half forgotten? List ten if I can.",
+        "Who was a gift to me this year?"
+      ],
+      "prayer": "God, I do not want to forget. Thank you for:"
+    },
+    {
+      "day": 5,
+      "title": "I will remember",
+      "ref": "Psalm 77:11",
+      "reflection": "This psalm begins in real distress. The writer cannot sleep and wonders whether God has stopped being kind. Then comes a decision: I will remember. He does not wait until he feels better. He reaches back on purpose for what he knows God has done. When the present is unclear, memory is something solid to stand on. It is a choice you can make on a bad day.",
+      "prompts": [
+        "When in my life has God clearly come through for me? Write the story briefly.",
+        "What does that memory say to what I am facing now?"
+      ],
+      "prayer": "God, I choose to remember what you have done. I remember when:"
+    },
+    {
+      "day": 6,
+      "title": "The crown of the year",
+      "ref": "Psalm 65:11",
+      "reflection": "This is a harvest song, written by people who watched fields grow and knew they had not made the rain. It pictures God placing a crown on the year, and it does so even though no year is without loss. Some years the goodness is obvious. In others you have to look for it in small places. Either way, it is worth finding before you turn the page.",
+      "prompts": [
+        "Where was there abundance in my past year, even in small ways?",
+        "What grew in me or around me that I did not make happen by myself?"
+      ],
+      "prayer": "God, thank you for the goodness in the past year, especially:"
+    },
+    {
+      "day": 7,
+      "title": "Search me",
+      "ref": "Psalm 139:23-24",
+      "reflection": "After six days of looking back at the year, this prayer asks God to look at you. It is a brave request, made to someone who already knows you fully and has not left. The aim is not to find reasons to feel bad. Look at how the prayer ends: lead me. Being honest about what needs to change is the first step toward being led somewhere better.",
+      "prompts": [
+        "What pattern in my life do I already know needs to change?",
+        "What am I afraid God might point to if I really asked?"
+      ],
+      "prayer": "Search me, God. I think you might point to:"
+    },
+    {
+      "day": 8,
+      "title": "Something new",
+      "ref": "Isaiah 43:18-19",
+      "reflection": "These words were spoken to people who measured everything by the past, both the good old days and the old disasters. The invitation was to look up, because the next thing would not be a copy of the last one. Some of us enter a new year still living in a previous one. Remembering is good. Being stuck is something else. What is coming may be different from anything you have seen.",
+      "prompts": [
+        "What part of the past do I keep going back to and living in?",
+        "Where might something new already be starting, even faintly?"
+      ],
+      "prayer": "God, open my eyes to the new thing. I have been stuck looking back at:"
+    },
+    {
+      "day": 9,
+      "title": "What lies behind",
+      "ref": "Philippians 3:13-14",
+      "reflection": "Paul had a past with real harm in it, and also real achievements. Here he puts both behind him, the failures and the trophies. Either one can hold you in place. Notice his honesty at the start: he does not claim to have arrived. He has just decided which way he is facing. You cannot change last year. You can choose where you look.",
+      "prompts": [
+        "Which failure from the past am I still dragging behind me?",
+        "Which past success am I still leaning on instead of moving forward?"
+      ],
+      "prayer": "God, I am turning to face forward. Help me leave behind:"
+    },
+    {
+      "day": 10,
+      "title": "East from west",
+      "ref": "Psalm 103:12",
+      "reflection": "North and south have an end point. If you travel north long enough you reach a pole and begin heading south. East and west never meet, however far you go. That is the distance this psalm chooses for how far forgiven wrongs have been taken away. Many of us keep carrying what God has already removed. You do not have to bring it into another year.",
+      "prompts": [
+        "What am I still punishing myself for that I have already brought to God?",
+        "What would change if I believed it was truly that far away?"
+      ],
+      "prayer": "God, you have removed it. Help me to stop carrying:"
+    },
+    {
+      "day": 11,
+      "title": "Said out loud",
+      "ref": "1 John 1:9",
+      "reflection": "Some things from the past year have not been dealt with yet. They have only been avoided. John's remedy is simple and hard: say them. Confession means agreeing with God about what is true, with no excuses and no despair. The verse rests the outcome on God's character, on his being faithful, and not on how sorry you manage to feel. A thing said honestly loses much of its hold.",
+      "prompts": [
+        "What from the past year do I need to say plainly to God?",
+        "Is there anyone I need to apologize to, or put something right with?"
+      ],
+      "prayer": "God, I want to be honest with you. I confess:"
+    },
+    {
+      "day": 12,
+      "title": "Put it away",
+      "ref": "Ephesians 4:31-32",
+      "reflection": "Paul lists what bitterness turns into when it is kept: anger, harsh words, ill will. A grudge is heavy to carry across a year. Forgiving is not the same as saying it did not matter, and it does not always mean trusting that person again. It means you stop carrying the debt. That can take a long time, and wanting to begin is a real start.",
+      "prompts": [
+        "Who am I still angry with or bitter toward as this year begins?",
+        "What would be one honest step toward letting that go, even a very small one?"
+      ],
+      "prayer": "God, you know who has hurt me. I want to begin letting go of:"
+    },
+    {
+      "day": 13,
+      "title": "Every weight",
+      "ref": "Hebrews 12:1",
+      "reflection": "The picture is a long-distance race. The writer names two things a runner sets down: sin, and also weights. A weight is not always wrong in itself. It is simply something that slows you down. It could be a commitment, a habit, a screen, an expectation you never agreed to. A new year is a natural time to ask what you have been carrying that was never yours to run with.",
+      "prompts": [
+        "What is weighing me down that is not wrong, only heavy?",
+        "What could I stop doing this year, so I can do what matters?"
+      ],
+      "prayer": "God, show me what to lay down. I think one weight is:"
+    },
+    {
+      "day": 14,
+      "title": "A new heart",
+      "ref": "Ezekiel 36:26",
+      "reflection": "Look at who does the work in this verse. It is God, in every line: I will give, I will put, I will take away. It was spoken to exiles who had failed badly and could not repair themselves. Most resolutions are about our own effort. This is a promise about being changed from the inside by someone else. You can ask for a softer heart. You cannot produce one by trying harder.",
+      "prompts": [
+        "Where has my heart grown hard or numb over the past year?",
+        "What would a softer heart look like in my daily life?"
+      ],
+      "prayer": "God, give me a new heart. Soften me toward:"
+    },
+    {
+      "day": 15,
+      "title": "Speak",
+      "ref": "1 Samuel 3:10",
+      "reflection": "Samuel was a boy when this happened, and he did not recognize the voice at first. He needed an older person, Eli, to help him understand what he was hearing and how to answer. His reply was short, and it is one of the best prayers in the Bible. It asks for nothing. It only says: I am listening. Most of our prayers are talking. This week, start with that sentence.",
+      "prompts": [
+        "How much of my praying is talking, and how much is listening?",
+        "Who helps me recognize what God might be saying to me?"
+      ],
+      "prayer": "Speak, Lord, I am listening. I will sit quietly for two minutes, and then write what I noticed:"
+    },
+    {
+      "day": 16,
+      "title": "While it was still dark",
+      "ref": "Mark 1:35",
+      "reflection": "The day before this was full of crowds and need, and it ran late into the evening. The next morning Jesus got up before sunrise and went somewhere empty to pray. If anyone could have skipped it, he could. He did not. Quiet is not a luxury for people with spare time. It is where direction comes from. You probably cannot find an hour. You can likely find ten minutes.",
+      "prompts": [
+        "When and where could I have ten quiet minutes most days this year?",
+        "What usually fills the quiet before I can get to it?"
+      ],
+      "prayer": "God, I want to make room for you. My time and place will be:"
+    },
+    {
+      "day": 17,
+      "title": "In the morning",
+      "ref": "Psalm 143:8",
+      "reflection": "David asks for two things here, in a deliberate order. First he asks to hear about God's love. Then he asks to know which way to go. Most of us reverse that. We want directions straight away and assume the love will follow if we get things right. Guidance sits differently when you already know you are loved. Start there, and let the next step come afterward.",
+      "prompts": [
+        "What is the first thing I usually take in each morning? How does it shape my day?",
+        "What do I need to hear about God's love before I ask about direction?"
+      ],
+      "prayer": "God, let me hear of your love this morning. Then show me the way in:"
+    },
+    {
+      "day": 18,
+      "title": "This is the way",
+      "ref": "Isaiah 30:21",
+      "reflection": "The voice in this verse comes from behind, and it speaks at the moment of turning. That is how guidance often works. You seldom get the whole map in advance. You start walking, you reach a fork, and the direction comes there. Waiting for full certainty before you move can mean never moving at all. Take the step you can see, and stay ready to be corrected.",
+      "prompts": [
+        "What decision am I facing as this year begins?",
+        "What small step could I take without needing to see the whole map?"
+      ],
+      "prayer": "God, I am listening for your voice at the turning. I need direction about:"
+    },
+    {
+      "day": 19,
+      "title": "What is good",
+      "ref": "Micah 6:8",
+      "reflection": "Just before this verse someone asks what God wants, and offers bigger and bigger sacrifices as guesses. The answer is quieter than any of them: be fair, be kind, and walk with God without making it about yourself. We often search for God's will as if it were hidden. Much of it has already been shown, and it mostly concerns how you treat people this week.",
+      "prompts": [
+        "Where in my life could I act more justly or fairly this year?",
+        "Who needs mercy from me right now?"
+      ],
+      "prayer": "God, you have shown me what is good. Help me to live it in:"
+    },
+    {
+      "day": 20,
+      "title": "First things",
+      "ref": "Matthew 6:33",
+      "reflection": "Jesus said this in the middle of teaching about worry over food, clothes and tomorrow. He did not say those needs are unimportant. He put them in order. When everything is first, nothing is. A new year fills up quickly with urgent things, and the important ones get what is left over. Choosing what comes first is a decision you make before the calendar makes it for you.",
+      "prompts": [
+        "Going by my calendar and my spending, what is actually first in my life right now?",
+        "What would change this month if I put God's priorities first?"
+      ],
+      "prayer": "God, I want to seek you first. That would mean changing:"
+    },
+    {
+      "day": 21,
+      "title": "Stay connected",
+      "ref": "John 15:5",
+      "reflection": "A branch does not strain to produce grapes. Its one job is to stay attached, and the fruit comes from what flows through it. Jesus said this to his closest friends on the night before he died. Much of our planning assumes that everything depends on effort. He describes a different way to live: stay close, and let what is good grow out of that closeness.",
+      "prompts": [
+        "What helps me stay close to God? What pulls me away?",
+        "Where have I been straining to produce something in my own strength?"
+      ],
+      "prayer": "Jesus, I want to stay close to you. Apart from you, I have been trying to:"
+    },
+    {
+      "day": 22,
+      "title": "If the Lord wills",
+      "ref": "James 4:14-15",
+      "reflection": "James was writing to people with confident business plans: where they would go, how long they would stay, how much they would make. He does not tell them to stop planning. He tells them to add a few words of humility. None of us knows what this year holds. That is not a reason for fear. It is a reason to make plans and hold them with an open hand.",
+      "prompts": [
+        "What are my hopes and plans for this year? List them.",
+        "Which of them am I gripping most tightly?"
+      ],
+      "prayer": "God, if you are willing, this year I hope to:"
+    },
+    {
+      "day": 23,
+      "title": "When you stumble",
+      "ref": "Psalm 37:23-24",
+      "reflection": "This psalm takes it for granted that you will stumble. It does not treat that as the end. Most resolutions fail because the first slip feels like proof that the whole thing is over. The picture here is of a hand holding yours while you trip and do not go all the way down. Expect to stumble this year, and decide now that you will get up.",
+      "prompts": [
+        "How do I usually react when I fail at something I set out to do?",
+        "What would I say to a friend who stumbled in the second week of January?"
+      ],
+      "prayer": "God, when I stumble this year, hold me up. I am most likely to trip over:"
+    },
+    {
+      "day": 24,
+      "title": "Made for this",
+      "ref": "Ephesians 2:10",
+      "reflection": "This verse follows directly after Paul says that we are saved by grace and not by anything we do. Then he says there is good work with your name on it, prepared ahead of time. The order matters. You do not work to become acceptable. You are already accepted, and you were made by a careful maker for something. Your year has a purpose that goes beyond improving yourself.",
+      "prompts": [
+        "What good work seems to keep landing in front of me?",
+        "What am I good at that also helps other people?"
+      ],
+      "prayer": "God, you made me for good work. Show me what is mine to do in:"
+    },
+    {
+      "day": 25,
+      "title": "Ordinary work",
+      "ref": "Colossians 3:23",
+      "reflection": "Paul first wrote these words to people who had very little say over their work or who they did it for. He gave them a different audience. Most of this year will be ordinary: emails, dishes, errands, the same job as before. This verse says none of that is beneath notice. The plain tasks of an average Tuesday can be done for someone who sees them.",
+      "prompts": [
+        "Which part of my daily work feels most pointless or unseen?",
+        "How would I do it differently if I did it for God and not for people's approval?"
+      ],
+      "prayer": "God, I offer you my ordinary work. Today that means:"
+    },
+    {
+      "day": 26,
+      "title": "Fruit, not goals",
+      "ref": "Galatians 5:22-23",
+      "reflection": "Most goals for a new year are about what we will achieve or how we will look. This list is about who we are becoming. Paul calls these things fruit, and fruit is grown. It comes slowly, in season, from a healthy tree. You cannot produce patience by Friday. You can stay close to what makes it grow and look again in the autumn.",
+      "prompts": [
+        "Which one of these do I most want to see grow in me this year?",
+        "What situation in my life is giving me practice at it right now?"
+      ],
+      "prayer": "God, grow this in me this year:"
+    },
+    {
+      "day": 27,
+      "title": "Not alone",
+      "ref": "Hebrews 10:24-25",
+      "reflection": "The writer was speaking to people who were tempted to drift away from one another, and he tells them to keep meeting and to think about how to encourage each other. Change that lasts rarely happens in private. The promises we keep are usually the ones somebody else knows about. You were not meant to walk through a year by yourself.",
+      "prompts": [
+        "Who could I tell about what I am hoping for this year?",
+        "Who needs encouragement from me this week? What will I do about it?"
+      ],
+      "prayer": "God, I do not want to do this year alone. Bring to mind someone I can:"
+    },
+    {
+      "day": 28,
+      "title": "Eyes ahead",
+      "ref": "Proverbs 4:25-26",
+      "reflection": "This is a parent's advice to a child, and it is very practical. Decide where you are going and watch where you put your feet. Much of what throws a year off course is distraction, not disaster. Attention is one of the few things you truly control, and plenty of things are designed to take it from you. Where you look tends to be where you end up.",
+      "prompts": [
+        "What distracts me most from what I say matters to me?",
+        "What is one change that would guard my attention this month?"
+      ],
+      "prayer": "God, help me to keep my eyes ahead. I get distracted by:"
+    },
+    {
+      "day": 29,
+      "title": "In love",
+      "ref": "1 Corinthians 16:13-14",
+      "reflection": "Paul ends a long letter with a burst of short commands about courage and strength, and then adds a final sentence that changes all of them. Strength without love makes people hard. A year of hitting every target is worth little if the people near you are worse off for it. Whatever you set out to do, the way you do it counts as much.",
+      "prompts": [
+        "Where do I need courage this year?",
+        "In which goal or relationship am I at risk of being strong and not loving?"
+      ],
+      "prayer": "God, make me brave, and make me loving. I need both in:"
+    },
+    {
+      "day": 30,
+      "title": "New every morning",
+      "ref": "Lamentations 3:22-23",
+      "reflection": "These lines come from a book of mourning, written in a ruined city, so they are not easy optimism. The claim is narrow and strong: mercy is renewed each morning. You do not get one fresh start a year on January 1. You get one every day. If this month has not gone the way you hoped, you are not behind. Tomorrow morning is also a beginning.",
+      "prompts": [
+        "Where do I need a fresh start today, and not at some later date?",
+        "What mercy can I name from this past month?"
+      ],
+      "prayer": "God, your mercy is new this morning. Today I begin again with:"
+    },
+    {
+      "day": 31,
+      "title": "Going out and coming in",
+      "ref": "Psalm 121:8",
+      "reflection": "Travelers sang this psalm on the road, and its last line covers every kind of journey: leaving and returning, starting and finishing. It does not say the road will be smooth. It says you will be watched over along the whole length of it. You are about to walk out into the rest of the year. You go with that blessing over you, from this time forward.",
+      "prompts": [
+        "What do I want to remember from these thirty-one days?",
+        "What one practice from this month will I keep?"
+      ],
+      "prayer": "God, keep my going out and my coming in this year. I place in your hands:"
+    }
+  ],
+  "closingTitle": "The rest of the year",
+  "closing": [
+    "You gave a month to looking back, letting go, listening and taking small steps. That is a better beginning than most resolutions get. The year ahead will still be made of ordinary days, and that is where this counts.",
+    "Keep the practice that worked: a verse, two honest questions, one sentence of prayer. Come back to any page here, and return to the prayer list at the back in a few months. You may be surprised by what you find written there."
+  ],
+  "closingPrompts": [
+    "A letter to myself, to open at the end of this year:",
+    "What I want to say to God today:"
+  ]
+}

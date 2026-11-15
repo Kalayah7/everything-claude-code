@@ -1,0 +1,381 @@
+{
+  "slug": "held-in-grief",
+  "title": "Held",
+  "subtitle": "A 30-day guided prayer journal for the days after a loss",
+  "season": "grief",
+  "palette": { "ink": "#3a3338", "accent": "#927a86", "paper": "#f4f0ee", "line": "#d3cbcd", "backdrop": "#e4dadd" },
+  "introTitle": "For the days after",
+  "intro": [
+    "Someone you love has died, and the world has kept going as if nothing happened. If you are reading this, we are sorry. Nothing on these pages will fix it, and nothing here will try to.",
+    "This journal is not a plan for getting over your loss. There are no stages to complete and no schedule for feeling better. Grief is not a problem to solve. It is what love does when the person is gone.",
+    "What you will find is small: one verse a day, a short thought, two questions, and room to write. The Bible is more honest about sorrow than people often expect. It is full of tears, hard questions and long silences, and none of them are edited out.",
+    "Use this in whatever way helps. Skip a day, skip a week, write one word, write nothing and only read. If your grief feels too heavy to carry safely, or you are having thoughts of harming yourself, please reach a doctor, a counselor or a pastor today. You do not have to do this alone."
+  ],
+  "howTo": [
+    "Go at your own pace. The days are numbered only to keep your place.",
+    "Read the verse slowly. Read it twice if you can.",
+    "Read the short reflection. Take what helps and leave the rest.",
+    "Answer the questions honestly, or leave them blank. One word counts. Tears count.",
+    "Finish the prayer in your own words, or just sit with it.",
+    "Use the pause pages when you reach them. Nothing here is homework.",
+    "The list at the back is for what you ask God for, and what you notice later."
+  ],
+  "beginPrompts": [
+    "Who am I grieving? Write their name, and anything I want to say about them.",
+    "What has been hardest so far?",
+    "What do I need most right now: from God, from other people, from myself?"
+  ],
+  "pausePrompts": [
+    "What I noticed about God this week, including the silence",
+    "The hardest moment of this week",
+    "Something that helped, even slightly",
+    "Someone I could let in a little"
+  ],
+  "weeks": [
+    { "title": "Week 1: Lament", "from": 1, "to": 7, "pauseTitle": "A week of honest sorrow", "pause": "These days made room for sorrow without trying to move you past it. There is nothing to conclude. Look back only if you want to." },
+    { "title": "Week 2: Carried", "from": 8, "to": 14, "pauseTitle": "A week of being held", "pause": "These days were about who holds you when you cannot hold yourself up. Notice where that felt true, and where it did not." },
+    { "title": "Week 3: Remembering", "from": 15, "to": 21, "pauseTitle": "A week of remembering", "pause": "These days were about memory: the person, the love, and what stays. Look back gently." },
+    { "title": "Week 4: Hope", "from": 22, "to": 30, "pauseTitle": "Thirty days, carried", "pause": "These last days were about hope that does not ask you to stop grieving. You came this far. Take your time looking back." }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "He wept",
+      "ref": "John 11:35",
+      "reflection": "This is the shortest verse in the Bible. Jesus was standing at the grave of his friend Lazarus, with the sisters crying beside him. He did not give a speech or tell anyone to be strong. He cried. If you have wondered whether your tears are a sign of weak faith, look at who is weeping here. Your tears are not a failure. You are in his company.",
+      "prompts": [
+        "What has made me cry this week? What has left me unable to cry?",
+        "What does it mean to me that Jesus wept at a grave?"
+      ],
+      "prayer": "Jesus, you know what a grave feels like. Today I am crying about:"
+    },
+    {
+      "day": 2,
+      "title": "Worn out with crying",
+      "ref": "Psalm 6:6",
+      "reflection": "Someone wrote this down thousands of years ago, and it was kept and sung in worship. That tells you something about what God is willing to hear. Grief is tiring in the body. It takes your sleep, your appetite and your strength. The psalm does not hurry on to a brighter thought. It lets the exhaustion stand as a prayer. So can you.",
+      "prompts": [
+        "How is grief showing up in my body: sleep, eating, energy?",
+        "What do my nights look like right now?"
+      ],
+      "prayer": "God, I am worn out. Here is how tired I am:"
+    },
+    {
+      "day": 3,
+      "title": "Why?",
+      "ref": "Psalm 22:1-2",
+      "reflection": "These are the words Jesus prayed from the cross. The question in them is not polite, and it is not answered within the verse. God can feel very far away after a death, and saying so is not unbelief. It is a prayer with a long history. Notice that it still begins by speaking to God directly, twice. Even the accusation is addressed to someone.",
+      "prompts": [
+        "What \"why\" questions keep coming back to me?",
+        "Where has God felt absent or silent since my loss?"
+      ],
+      "prayer": "My God, my God, here is what I do not understand:"
+    },
+    {
+      "day": 4,
+      "title": "Those who sit with you",
+      "ref": "Job 2:13",
+      "reflection": "Job had lost nearly everything, and his friends came. For seven days they sat on the ground beside him and said nothing. It was the best thing they did. The trouble began later, when they started explaining. You may have met both kinds of people lately: those who sit with you, and those who offer reasons. You are allowed to prefer the first kind.",
+      "prompts": [
+        "Who has simply sat with me, without trying to fix it?",
+        "What have people said that hurt, even when they meant well?"
+      ],
+      "prayer": "God, thank you for those who stayed. Help me with the words that hurt:"
+    },
+    {
+      "day": 5,
+      "title": "All of me",
+      "ref": "Psalm 31:9",
+      "reflection": "The writer lists three things that grief is wearing down: eye, soul and body. Loss does not stay in one part of a person. It gets into how you see, how you feel and how your body works. If you have been forgetful, foggy, short-tempered or aching, that is common in mourning, and you are not doing it wrong. The prayer here is very short: have mercy on me.",
+      "prompts": [
+        "What has grief changed in how I think, feel or function day to day?",
+        "Where do I most need mercy today?"
+      ],
+      "prayer": "Have mercy on me, God. I am not myself, and today I need:"
+    },
+    {
+      "day": 6,
+      "title": "Every tear",
+      "ref": "Psalm 56:8",
+      "reflection": "The picture here is of God collecting tears, one at a time, and writing them down. Nothing about your sorrow goes unnoticed. That includes the crying in the car, the wave that hit you in the grocery store, and the tears nobody else knows about. Grief can feel invisible once the visitors stop coming. This verse says it has been seen and kept, all of it.",
+      "prompts": [
+        "Where have I cried, or held back tears, that nobody knows about?",
+        "What part of my grief feels unseen by the people around me?"
+      ],
+      "prayer": "God, you have seen every tear. Here is one nobody else knows about:"
+    },
+    {
+      "day": 7,
+      "title": "Where is your God?",
+      "ref": "Psalm 42:3",
+      "reflection": "The writer has been living on tears, and all the while a question hangs in the air. Sometimes other people ask it. Sometimes it comes from inside. Doubt often arrives alongside grief, and it does not mean your faith is over. This psalm asks the hard question and keeps talking to God anyway. Both things are allowed on the same page.",
+      "prompts": [
+        "What doubts or questions about God has this loss stirred up?",
+        "What would I say if I knew God would not be offended by any of it?"
+      ],
+      "prayer": "God, people ask where you are, and so do I. Honestly:"
+    },
+    {
+      "day": 8,
+      "title": "Near",
+      "ref": "Psalm 34:18",
+      "reflection": "This verse makes a claim about where God is to be found: close to the people whose hearts are broken. It does not say you will feel it, and often you will not. Nearness is not always a sensation. Sometimes you see it afterward, in the friend who called at the right moment, or in the plain fact that you got through a day you did not think you could.",
+      "prompts": [
+        "When have I sensed, even faintly, that I was not alone?",
+        "What kindness has reached me since my loss?"
+      ],
+      "prayer": "God, be near to me. I cannot always feel you, so I am asking:"
+    },
+    {
+      "day": 9,
+      "title": "Those who mourn",
+      "ref": "Matthew 5:4",
+      "reflection": "Jesus did not say the mourners would be blessed once they cheered up. He called them blessed while they mourned. Sorrow, in his teaching, is not a state to be ashamed of or hurried through. The promise is comfort, which is different from an explanation and different from the pain ending. Comfort is what you give someone whose pain you take seriously.",
+      "prompts": [
+        "Do I feel pressure to be \"doing better\" than I am? Where does it come from?",
+        "What has truly comforted me, and what has not?"
+      ],
+      "prayer": "Jesus, you called mourners blessed. Comfort me in:"
+    },
+    {
+      "day": 10,
+      "title": "Through the valley",
+      "ref": "Psalm 23:4",
+      "reflection": "Notice where the grammar of this psalm changes. In the green pastures, the writer talks about God: he leads me. In the valley, he begins speaking to God: you are with me. The dark place is where the prayer becomes direct. The psalm also says you walk through the valley. It does not say how long that takes, and there is no need to rush. You are not walking alone.",
+      "prompts": [
+        "What does this valley look like for me right now?",
+        "What would I say to God if I spoke directly, the way the psalm does?"
+      ],
+      "prayer": "You are with me. In this valley I need you to:"
+    },
+    {
+      "day": 11,
+      "title": "Carried",
+      "ref": "Isaiah 46:4",
+      "reflection": "Just before this verse, Isaiah describes idols being loaded onto tired animals: gods that have to be carried by the people who worship them. Then God says the opposite about himself. He is the one who does the carrying. There are days in grief when you cannot pray, believe or even get dressed. On those days your faith is not what holds you up. You are being carried.",
+      "prompts": [
+        "What have I been unable to do lately that I used to do easily?",
+        "What would it mean to let myself be carried, and stop trying to be strong?"
+      ],
+      "prayer": "God, I cannot carry this. Carry me through:"
+    },
+    {
+      "day": 12,
+      "title": "When there are no words",
+      "ref": "Romans 8:26",
+      "reflection": "Some days there is nothing to say. You sit down to pray and only a sigh comes out, or nothing at all. Paul says that this is already covered. The Spirit prays for us in groans too deep for words. A wordless ache, turned toward God, counts as prayer. You do not have to find the right sentences. Someone is praying with you and for you.",
+      "prompts": [
+        "What am I feeling that I cannot find words for? Try a few words, or a drawing.",
+        "When has someone else prayed for me when I could not?"
+      ],
+      "prayer": "God, I have no words today. Hear what is underneath. All I can say is:"
+    },
+    {
+      "day": 13,
+      "title": "When strength fails",
+      "ref": "Psalm 73:26",
+      "reflection": "The verse begins with a plain admission: body and heart both give out. The writer does not pretend otherwise. What he holds on to is not his own strength returning. It is God being his strength and his portion, which means his share, the thing that is still his when so much else has been taken. Loss takes a great deal. This verse names something it cannot take.",
+      "prompts": [
+        "Where have I reached the end of my own strength?",
+        "What do I still have that this loss has not taken?"
+      ],
+      "prayer": "God, my strength is gone. Be my strength for:"
+    },
+    {
+      "day": 14,
+      "title": "Gently",
+      "ref": "Isaiah 40:11",
+      "reflection": "The shepherd in this verse carries the smallest ones close to his chest and sets his pace by those who cannot go fast. Many people will expect you to be back to normal long before you are. God is not one of them. Look at the word near the end: gently. Nobody is timing you. You are being led at the speed you can manage.",
+      "prompts": [
+        "Where do I feel rushed to move on, by others or by myself?",
+        "What would being gentle with myself look like this week?"
+      ],
+      "prayer": "God, lead me gently. I cannot go any faster in:"
+    },
+    {
+      "day": 15,
+      "title": "Every time I remember",
+      "ref": "Philippians 1:3",
+      "reflection": "Paul wrote this to friends he loved and could not be with. Remembering them made him thankful. Memories after a death are harder. They can warm you and wound you in the same moment. You do not need to choose between gratitude and grief. Being thankful for a person and heartbroken that they are gone are the same love, facing two directions.",
+      "prompts": [
+        "What memory of them am I most thankful for? Write it in detail.",
+        "Which memories are hard to visit right now?"
+      ],
+      "prayer": "God, I thank you for them. Today I remember:"
+    },
+    {
+      "day": 16,
+      "title": "A time for each",
+      "ref": "Ecclesiastes 3:4",
+      "reflection": "This line sits in a long poem about the seasons of a life. It does not say weeping is wrong and laughing is right. It gives each its time. In grief the two often arrive close together. You may laugh at a memory and feel guilty a moment later. You need not. Laughing does not mean you loved them less, and weeping does not mean you trust God less.",
+      "prompts": [
+        "Have I laughed or felt a moment of ease lately? How did I feel afterward?",
+        "What do I think they would say about me smiling again?"
+      ],
+      "prayer": "God, you made room for weeping and for laughter. Today I feel:"
+    },
+    {
+      "day": 17,
+      "title": "Not forgotten",
+      "ref": "Isaiah 49:15-16",
+      "reflection": "These words answered people who had said out loud that God had forgotten them. The reply is one of the tenderest pictures in the Bible: a mother with her baby, and then a name carved into the palms of God's hands. Whatever else is uncertain today, this passage insists on one thing. You are not forgotten. The one you are missing is known to God by name as well.",
+      "prompts": [
+        "Where do I feel forgotten: by God, by friends, by the world moving on?",
+        "What do I most want God to remember about the person I lost?"
+      ],
+      "prayer": "God, do not forget me. And remember them, especially:"
+    },
+    {
+      "day": 18,
+      "title": "Bound up",
+      "ref": "Psalm 147:3",
+      "reflection": "A wound that is bound up has not disappeared. It has been cleaned, covered and tended by someone who stays to look after it. That is the picture here: careful hands and time. A broken heart is not put right in a moment, and people who have grieved deeply often say the loss stays with them and they grow around it. Tending is slow work. You are worth the time it takes.",
+      "prompts": [
+        "What part of my heart feels most broken right now?",
+        "What small things help tend the wound: rest, company, quiet, music, being outside?"
+      ],
+      "prayer": "God, bind up what is broken in me. The wound I bring you is:"
+    },
+    {
+      "day": 19,
+      "title": "The God of all comfort",
+      "ref": "2 Corinthians 1:3-4",
+      "reflection": "Paul gives God a name here: the God of all comfort. He also notices something about how comfort travels. People who have received it in their own trouble are able to pass it on. That is not the reason your loss happened, and nobody should tell you it is. But someday you may sit beside another grieving person and know what not to say. That knowledge will be a gift.",
+      "prompts": [
+        "Who has comforted me well because they have known loss themselves?",
+        "What have I learned about what grieving people need?"
+      ],
+      "prayer": "God of all comfort, comfort me today in:"
+    },
+    {
+      "day": 20,
+      "title": "Counting days",
+      "ref": "Psalm 90:12",
+      "reflection": "This psalm, linked with Moses, looks straight at how short life is. Death teaches that lesson in the hardest way there is. Losing someone changes how you see time and what matters. Many grieving people find they have less patience for small talk and more for the people they love. That clearer sight cost a great deal. It is also a kind of wisdom, and it is yours.",
+      "prompts": [
+        "What matters more to me now than it did before my loss? What matters less?",
+        "Is there something I want to say to someone while I still can?"
+      ],
+      "prayer": "God, teach me to count my days. What matters to me now is:"
+    },
+    {
+      "day": 21,
+      "title": "When the wave comes",
+      "ref": "Psalm 61:2",
+      "reflection": "Grief often comes in waves. You can be steady for hours and then a song, a smell or an empty chair knocks you flat. The writer of this psalm knew what it was to be overwhelmed, and his prayer is simple: lead me to somewhere solid that is higher than I am. You cannot stop the waves. You can ask for a rock to stand on when they come.",
+      "prompts": [
+        "What sets off a wave of grief for me? List what I have noticed.",
+        "What helps me when a wave hits?"
+      ],
+      "prayer": "God, when the wave comes, lead me to the rock. Today the wave was:"
+    },
+    {
+      "day": 22,
+      "title": "Grief with hope",
+      "ref": "1 Thessalonians 4:13",
+      "reflection": "Read this verse carefully, because it is often misquoted. Paul does not tell his friends not to grieve. He says they do not have to grieve in the way people do who have no hope. Grief and hope are not opposites. You can miss someone with your whole heart and still believe death is not the end. Hope does not take the sorrow away. It keeps it company.",
+      "prompts": [
+        "Has anyone suggested that faith means I should not grieve? How did that feel?",
+        "What does hope mean to me today, if anything? It is fine if the answer is \"not much.\""
+      ],
+      "prayer": "God, I am grieving, and I want to hope. Today that looks like:"
+    },
+    {
+      "day": 23,
+      "title": "Do you believe this?",
+      "ref": "John 11:25-26",
+      "reflection": "Jesus said this to Martha a few days after her brother died. She had just told him, plainly, that if he had been there things would have been different. He did not rebuke her for it. He answered her grief with a statement about himself, and then with a question. It is a real question. You can answer it honestly, as she did, wherever you find yourself today.",
+      "prompts": [
+        "What do I believe about life after death? What am I unsure of?",
+        "What would I say to Jesus if, like Martha, I told him exactly what I think?"
+      ],
+      "prayer": "Jesus, you are the resurrection and the life. Honestly, I believe:"
+    },
+    {
+      "day": 24,
+      "title": "A place prepared",
+      "ref": "John 14:2-3",
+      "reflection": "Jesus said this at the last supper, to friends who were about to lose him. The picture he chose is homely: a house with room, and a place made ready by someone who knows who is coming. At the heart of the promise is being together, with him and where he is. The Bible says little about the details of what comes next. What it gives is a person, and a welcome.",
+      "prompts": [
+        "What do I picture when I think of the person I love being with God?",
+        "What questions about heaven do I wish I could ask?"
+      ],
+      "prayer": "Jesus, you went to prepare a place. I want to ask you about:"
+    },
+    {
+      "day": 25,
+      "title": "The Lord's, either way",
+      "ref": "Romans 14:8",
+      "reflection": "Paul draws a circle here that takes in both sides of death. The living belong to the Lord, and so do those who have died. The person you are missing has not fallen out of God's hands, and neither have you. You may feel as if you are on opposite shores of something very wide. This verse says that the same Lord holds both shores.",
+      "prompts": [
+        "What would I want to tell them about my life since they died?",
+        "How does it sit with me that we are both held by the same God?"
+      ],
+      "prayer": "Lord, we are both yours. Please hold them, and hold me, as I:"
+    },
+    {
+      "day": 26,
+      "title": "Now you have sorrow",
+      "ref": "John 16:22",
+      "reflection": "Jesus was honest with his friends about what was coming. He did not tell them they would be fine. He said plainly that they would have sorrow now. Then he made a promise about seeing each other again, and about a joy that could not be taken away. The word \"now\" matters. It says that this sorrow is real, and also that it is not the whole story.",
+      "prompts": [
+        "What is the sorrow of \"now\" for me? Describe an ordinary day.",
+        "Is there anything, however small, that I still look forward to?"
+      ],
+      "prayer": "Jesus, now I have sorrow. Stay with me until the joy you promised. Today I need:"
+    },
+    {
+      "day": 27,
+      "title": "Wiped away",
+      "ref": "Revelation 21:4",
+      "reflection": "Look at how the end of sorrow is described. It is not a decree from far off. It is a hand on a face, wiping tears away, the way you would for a child. The Bible ends with the promise that death itself will be over. That day is not here yet, and you are not asked to pretend it is. You are told how the story ends.",
+      "prompts": [
+        "What tears do I most long to have wiped away?",
+        "What would a world without death mean for me and the person I am missing?"
+      ],
+      "prayer": "God, I long for the day when death is no more. Until then, help me with:"
+    },
+    {
+      "day": 28,
+      "title": "In the end",
+      "ref": "Job 19:25",
+      "reflection": "Job said this in the middle of his suffering, not after it was over. He had lost his children, his health and the understanding of his friends, and he had not been given any answers. Yet from the ash heap he said that his Redeemer was alive and would have the last word. Faith in grief is seldom loud. Often it is one sentence, said while it still hurts.",
+      "prompts": [
+        "What is one thing I still believe, even now?",
+        "If I wrote my own sentence that begins \"But as for me, I know...\", what would it say?"
+      ],
+      "prayer": "God, even here, this is what I know:"
+    },
+    {
+      "day": 29,
+      "title": "Swallowed up",
+      "ref": "Isaiah 25:8",
+      "reflection": "Death has swallowed a great deal, and you know that better than most people now. Isaiah turns the picture around: a day is coming when death itself is swallowed. In the middle of that large promise is a small and personal one, about tears being wiped from every face, and that includes yours. The verse ends by saying who made the promise. It rests on him, not on how strong you feel.",
+      "prompts": [
+        "What has death taken from me? Name what I have lost, large and small.",
+        "What do I want to say to God about that?"
+      ],
+      "prayer": "God, death has taken so much. I am holding on to your promise about:"
+    },
+    {
+      "day": 30,
+      "title": "This morning",
+      "ref": "Lamentations 3:22-23",
+      "reflection": "These lines were written in a ruined city, in the middle of a book of mourning, by someone who had not stopped grieving. He does not say that everything is all right. He says there was mercy enough for this one morning. That may be the right size of hope for today: not a future without sorrow, only enough for today. You have been given every morning it took to reach this page.",
+      "prompts": [
+        "What mercy, however small, can I name from today?",
+        "What do I want to carry with me from these thirty days?"
+      ],
+      "prayer": "God, thank you for mercy enough for today. This morning I noticed:"
+    }
+  ],
+  "closingTitle": "And after",
+  "closing": [
+    "Thirty days is not long, and you may feel no further on than when you began. That is all right. Grief does not move in a straight line, and it does not end on a set day. Most people find that it changes shape over time.",
+    "Come back to any page here whenever you need it. Keep talking to God, honestly, in whatever words you have. And please do not carry this by yourself: a friend, a pastor, a grief group or a counselor can walk with you for the long road."
+  ],
+  "closingPrompts": [
+    "A letter to the person I am missing:",
+    "What I want to say to God today:"
+  ]
+}
