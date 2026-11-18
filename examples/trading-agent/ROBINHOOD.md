@@ -115,6 +115,8 @@ take-profit for them. The agent manages the bracket itself with scheduled check-
 | 2026-11-05 10:48 | SPY | sell | 0.006612 | $742.84 | Stop-loss, found at the hourly check, already past the stop |
 | 2026-11-10 09:49 | XLK | buy $4.91 | 0.029060 | $168.96 | Quick A (stop $165.58 at -2%, take-profit $175.72 at +4%, max 3 days) |
 | 2026-11-11 12:50 | XLK | sell | 0.029060 | $176.19 | Take-profit, found at the hourly check |
+| 2026-11-18 15:16 | VOO | sell | 0.014164 | $671.72 | Owner asked to keep $5 in VOO and take the rest out |
+| 2026-11-18 15:16 | TTWO | buy $10.00 | 0.046118 | $216.83 | GTA 6 launch trade (owner approved $10): stop $208.16 (-4%), then trailing |
 
 **SPY practice trade result: −$0.09 (−1.77%).** The plan was −$0.025 (−0.5%) at the stop,
 but SPY fell about 1.8% between the 09:49 entry and the 10:48 check. **Lesson:** an hourly
@@ -148,3 +150,19 @@ elections were rallies, not sell-offs, so they are a weak comparison.
 Account value after the trade: about $20.22, back above the $20 start. Note: two Tuesday afternoon
 checks were delayed by a session restart. XLK closed well above the stop, so nothing was missed, but
 it shows why a broker-held stop is safer than hourly checks.
+
+## TTWO / GTA 6 trade rules (set 2026-11-18)
+
+The owner approved **$10** for this one trade, an exception to the $5 quick-trade cap. They asked to
+keep the stop-loss and let the profit run (no fixed take-profit).
+
+| Rule | Value |
+|---|---|
+| Entry | 0.046118 TTWO at $216.83 (2026-11-18 15:16 ET), one day before the GTA 6 launch |
+| Starting stop | $208.16 (−4%), about −$0.40 |
+| Trailing starts | once the peak hourly close is ≥ $234.18 (+8%) |
+| Trailing stop | max(break-even $216.83, peak × 0.92); it only moves up |
+| Checks | hourly at :47, 09:47–15:47 ET on weekdays, plus a daily news check for GTA 6 sales |
+| Risk | overnight and launch-day gaps can open past the stop; hourly checks can be delayed |
+
+Remaining cash after these trades: about $4.63, untouched by agent rules.
