@@ -117,6 +117,7 @@ take-profit for them. The agent manages the bracket itself with scheduled check-
 | 2026-11-11 12:50 | XLK | sell | 0.029060 | $176.19 | Take-profit, found at the hourly check |
 | 2026-11-18 15:16 | VOO | sell | 0.014164 | $671.72 | Owner asked to keep $5 in VOO and take the rest out |
 | 2026-11-18 15:16 | TTWO | buy $10.00 | 0.046118 | $216.83 | GTA 6 launch trade (owner approved $10): stop $208.16 (-4%), then trailing |
+| 2026-11-20 09:49 | TTWO | sell | 0.046118 | $206.14 | Stop-loss: opened Friday below $208.16, sold at the first check |
 
 **SPY practice trade result: −$0.09 (−1.77%).** The plan was −$0.025 (−0.5%) at the stop,
 but SPY fell about 1.8% between the 09:49 entry and the 10:48 check. **Lesson:** an hourly
@@ -166,3 +167,9 @@ keep the stop-loss and let the profit run (no fixed take-profit).
 | Risk | overnight and launch-day gaps can open past the stop; hourly checks can be delayed |
 
 Remaining cash after these trades: about $4.63, untouched by agent rules.
+
+**TTWO / GTA 6 result: −$0.49 (−4.93%).** Planned loss at the stop was −$0.40; the stock closed
+Thursday $0.49 above the stop and opened Friday below it, so the sale filled about $2 lower.
+The game itself was a hit (reported 99 review score, over $2B reported sales), but the stock fell
+about 3.7% on launch day and kept falling: "buy the rumor, sell the news." Trailing never started
+(peak $217.87, well short of $234.18). No day trade was used.
