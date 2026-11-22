@@ -1,0 +1,305 @@
+{
+  "slug": "between-jobs",
+  "title": "Between Jobs",
+  "subtitle": "A 21-day guided prayer journal after a layoff or job loss",
+  "season": "job-loss",
+  "palette": {
+    "ink": "#2f3532",
+    "accent": "#5f8475",
+    "paper": "#f2f2ee",
+    "line": "#cbd1cc",
+    "backdrop": "#d8e2dc"
+  },
+  "introTitle": "For the week the job ended",
+  "intro": [
+    "Maybe it was a short meeting and a box for your desk. Maybe it was an email, or a contract that was not renewed, or a slow fade you saw coming. However it happened, you are between jobs now, and that can shake far more than your bank balance.",
+    "Work gives people a schedule, a reason to get dressed, a group of colleagues and an answer to the question \"what do you do?\" When it goes, all of those can go with it. Feeling lost, ashamed, angry or numb is normal. None of it means you have failed.",
+    "This journal is short on purpose: twenty-one days, about ten minutes each. One verse, a short thought, two questions and room to write your own prayer. The first week is for the shock. The second is for getting through. The third is for the next step.",
+    "Two practical things before you start. Look into any unemployment benefits or severance you may be owed, and do it this week. And tell at least one person what happened. You do not have to carry this quietly."
+  ],
+  "howTo": [
+    "Pick a time each day. Job searching can swallow every hour; this ten minutes is protected.",
+    "Read the verse slowly, twice. Out loud if you can.",
+    "Read the short reflection. Take what helps and leave the rest.",
+    "Answer the two questions honestly. Short answers count. Lists count.",
+    "Finish the prayer in your own words. One sentence is a real prayer.",
+    "At the end of each week, use the pause page to look back before you go on.",
+    "Use the list at the back for what you ask God for, and what happens."
+  ],
+  "beginPrompts": [
+    "What happened? Write it plainly, the way I would tell a close friend.",
+    "What am I most worried about right now: money, identity, what people think, what comes next?",
+    "What do I still have that this loss did not take?"
+  ],
+  "pausePrompts": [
+    "One thing I noticed about God this week",
+    "The hardest moment of this week, and how I got through it",
+    "One small step I took, even if nothing came of it yet",
+    "Someone I can tell about this week"
+  ],
+  "weeks": [
+    {
+      "title": "Week 1: Shaken",
+      "from": 1,
+      "to": 7,
+      "pauseTitle": "A week of taking the hit",
+      "pause": "This week was about the shock: saying what happened and remembering who you are without a job title. Look back over your pages. You do not have to have a plan yet."
+    },
+    {
+      "title": "Week 2: Carried",
+      "from": 8,
+      "to": 14,
+      "pauseTitle": "A week of getting through",
+      "pause": "This week was about provision, people and rest: the things that hold you up while you look. Notice what helped and who showed up."
+    },
+    {
+      "title": "Week 3: Next steps",
+      "from": 15,
+      "to": 21,
+      "pauseTitle": "Twenty-one days of showing up",
+      "pause": "These last days were about taking real steps while the outcome is still unknown. You finished. Look back over the whole three weeks before you write."
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Pressed, not crushed",
+      "ref": "2 Corinthians 4:8-9",
+      "reflection": "Paul wrote this from a life with plenty of setbacks in it, and look at how honest the first half of each line is. Pressed. Perplexed. Struck down. He does not pretend those things did not happen. But each line turns on the word \"yet.\" You may feel struck down this week, and you are. You are also not destroyed. Both are true at once.",
+      "prompts": [
+        "How do I honestly feel today, in the words I would actually use?",
+        "Where in this situation can I already see a \"yet\"?"
+      ],
+      "prayer": "God, I have been struck down. Here is how it feels:"
+    },
+    {
+      "day": 2,
+      "title": "Tell him your troubles",
+      "ref": "Psalm 142:1-2",
+      "reflection": "David wrote this while hiding in a cave, with his old life gone and his future unclear. Notice how plain the prayer is. He complains out loud. He lists his troubles. Many of us have been taught to keep a brave face, especially about work and money. You do not have to do that here. God is not a hiring manager. You can say exactly what went wrong and how unfair it feels.",
+      "prompts": [
+        "What feels most unfair about how this happened?",
+        "What have I not said out loud to anyone yet?"
+      ],
+      "prayer": "God, I am pouring out my complaint to you. Here are my troubles:"
+    },
+    {
+      "day": 3,
+      "title": "Worth more than a price",
+      "ref": "Luke 12:6-7",
+      "reflection": "Jesus picked the cheapest thing in the market to make his point: sparrows, sold for a couple of small coins. Not one of them is forgotten. Then he says you are worth more than many of them. A layoff can make you feel like a line item that was cut to save money. The job market puts a price on your skills. It does not get to put a price on you.",
+      "prompts": [
+        "When people ask \"what do you do?\", how do I feel about answering right now?",
+        "Who am I apart from my work? List what is still true about me."
+      ],
+      "prayer": "God, you have not forgotten me. Help me to see my worth the way you see it:"
+    },
+    {
+      "day": 4,
+      "title": "Called by name",
+      "ref": "Isaiah 43:1",
+      "reflection": "These words were spoken to people who had lost their homes, their jobs and their place in the world. God does not begin by telling them what to do next. He reminds them who they belong to. You may have been one employee number among hundreds when the layoff came. Here you are known by name. Your worth was never something an employer gave you, so it is not something one can take away.",
+      "prompts": [
+        "Where have I been measuring my worth by my work or my income?",
+        "What does it mean to me to hear \"you are mine\" today?"
+      ],
+      "prayer": "God, you know my name. Today I need to hear that I belong to you because:"
+    },
+    {
+      "day": 5,
+      "title": "Made with care",
+      "ref": "Psalm 139:13-14",
+      "reflection": "Rejection has a way of getting into your head. A layoff, a silent inbox and a polite \"we went with another candidate\" can all start to sound like a verdict on you as a person. This psalm says something different about how you were made: carefully, on purpose, by someone who knew what he was doing. That was true before you had a job, and it will be true in your next one.",
+      "prompts": [
+        "What has this job loss been telling me about myself? Is it true?",
+        "What strengths, skills or qualities in me are worth giving thanks for?"
+      ],
+      "prayer": "God, you made me with care. Help me to believe it when I feel rejected. I thank you for:"
+    },
+    {
+      "day": 6,
+      "title": "Today's bread",
+      "ref": "Matthew 6:11",
+      "reflection": "Jesus taught his friends to ask for bread for today, not for a year's supply. That is a hard prayer when the paychecks have stopped and you are doing math at two in the morning. It does not ask you to stop planning or budgeting. It asks you to bring today's needs to God today, and to let tomorrow's needs wait for tomorrow's prayer.",
+      "prompts": [
+        "What do I actually need this week? List the real numbers if it helps.",
+        "Which money worries belong to today, and which belong to later?"
+      ],
+      "prayer": "Father, give us today our daily bread. Today we need:"
+    },
+    {
+      "day": 7,
+      "title": "One day's portion",
+      "ref": "Exodus 16:4",
+      "reflection": "In the desert, the people were given just enough food for each day. If they tried to stockpile it, it spoiled. They were being taught to trust one day at a time, which nobody enjoys. Between jobs, you may feel you cannot rest until everything is secure for months ahead. This story suggests another way to live through a lean season: gather what you need for today, and look up again tomorrow.",
+      "prompts": [
+        "Where am I trying to secure every future need before I can breathe?",
+        "What was provided for me this week, even in small ways?"
+      ],
+      "prayer": "God, teach me to live one day at a time. Today I am trusting you for:"
+    },
+    {
+      "day": 8,
+      "title": "Ravens",
+      "ref": "1 Kings 17:4",
+      "reflection": "Elijah was sent to hide by a brook during a long drought, and he was fed there by birds. It is a strange story on purpose. Provision often arrives by routes nobody would have planned: a friend's spare room, a short contract, a neighbor's casserole, a lead from someone you barely know. Keep your eyes open this week. Help may not come from where you expect it.",
+      "prompts": [
+        "What unexpected help have I received since I lost my job?",
+        "Is there help I have been too proud or too shy to accept?"
+      ],
+      "prayer": "God, thank you for the ravens. Open my eyes to help from unexpected places, like:"
+    },
+    {
+      "day": 9,
+      "title": "Learning to live with less",
+      "ref": "Philippians 4:11-12",
+      "reflection": "Paul says he learned to be content, which means it did not come naturally. He had known both plenty and hunger, and he found something steady underneath both. Living on less is hard and sometimes frightening. It can also show you what you need and what you only got used to. Cutting back is not a failure. It is one of the most practical things you can do this month.",
+      "prompts": [
+        "What could I cut back on for a season without losing what matters?",
+        "What do I have right now that I am grateful for?"
+      ],
+      "prayer": "God, teach me to be content with less for now. Help me with:"
+    },
+    {
+      "day": 10,
+      "title": "Two are better",
+      "ref": "Ecclesiastes 4:9-10",
+      "reflection": "The writer was practical about this: a person who falls alone has no one to help them up. Losing a job can make people pull away from friends out of embarrassment, just when they need others most. Most people have been through something like this, or love someone who has. Telling people what happened is not oversharing. It is how you let someone help you up.",
+      "prompts": [
+        "Who have I told about my job loss? Who have I been avoiding telling?",
+        "Who is one person I could reach out to this week?"
+      ],
+      "prayer": "God, I do not want to go through this alone. Help me to reach out to:"
+    },
+    {
+      "day": 11,
+      "title": "Ask around",
+      "ref": "Proverbs 15:22",
+      "reflection": "This proverb was written long before anyone used the word networking, but it is the same idea. Plans go better when more people know about them. Many jobs are found through someone who heard you were looking. Asking for advice can feel awkward, as if you are begging. You are not. Most people are glad to be asked what they think, and glad to pass on a name.",
+      "prompts": [
+        "Who could give me good advice about my next step? List five names.",
+        "What would I ask each of them?"
+      ],
+      "prayer": "God, bring the right advisers across my path. I will reach out to:"
+    },
+    {
+      "day": 12,
+      "title": "Let someone carry it",
+      "ref": "Galatians 6:2",
+      "reflection": "This verse is usually read as a reminder to help others. Turn it around: sometimes you are the one whose burden needs carrying. If you are used to being the helper or the provider, receiving help can feel humbling. But you cannot let others obey this verse if you never let them carry anything for you. Accepting a meal, a loan or a reference can be a gift to the giver too.",
+      "prompts": [
+        "What is the heaviest part of this season for me to carry alone?",
+        "What could I let someone else carry this week?"
+      ],
+      "prayer": "God, I am used to carrying things myself. Help me to let others carry:"
+    },
+    {
+      "day": 13,
+      "title": "Rest awhile",
+      "ref": "Mark 6:31",
+      "reflection": "The disciples were so busy that they had no time to eat, and Jesus told them to go somewhere quiet and rest. Job searching can turn into a job that never ends: one more application, one more refresh of the inbox. Being busy feels responsible. But a tired mind writes worse cover letters and interviews badly. Rest is not wasting time between jobs. It is part of getting through them well.",
+      "prompts": [
+        "How many hours a day am I spending on the search, or worrying about it?",
+        "When will I stop each day, and what will I do to rest?"
+      ],
+      "prayer": "Jesus, you told your friends to rest. Help me to stop and rest by:"
+    },
+    {
+      "day": 14,
+      "title": "My portion",
+      "ref": "Lamentations 3:24",
+      "reflection": "A portion is the share that is yours, the part nobody can take. The writer had lost his city, his security and his way of life. What he says he still has is God, and so he chooses to hope. Hope here is not a mood. It is a conclusion he reaches on purpose. You can reach it too, even on a day when nothing in your inbox looks good.",
+      "prompts": [
+        "What has this job loss taken from me? Name it honestly.",
+        "What is still mine that it cannot take?"
+      ],
+      "prayer": "God, you are my portion. Even now, I choose to hope in you about:"
+    },
+    {
+      "day": 15,
+      "title": "Ask, seek, knock",
+      "ref": "Matthew 7:7",
+      "reflection": "Jesus describes prayer with three active verbs, and each one is a little more persistent than the last. This is not a promise that the first door you knock on will open, and it is not a formula for getting the job you want. It is an invitation to keep coming back to God, and to keep asking. Prayer and a job search have that in common. Both reward people who do not quit.",
+      "prompts": [
+        "What am I asking God for right now? Say it plainly.",
+        "Which doors am I knocking on this week? List them."
+      ],
+      "prayer": "God, I am asking, seeking and knocking. Today I bring you:"
+    },
+    {
+      "day": 16,
+      "title": "One more cast",
+      "ref": "Luke 5:4-5",
+      "reflection": "Peter was a professional fisherman, and he had worked all night with nothing to show for it. Then someone who was not a fisherman told him to try again. His reply is honest: we have already tried. He does it anyway. You may have sent dozens of applications and heard nothing. Your frustration is fair. This story is for the morning after the empty night, when trying again takes courage.",
+      "prompts": [
+        "Where have I worked hard and caught nothing so far?",
+        "What would \"letting down the net\" one more time look like this week?"
+      ],
+      "prayer": "Lord, I have worked all night and caught nothing. At your word I will try again with:"
+    },
+    {
+      "day": 17,
+      "title": "What you have to give",
+      "ref": "1 Peter 4:10",
+      "reflection": "This verse assumes that everyone has received something worth giving. A season between jobs can be a good moment to take stock honestly: what you are good at, what people thank you for, and what you would do even if nobody paid you. Sometimes the next job is a step sideways into work that fits you better. Sometimes it is the same work somewhere kinder. Either way, start with what you have.",
+      "prompts": [
+        "What am I good at? What do people come to me for?",
+        "What kind of work would use my gifts best, even if it looks different from my last job?"
+      ],
+      "prayer": "God, show me how to use what you have given me. I think my gifts include:"
+    },
+    {
+      "day": 18,
+      "title": "When I fall",
+      "ref": "Micah 7:8",
+      "reflection": "The prophet does not say \"if I fall.\" He says when. Falling is expected, and so is getting up again. A job search is full of small falls: the interview that went badly, the role you were sure about, the email that never came. Each one can feel like a judgment. This verse treats falling as part of the road, and it promises light in the dark stretch, not a road without any.",
+      "prompts": [
+        "What rejection or setback has hurt most so far?",
+        "What helps me get up again after a hard day?"
+      ],
+      "prayer": "God, when I fall, help me to rise. Today I need light for:"
+    },
+    {
+      "day": 19,
+      "title": "Roots in a dry year",
+      "ref": "Jeremiah 17:7-8",
+      "reflection": "The tree in this picture still goes through heat and drought. What is different is where its roots go. They reach down to water that does not dry up when the weather turns. A dry year is a fair description of the time between jobs. The question this verse asks is not how to avoid the drought. It is where your roots are reaching while it lasts.",
+      "prompts": [
+        "Where have my roots been reaching: savings, my reputation, my own effort, God?",
+        "What helps me stay rooted on a hard day?"
+      ],
+      "prayer": "God, I want my roots to reach toward you in this dry season. Help me with:"
+    },
+    {
+      "day": 20,
+      "title": "The work of our hands",
+      "ref": "Psalm 90:17",
+      "reflection": "This prayer asks God to make our work last, and it asks twice, as if the writer really means it. Work matters. It is not just a way to pay the bills, and it is right to want good work again. You can pray boldly for the next role: for the right fit, for good colleagues, for work that counts. You do not have to pretend you do not care.",
+      "prompts": [
+        "What kind of work do I hope for next? Describe it honestly.",
+        "What would make work feel worthwhile to me, beyond the paycheck?"
+      ],
+      "prayer": "God, establish the work of my hands. For my next job, I am asking for:"
+    },
+    {
+      "day": 21,
+      "title": "Yet",
+      "ref": "Habakkuk 3:17-18",
+      "reflection": "Habakkuk lists everything that has failed: crops, vines, olives, fields, flocks. For him, that was the whole economy, and his livelihood with it. Then comes one word: yet. He does not wait for the harvest to come back before he chooses joy in God. You may still be between jobs today. You can still end these three weeks with your own \"yet.\"",
+      "prompts": [
+        "What is still unresolved for me right now?",
+        "If I wrote my own \"yet\" sentence, what would it say?"
+      ],
+      "prayer": "God, even though it is not resolved, yet I will:"
+    }
+  ],
+  "closingTitle": "Still between, and still held",
+  "closing": [
+    "You may have a new job by now, or you may still be searching. Either way, you spent three weeks being honest with God about one of the harder things that can happen to a working person. That counts.",
+    "Keep the practice that helped. Keep telling people what you are looking for. And if the money worries or the low days become too heavy, please talk to someone: a pastor, a counselor, a financial adviser, or a friend who has been here before."
+  ],
+  "closingPrompts": [
+    "A note to myself for the first day of my next job:",
+    "What I want to say to God today:"
+  ]
+}

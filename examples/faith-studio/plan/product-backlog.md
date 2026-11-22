@@ -1,6 +1,6 @@
 # Product Backlog
 
-Last re-ranked 2026-11-15, by date only: no shop is confirmed live, so there is no sales or search data yet.
+Last re-ranked 2026-11-22, by date only: no shop is confirmed live, so there is no sales or search data yet. Until a shop is open, only one new journal is written per week.
 
 Ranked by expected sales and by date. The researcher re-ranks this every week from real search
 and sales data. Two products ship per week.
@@ -11,7 +11,7 @@ and sales data. Two products ship per week.
 | done | `be-still` | Be Still: 30 days for an anxious mind | anxiety prayer journal, Bible verses for anxiety | now |
 | done | `held-in-grief` | Held: 30 days after a loss | grief prayer journal, sympathy gift Christian | now |
 | done | `begin-again` | Begin Again: 31 days for a new year | new year prayer journal, new year devotional | by Dec 5 |
-| 4 | `between-jobs` | Between Jobs: 21 days after a layoff | job loss encouragement, career prayer journal | Dec 5 |
+| done | `between-jobs` | Between Jobs: 21 days after a layoff | job loss gift, layoff gift, career change | by Dec 5 |
 | 5 | `forty-days` | Forty Days: a Lent journal | Lent journal printable, Lent devotional 2027 | Jan 25 |
 | 6 | `new-here` | New Here: 30 days for a new believer | new believer gift, baptism gift journal | Dec 12 |
 | 7 | `little-one` | Little One: 30 days for a new mother | new mom prayer journal, baby shower gift Christian | Dec 19 |
