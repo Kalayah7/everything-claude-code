@@ -1,6 +1,6 @@
 # 10. Help Is Not Faithlessness
 
-This chapter is short, and it may be the most important one in the book.
+This chapter is short, and it says something many anxious Christians have never been told.
 
 Many Christians who struggle with anxiety are reluctant to get help. They wonder whether seeing a counselor means they do not trust God enough. They worry that taking medication would be a sign of weak faith. Sometimes they have been told so, directly or indirectly, by other Christians.
 
@@ -22,7 +22,7 @@ Paul calls his companion Luke "the beloved physician". He does not seem to think
 
 {{verse: 1 Timothy 5:23}}
 
-Paul did not tell Timothy to pray harder about his stomach. He told him to take something for it. He saw no contradiction between faith and practical remedies for the body.
+Paul did not tell Timothy to pray harder about his stomach. He told him to take something for it. He saw no contradiction between faith and practical remedies for the body. (Wine was an ordinary remedy in that world. This is not advice to drink: for many people alcohol makes anxiety worse.)
 
 Jesus himself, when criticized for spending time with sinners, said that it is not the healthy who need a doctor, but the sick. He used the doctor as a natural picture of help that people rightly seek.
 
@@ -32,7 +32,7 @@ If your anxiety is affecting your daily life, here are some steps worth consider
 
 - **See your doctor.** Tell them honestly what you are experiencing. They can check for physical causes and talk with you about options.
 - **Talk to a licensed counselor or therapist.** Many people are helped by talking therapies. If it matters to you, you can look for a counselor who shares your faith, though a good counselor of any background will respect it.
-- **If medication is suggested, consider it seriously,** and make the decision with your doctor. Medication for anxiety is not a moral matter any more than medication for asthma is. Do not start, stop or change medication without medical advice.
+- **If medication is suggested, you are free to consider it without guilt,** and to decide with your doctor. Medication for anxiety is not a moral matter any more than medication for asthma is. Do not start, stop or change medication without medical advice.
 - **Tell a pastor or trusted friend.** They can pray with you and help you take these steps.
 
 And if you are ever in crisis, or have thoughts of harming yourself, please reach out at once. In the United States, call or text 988. Elsewhere, call your local emergency number or crisis line.

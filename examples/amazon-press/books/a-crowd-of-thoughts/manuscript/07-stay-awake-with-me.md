@@ -2,7 +2,7 @@
 
 On the last night before his death, after supper with his disciples, Jesus went out to a garden called Gethsemane, on the Mount of Olives.
 
-He left most of the disciples near the entrance and took three of them, Peter, James and John, a little further. Then Matthew tells us this:
+He told most of the disciples to sit and wait, and took three of them, Peter, James and John, a little further. Then Matthew tells us this:
 
 {{verse: Matthew 26:37-38}}
 
@@ -12,7 +12,7 @@ Sorrowful and severely troubled. Exceedingly sorrowful, even to death. These are
 
 Christians believe Jesus is the Son of God, the one who calmed storms and raised the dead. And here he is, in a garden at night, so distressed that he says his sorrow is enough to kill him.
 
-Mark's Gospel says he began to be greatly troubled and distressed. Luke's Gospel adds that, in his anguish, his sweat became like great drops of blood falling to the ground.
+Mark's Gospel says he began to be greatly troubled and distressed. Luke's Gospel, in most of its manuscripts, adds that, in his anguish, his sweat became like great drops of blood falling to the ground.
 
 Whatever else this scene means, it means this: overwhelming distress is not foreign to God. Jesus knew what it is to dread what is coming, to feel the weight of it in his body, to be unable to rest.
 
@@ -44,7 +44,7 @@ He had asked for company, and his friends could not stay awake. They were exhaus
 
 If you have reached out to people in your anxiety and found them distracted, dismissive or simply asleep, Jesus knows that disappointment too. It is real, and it hurts.
 
-It is still worth asking. Jesus did not stop asking his friends to watch with him. And some of the people around you may be able to stay awake better than you expect, if they know how much you need it.
+It is still worth asking. Some of the people around you may be able to stay awake better than you expect, if they know how much you need it.
 
 ## For the quiet minute
 

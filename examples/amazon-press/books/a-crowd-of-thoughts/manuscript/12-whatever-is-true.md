@@ -32,7 +32,7 @@ These questions will not always make the anxiety go away. But they gently loosen
 
 The rest of Paul's list widens the view. Whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is of good report, anything excellent or worthy of praise.
 
-Anxiety narrows our attention. It locks onto threats and blocks out almost everything else. Paul's list is like opening the curtains. There is more in the world than the thing you fear. There is kindness, beauty, good work, people who love you, music, the smell of rain. These are true too.
+An anxious mind locks onto threats and blocks out almost everything else. Paul's list is like opening the curtains. There is more in the world than the thing you fear. There is kindness, beauty, good work, people who love you, music, the smell of rain. These are true too.
 
 *Think about these things.* The word means to consider carefully, to let the mind stay on something. It is a practice, not a single decision. You will drift back to the frightening stories, probably many times a day. Each time you notice, you can gently bring your mind back.
 

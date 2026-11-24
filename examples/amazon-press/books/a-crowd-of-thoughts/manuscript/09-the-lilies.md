@@ -22,23 +22,23 @@ Anxiety lives in the future. It runs ahead to tomorrow, next month, next year, a
 
 *Look at the birds. Consider the lilies.* These are invitations to come back to now. To notice, with your actual eyes, something small and alive that God is caring for at this moment.
 
-It is not a trick to make worry disappear. Jesus is making an argument: the God who pays attention to sparrows and wildflowers is paying attention to you. You are, as he says, of much more value than they are. But the argument works best when you actually look. When you stand at a window and watch a bird for a full minute, or kneel and examine a flower, something in the body can begin to slow down, and the truth Jesus is pointing to can land.
+This is no trick to make worry disappear. Jesus is making an argument: the God who pays attention to birds and wildflowers is paying attention to you. You are, as he says, of much more value than they are. But the argument works best when you actually look. When you stand at a window and watch a bird for a full minute, or kneel and examine a flower, something in the body can begin to slow down, and the truth Jesus is pointing to can land.
 
-## One hour
+## One moment
 
 In the middle of this passage, Jesus asks a simple, almost humorous question:
 
 {{verse: Matthew 6:27}}
 
-Worry promises a great deal. It feels like it is doing something useful: preparing, protecting, solving. But Jesus points out that it cannot add even a single hour to your life. All that effort, and nothing is added.
+Worry promises a great deal. It feels like it is doing something useful: preparing, protecting, solving. But Jesus points out that it cannot add even a single moment to your life (many translations say "a single hour"). All that effort, and nothing is added.
 
-This is not a scolding. It is a kind of release. If worry cannot add an hour, then you are not failing in your duty when you set it down for a while. You are not leaving your loved ones unprotected if you stop rehearsing every disaster. The work of keeping the world turning was never yours.
+Rather than a scolding, this is a kind of release. If worry cannot add a moment, then you are not failing in your duty when you set it down for a while. You are not leaving your loved ones unprotected if you stop rehearsing every disaster. The work of keeping the world turning was never yours.
 
 ## Seek first
 
 The passage ends with an invitation and a reassurance. Seek first God's kingdom and his righteousness, Jesus says, and all these things will be given to you as well. And then: do not be anxious for tomorrow, for tomorrow will be anxious for itself. Each day has enough trouble of its own.
 
-Jesus does not say tomorrow will be easy. He says it will have its own trouble, and its own strength. You only have to live today.
+Tomorrow will have its own trouble. You only have to live today.
 
 ## A practice: look and consider
 

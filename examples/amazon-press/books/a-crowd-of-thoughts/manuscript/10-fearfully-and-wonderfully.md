@@ -34,7 +34,7 @@ The Bible does not give a list of health instructions for anxiety, and this book
 - **Slow breathing**, especially letting the breath out slowly, when you notice your breathing has become fast and shallow.
 - **Less of what makes it worse**, which for some people includes a lot of caffeine or alcohol, or endless news and scrolling.
 
-These are not spiritual achievements, and you are not failing if you cannot manage them all. They are ways of honoring the body God knit together, and giving it a fair chance to settle.
+They are not a treatment for anxiety, and they do not replace one. They are not spiritual achievements either, and you are not failing if you cannot manage them all. They are ways of honoring the body God knit together, and giving it a fair chance to settle.
 
 ## Praying with the body
 

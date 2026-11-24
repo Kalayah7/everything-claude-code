@@ -21,7 +21,7 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 <ul>
 <li><b>David</b>, who prayed "when I am afraid", not "if"</li>
 <li><b>Elijah</b>, exhausted under a tree, who was given sleep and food before he was given a single word of correction</li>
-<li><b>Paul</b>, who wrote "in nothing be anxious" from a prison cell, and admitted his own daily anxiety</li>
+<li><b>Paul</b>, who wrote "in nothing be anxious" as a prisoner in chains, and admitted his own daily anxiety</li>
 <li><b>Jesus in Gethsemane</b>, sorrowful to the point of death, asking his friends to stay awake with him</li>
 <li><b>The disciples in the storm</b>, asking "don't you care?"</li>
 </ul>
@@ -33,7 +33,7 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 ## Keywords (7 slots)
 
 1. christian book for anxiety
-2. bible verses for anxiety and worry
+2. christian anxiety book bible
 3. overthinking christian
 4. anxious mind faith
 5. peace of god in anxious times

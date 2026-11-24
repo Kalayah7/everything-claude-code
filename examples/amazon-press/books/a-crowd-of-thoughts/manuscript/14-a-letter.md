@@ -14,7 +14,7 @@ When you are afraid, you can still turn toward God. Fear and trust can share a s
 
 Your body matters. Sleep, food, water, a walk, a slow breath: God cared for Elijah that way before he said anything else.
 
-Philippians 4:6 is an invitation, written from a prison cell. Bring everything. God's peace stands guard.
+Philippians 4:6 is an invitation, written in chains. Bring everything. God's peace stands guard.
 
 Throw your worries onto God, because he cares for you. Then throw them again.
 

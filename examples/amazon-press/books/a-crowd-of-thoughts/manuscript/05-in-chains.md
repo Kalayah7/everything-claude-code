@@ -1,4 +1,4 @@
-# 4. From a Prison Cell
+# 4. In Chains
 
 If you have struggled with anxiety for any length of time, someone has probably quoted this verse to you:
 
@@ -12,7 +12,7 @@ So it is worth looking carefully at who wrote it, where, and what else he said.
 
 Paul wrote the letter to the Philippians while he was a prisoner. Early in the letter he mentions his chains, and that the whole palace guard knows he is imprisoned for Christ. He did not know whether he would be released or executed. He writes openly about both possibilities.
 
-This is not advice from someone sitting comfortably at a desk. It is written by a man with every reason in the world to be anxious, to a church that was anxious about him.
+Paul was writing as a man with every reason in the world to be anxious, to a church that was anxious about him.
 
 And Paul was no stranger to anxiety himself. In another letter, after listing the beatings, shipwrecks, hunger and dangers he had faced, he adds this:
 
@@ -44,7 +44,7 @@ It does not erase the fear. It sets it in a larger picture.
 
 ## A kinder reading
 
-So, if Philippians 4:6 has felt like a stick to beat yourself with, try reading it as Paul may have meant it: as an invitation from one anxious, imprisoned believer to others. *Do not carry this alone. Bring all of it to God. Thank him for what is still good. And his peace will stand guard over you, even here.*
+So, if Philippians 4:6 has felt like a stick to beat yourself with, try reading it as Paul may have meant it: as an invitation from one anxious believer in chains to others. *Do not carry this alone. Bring all of it to God. Thank him for what is still good. And his peace will stand guard over you, even here.*
 
 ## For the quiet minute
 

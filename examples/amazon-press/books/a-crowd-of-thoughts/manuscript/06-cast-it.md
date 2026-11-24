@@ -8,7 +8,7 @@ It is one of the simplest verses about anxiety in the Bible. It has two parts: a
 
 ## The action: cast
 
-The word *cast* is a strong, physical word. In the Gospels, a closely related word is used when the disciples throw their cloaks onto the colt for Jesus to ride into Jerusalem. It is not a gentle setting down. It is a throw.
+The word *cast* is a strong, physical word. The same Greek word appears in only one other place in the New Testament: in Luke 19:35, when the disciples throw their cloaks onto the colt for Jesus to ride into Jerusalem. It is not a gentle setting down. It is a throw.
 
 That picture can help an anxious mind. Worry tends to be something we hold onto tightly, as if letting go of it would be careless. If I stop worrying about my son, something might happen to him. If I stop going over the presentation, I might fail. Part of us believes the worry itself is keeping things safe.
 

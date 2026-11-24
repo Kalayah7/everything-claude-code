@@ -8,7 +8,7 @@ And perhaps, on top of the anxiety itself, you carry a second weight: the sense 
 
 If that is you, this book is for you, and the first thing it wants to say is this: anxiety is not proof that your faith has failed.
 
-The Bible is full of people who were afraid, overwhelmed, sleepless and sick with worry. Some of them are its heroes. One of them asked to die. One of them, on the night before his death, was so distressed that he asked his closest friends to stay awake with him. That one was Jesus. These people are not in Scripture as warnings. They are there, in part, so that people like us would know that God meets frightened people.
+The Bible is full of people who were afraid, overwhelmed, sleepless and sick with worry. Some of them are its heroes. One of them asked to die. One of them, on the night before his death, was so distressed that he asked his closest friends to stay awake with him. That one was Jesus. These people are not in Scripture as warnings. They are there, in part, so that frightened people would know that God meets them.
 
 ## What this book is, and is not
 

@@ -2,7 +2,7 @@
 
 The heading of Psalm 56 links it to a frightening moment in David's life: the time the Philistines seized him in the city of Gath.
 
-The story behind it is in the first book of Samuel. David was on the run from King Saul, who wanted him dead. With nowhere safe to go, he fled to Gath, a Philistine city, home of the giant he had once killed. The servants of the king of Gath recognized him. David, the text says, became very afraid. To save his life, he pretended to be mad, scratching at the doors and letting saliva run down his beard, until the king sent him away in disgust.
+The story behind it is in the first book of Samuel. David was on the run from King Saul, who wanted him dead. With nowhere safe to go, he fled to Gath, a Philistine city, home of the giant he had once killed. The servants of the king of Gath recognized him. David, the text says, became very afraid. To save his life, he pretended to be mad, scratching at the doors and letting saliva run down his beard, until the king asked why they had brought this madman to him.
 
 It is not a heroic scene. It is the scene of a terrified man doing whatever he could think of to survive.
 

@@ -30,7 +30,7 @@ Something often happens when the crowd is named before God. It does not necessar
 
 The psalm says God's comforts *delight* the soul. That is a strong word. It does not promise that every worry is answered. In the very next verses, the writer is still asking for justice. But it says that, in the crowd, something good reached them. Something that did not merely numb the anxiety but brought a kind of joy alongside it.
 
-What were those comforts? The psalm hints at some of them earlier. When the writer felt their foot slipping, God's loving kindness held them up. God was their refuge, the rock they could hide in. These are not abstract ideas. They are pictures of being held, of having somewhere to go.
+What were those comforts? The verses around it name some of them. When the writer felt their foot slipping, God's loving kindness held them up. God was their refuge, the rock they could hide in. These are not abstract ideas. They are pictures of being held, of having somewhere to go.
 
 For you, comfort might come as a verse that steadies you, a friend's text at the right moment, an hour of sleep, a memory of a time God was faithful, or simply the sense, faint but real, that you are not alone in the noise. These are small things. They are also, according to this psalm, the kind of things God gives.
 

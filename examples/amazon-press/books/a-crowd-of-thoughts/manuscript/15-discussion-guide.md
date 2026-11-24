@@ -2,7 +2,7 @@
 
 This guide is for reading *A Crowd of Thoughts* with a friend, a small group or a class over six weeks, two chapters a week. Each session takes about an hour.
 
-A note for leaders: anxiety is common, and some people in your group may be struggling more than they show. Let people share as much or as little as they want. Never suggest that anxiety means weak faith, and resist quick fixes. If someone mentions panic attacks, being unable to function, or any thoughts of self-harm, follow up privately, encourage them to see a doctor or counselor, and in the United States make sure they know they can call or text 988.
+A note for leaders: anxiety is common, and some people in your group may be struggling more than they show. Let people share as much or as little as they want. Never suggest that anxiety means weak faith, and resist quick fixes. If someone mentions panic attacks, being unable to function, or any thoughts of self-harm, follow up privately, encourage them to see a doctor or counselor, and make sure they know about crisis help: in the United States, call or text 988; elsewhere, a local crisis line.
 
 ## Week 1: A Crowd of Thoughts and When, Not If (Before You Begin, chapters 1 and 2)
 
@@ -41,7 +41,7 @@ A note for leaders: anxiety is common, and some people in your group may be stru
 - **Discuss:**
   1. How do you hear the disciples' question, *don't you care?* Have you asked it?
   2. Why do you think Jesus tells us to *look* at the birds and *consider* the lilies?
-  3. What does "worry cannot add one hour" free you from?
+  3. What does "worry cannot add one moment" free you from?
 - **Practice:** Spend one minute a day this week looking at something living.
 
 ## Week 5: The Body and Getting Help (chapters 9 and 10)
