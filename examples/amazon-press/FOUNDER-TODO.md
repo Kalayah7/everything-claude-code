@@ -8,8 +8,8 @@ Only you can do these. The `/press` team prepares everything else.
 - [ ] Choose an imprint name and pen name. Search Amazon and the USPTO trademark search to make
       sure neither belongs to someone else. Add them to `press.config.json`.
 - [ ] Read the current KDP Content Guidelines and the AI-generated content rules.
-- [ ] Decide on covers: hire a designer or use a tool you have rights to. Amazon needs one cover
-      for the eBook and a full wrap (back, spine, front) for the paperback.
+- [ ] Covers: `node scripts/cover.js <slug>` makes a simple typographic eBook cover (JPG) and a
+      paperback full wrap (PDF) sized from the page count. Use them, or hire a designer for stronger ones.
 - [ ] Set your monthly goal and weekly hours in `press.config.json`.
 
 ## Each book (about 60 to 90 minutes)

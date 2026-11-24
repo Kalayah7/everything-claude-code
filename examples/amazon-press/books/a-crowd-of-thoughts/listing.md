@@ -55,4 +55,6 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 
 - eBook: `dist/a-crowd-of-thoughts.epub`
 - Paperback interior: `dist/a-crowd-of-thoughts-interior-6x9.pdf` (6 x 9 in, no bleed)
-- Covers: not made yet (see FOUNDER-TODO.md). Below 79 pages, so no spine text.
+- eBook cover: `dist/a-crowd-of-thoughts-ebook-cover.jpg` (1600 x 2560 px)
+- Paperback cover: `dist/a-crowd-of-thoughts-paperback-cover.pdf` (full wrap with 0.125 in bleed; spine blank below 79 pages)
+- Build order: `node scripts/press.js build a-crowd-of-thoughts` then `node scripts/cover.js a-crowd-of-thoughts` (rebuild both after setting the pen name)

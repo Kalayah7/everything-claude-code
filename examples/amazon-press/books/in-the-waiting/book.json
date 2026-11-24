@@ -6,5 +6,15 @@
   "seriesNumber": 1,
   "language": "en-US",
   "scripture": "web",
-  "dedication": "For everyone who is still waiting."
+  "dedication": "For everyone who is still waiting.",
+  "palette": {
+    "paper": "#efe9df",
+    "ink": "#2e3530",
+    "accent": "#8a6f4e"
+  },
+  "backCover": [
+    "You asked God for something a long time ago. You are still waiting.",
+    "In the Waiting is a short, honest book for the long middle: the stretch between asking and knowing. It will not promise you the ending you want. It walks with you through the people in Scripture who waited: Abraham and Sarah, Joseph, Hannah, Martha and Mary, the exiles in Babylon, and those who died still trusting.",
+    "Twelve short chapters, each ending with two honest questions and a brief prayer, and a six-week guide for small groups."
+  ]
 }

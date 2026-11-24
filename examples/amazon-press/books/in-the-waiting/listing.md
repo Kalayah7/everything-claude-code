@@ -56,5 +56,6 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 
 - eBook: `dist/in-the-waiting.epub`
 - Paperback interior: `dist/in-the-waiting-interior-6x9.pdf` (6 x 9 in, no bleed)
-- Covers: not made yet. Use KDP Cover Creator or a designer (see FOUNDER-TODO.md). The paperback spine
-  is too thin for spine text below 79 pages, so leave the spine blank.
+- eBook cover: `dist/in-the-waiting-ebook-cover.jpg` (1600 x 2560 px)
+- Paperback cover: `dist/in-the-waiting-paperback-cover.pdf` (full wrap with 0.125 in bleed; spine blank below 79 pages)
+- Build order: `node scripts/press.js build in-the-waiting` then `node scripts/cover.js in-the-waiting` (rebuild both after setting the pen name)

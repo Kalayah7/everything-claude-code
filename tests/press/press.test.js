@@ -9,6 +9,7 @@ const assert = require('assert');
 const fs = require('fs');
 const path = require('path');
 const { resolveScripture, BANNED } = require('../../examples/amazon-press/scripts/press');
+const { spineWidth } = require('../../examples/amazon-press/scripts/cover');
 
 const FAKE = Object.freeze({ 'John 11:35': 'Jesus wept.', 'Psalm 46:10': '“Be still, and know that I am God.”' });
 const lookup = ref => {
@@ -60,6 +61,10 @@ function runTests() {
   });
   t('banned phrases are lower case so the check can compare case-insensitively', () => {
     BANNED.forEach(p => assert.strictEqual(p, p.toLowerCase()));
+  });
+  t('spine width follows KDP white-paper thickness (0.002252 in per page)', () => {
+    assert.strictEqual(spineWidth(60), 0.1351);
+    assert.strictEqual(spineWidth(100), 0.2252);
   });
   t('built books and the Bible cache are git-ignored', () => {
     const ignore = fs.readFileSync(path.join(__dirname, '../../.gitignore'), 'utf8');

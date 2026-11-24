@@ -6,5 +6,15 @@
   "seriesNumber": 2,
   "language": "en-US",
   "scripture": "web",
-  "dedication": "For everyone whose mind will not slow down."
+  "dedication": "For everyone whose mind will not slow down.",
+  "palette": {
+    "paper": "#e6ebef",
+    "ink": "#2b3440",
+    "accent": "#5f7d96"
+  },
+  "backCover": [
+    "For the mind that will not slow down, and the heart that feels guilty about it.",
+    "A Crowd of Thoughts begins somewhere different: anxiety is not proof that your faith has failed. David was afraid. Elijah asked to die. Paul carried anxiety every day. Jesus was overwhelmed in the garden. God met every one of them.",
+    "Twelve short chapters with simple practices for racing minds, a chapter on why getting help is wise and not faithless, and a six-week group guide. Not a substitute for medical care or counseling."
+  ]
 }
