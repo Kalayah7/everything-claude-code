@@ -30,7 +30,7 @@ But if the season is long, a life on hold is a life lost. Jeremiah's letter says
 
 ## The good of the place you are in
 
-Notice too that the exiles were told to seek the good of the city. Not just to survive in it, but to pray for it and work for its peace.
+The exiles were also told to seek the good of the city. Not just to survive in it, but to pray for it and work for its peace.
 
 Waiting tends to turn us inward. Our own need gets so loud that it is hard to see anyone else. That is understandable, and you should not feel guilty for it. But there is often some relief, and some meaning, in looking outward again, even a little. Who is around you in this season? Who else is waiting? What good could you do, right where you are, that you would never have had the chance to do if your life had gone to plan?
 

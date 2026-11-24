@@ -14,7 +14,7 @@ Read those two sentences again. Jesus loved them. *Therefore,* or *so,* he staye
 
 If I had written that passage, I would have put a different word in the middle. Jesus loved them, *but* he stayed. Or, Jesus loved them, *and yet* he stayed. That is how delay usually feels from the inside: like a contradiction of love. If God loved me, surely he would come. Surely he would hurry.
 
-John does not write it that way. He puts love and delay side by side, and he does not apologise. The delay is not presented as evidence that Jesus did not care. It is presented as something that happened while he cared.
+John does not write it that way. He puts love and delay side by side, and he does not apologize. The delay is not presented as evidence that Jesus did not care. It is presented as something that happened while he cared.
 
 By the time Jesus arrived in Bethany, Lazarus had been dead and in the tomb for four days.
 

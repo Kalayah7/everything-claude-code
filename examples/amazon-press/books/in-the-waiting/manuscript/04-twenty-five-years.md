@@ -10,7 +10,7 @@ It would be about twenty-five years before his son Isaac was born.
 
 It is easy to read the story of Abraham in an afternoon and miss how long it took. The chapters move quickly. A promise, a journey, a famine, a quarrel, another promise. Turn a few pages and Isaac is born.
 
-But twenty-five years is a long time. Think back twenty-five years in your own life. Think about how many birthdays, how many ordinary Tuesdays, how many nights lying awake fit into that space. Abraham and Sarah lived every one of those days as a couple with a promise and no child.
+But twenty-five years is a long time. Think back twenty-five years in your own life. Think about how many birthdays, how many ordinary Tuesdays, how many nights lying awake fit into that space. Abraham and Sarah lived every one of those days as a couple with a promise and no child of their own.
 
 And they were not young. Each year that passed made the promise look less likely, not more. By the time a visitor came to their tent and said Sarah would have a son within a year, she was well past the age of bearing children. She was listening from the tent door, and she laughed.
 
@@ -28,7 +28,7 @@ About ten years after they arrived in Canaan, still with no child, Sarai (as she
 
 Hagar did conceive, and the result was misery. Sarai and Hagar turned against each other. Sarai treated Hagar harshly, and Hagar fled into the wilderness while pregnant. Years later the rivalry between the two women and their sons ended with Hagar and her son Ishmael being sent away.
 
-It would be easy to turn this into a neat moral about impatience. I want to be careful. Sarai was not foolish. She was a woman who had waited a decade for a promise that seemed to be addressed mainly to her husband, in a world where a woman's worth was tied to children. Her plan came out of real pain.
+It would be easy to turn this into a neat moral about impatience, but Sarai was not foolish. She was a woman who had waited a decade for a promise that seemed to be addressed mainly to her husband, in a world where a woman's worth was tied to children. Her plan came out of real pain.
 
 But the story is honest about what happened. When waiting goes on long enough, we are tempted to make the promise happen ourselves, by whatever means are at hand. Sometimes that is wise and good: applying for jobs, seeing a specialist, having a hard conversation. Sometimes it is a shortcut that hurts other people and ourselves.
 
@@ -48,7 +48,7 @@ If your waiting has led you to make decisions you regret, or if you have been hu
 
 ## The promise kept
 
-Isaac was born when Abraham was a hundred years old. Sarah laughed again, but this time it was a different laugh. She said God had brought her laughter, and that everyone who heard would laugh with her. Isaac's name means "he laughs".
+Isaac was born when Abraham was a hundred years old. This time Sarah said God had made her laugh, a very different laughter from the bitter kind, and that everyone who heard would laugh with her. Isaac's name means "he laughs".
 
 I do not tell you this ending to promise you the same ending. I do not know what God will do in your story. Abraham and Sarah received what they had been promised, in one son, at the very end of what seemed possible. Others in the Bible did not receive in their lifetimes what they waited for, and we will come to them.
 

@@ -30,6 +30,4 @@ There is one more psalm I want to leave with you. It was written by someone who 
 
 Whoever you are, wherever you are reading this, I hope that one day you will look back on this season and see God in it. And until then, I hope you will find him, again and again, in the middle.
 
-With you in the waiting,
-
-the author
+Wishing you strength for the waiting.

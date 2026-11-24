@@ -7,7 +7,7 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 - **Series:** Middle Seasons, Book 1
 - **Author:** (pen name from `press.config.json`)
 - **Language:** English
-- **Length:** about 13,100 words; 60-page 6 x 9 paperback
+- **Length:** about 13,000 words; 60-page 6 x 9 paperback
 - **AI-generated content question:** **Yes** (text). Scripture is quoted from the public-domain World English Bible.
 - **Public domain content:** No. The book quotes short public-domain Scripture passages, but the work itself is original.
 - **Adult content:** No

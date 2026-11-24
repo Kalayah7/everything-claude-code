@@ -36,7 +36,7 @@ That last promise may be the most precious. On the days when all you can do is w
 
 ## Simeon and Anna
 
-I want to end with two people who waited a very long time.
+I want to end with two people who waited, one of them for a very long time.
 
 When Jesus was a baby, Mary and Joseph brought him to the temple in Jerusalem, as the law required. Two people there were waiting.
 
@@ -46,15 +46,15 @@ The second was Anna, a prophet. She had been married for seven years and then wi
 
 {{verse: Luke 2:38}}
 
-Think about what their waiting looked like. Years and years of ordinary days in the temple. Prayers, fasting, worship. Watching families come and go with their babies. Nothing visibly changing.
+Think about what Anna's waiting looked like. Years and years of ordinary days in the temple. Prayers, fasting, worship. Watching families come and go with their babies. Nothing visibly changing.
 
-And then, one ordinary morning, a young couple from Nazareth walked in with their child.
+And then, one ordinary day, a young couple from Nazareth walked in with their child.
 
 ## The kind of people waiting makes
 
-I do not tell you about Simeon and Anna to promise you that one ordinary morning your answer will walk through the door. It might. It might not. I have tried, throughout this book, not to promise what I do not know.
+I do not tell you about Simeon and Anna to promise you that one ordinary day your answer will walk through the door. It might. It might not. I have tried, throughout this book, not to promise what I do not know.
 
-I tell you about them because of the kind of people they became while they waited. They were not bitter. They were not idle. They were devout and prayerful and faithful. When the moment came, they recognised it, because they had spent their waiting looking toward God. Anna immediately began telling everyone who was waiting with her.
+I tell you about them because of the kind of people they became while they waited. They were not bitter. They were not idle. They were devout and prayerful and faithful. When the moment came, they recognized it, because they had spent their waiting looking toward God. Anna immediately began telling everyone who was waiting with her.
 
 The long middle shapes us. It can make us bitter or it can make us deep. Often it does some of both, on different days. But it does not have to be wasted time. It can be time spent learning to walk without fainting, to keep looking, to keep praying, to stand beside others, and to trust that our way is not hidden from God.
 

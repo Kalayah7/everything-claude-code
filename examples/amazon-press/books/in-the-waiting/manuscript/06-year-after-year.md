@@ -40,11 +40,13 @@ Then something happened that I find remarkable. Eli, now understanding, blessed 
 
 {{verse: 1 Samuel 1:18}}
 
-Notice the order. Hannah's face changed *before* anything else changed. She was not yet pregnant. She had no guarantee. Eli had expressed a hope, not made a promise. Yet after pouring out her heart, she was able to eat again, and her face was no longer sad.
+Look at the order. Hannah's face changed *before* anything else changed. She was not yet pregnant. She had no guarantee. Eli had expressed a hope, not made a promise. Yet after pouring out her heart, she was able to eat again, and her face was no longer sad.
 
-I do not think this means her longing disappeared. I think it means something was lifted from her by the act of being honest before God. She had carried this alone, or among people who misunderstood it, for years. Now she had given it to God, fully, and she could walk down the hill and eat a meal.
+I do not think this means her longing disappeared. I think it means something was lifted from her by the act of being honest before God. She had carried this alone, or among people who misunderstood it, for years. Now she had given it to God, fully, and she could walk away and eat a meal.
 
 Hannah did go on to have a son, Samuel, who became one of the great prophets of Israel. She kept her vow and brought him to serve in the house of the Lord. Later she had other children. Her prayer of praise at the start of chapter two is one of the great songs in the Bible.
+
+Not everyone who prays as Hannah prayed is given a child, and the Bible does not promise it. If that is your grief, chapter 10 is for you too.
 
 But I want you to notice that part of her relief came before the answer. Honest prayer did not get her what she wanted on the spot. It did something to her in the middle.
 

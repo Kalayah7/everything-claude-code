@@ -4,7 +4,7 @@ The people of Israel had been out of Egypt for about a month when they started t
 
 They were in the wilderness, between slavery and the land they had been promised. It was the very definition of a middle: they had left one life and not yet arrived at the next, and there was no grocery store in the desert. They told Moses they wished they had died in Egypt, where at least they had sat by pots of meat and eaten bread until they were full.
 
-God's answer was not a rebuke. It was breakfast.
+God's first answer was bread.
 
 {{verse: Exodus 16:4}}
 
@@ -46,7 +46,7 @@ This is not the same as pretending the future does not matter. The Israelites st
 
 But there is a difference between *planning for* tomorrow and *living in* tomorrow. Planning takes an hour and then puts the pen down. Worry goes on all night, gathering manna that will spoil by morning.
 
-Here are a few small ways to practise living in today during a long wait:
+Here are a few small ways to practice living in today during a long wait:
 
 - **Ask for today's bread.** When you pray, ask specifically for what you need today. Strength for this conversation. Patience for this afternoon. Sleep tonight.
 - **Do today's tasks.** Make a short list of what today requires. Do those things. Let tomorrow's list wait for tomorrow.

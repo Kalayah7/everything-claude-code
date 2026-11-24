@@ -4,7 +4,7 @@ Every story has a middle, and the middle is the part nobody talks about.
 
 We tell beginnings well. *I lost my job. We started trying for a baby. The scan showed a shadow.* We tell endings well, too. *And then the call came. And then she was born. And then the results were clear.* At church, the stories that get told from the front are usually the ones with endings. They are good stories, and we are right to give thanks for them.
 
-But most of life is lived in the middle. The middle is the eleventh month of sending out applications. It is the fourth year of a marriage that is not getting better. It is the hospital car park, the empty room, the date on the calendar that comes around again. In the middle, nobody asks you to share your testimony, because you do not have one yet. You have a prayer that has not been answered, and a life that has to be lived anyway.
+But most of life is lived in the middle. The middle is the eleventh month of sending out applications. It is the fourth year of a marriage that is not getting better. It is the hospital parking lot, the empty room, the date on the calendar that comes around again. In the middle, nobody asks you to share your testimony, because you do not have one yet. You have a prayer that has not been answered, and a life that has to be lived anyway.
 
 ## What makes the middle hard
 
@@ -24,7 +24,7 @@ And there is **silence**. This is often the hardest part for people of faith. Yo
 
 Here is something worth holding on to: the Bible is full of the middle.
 
-Abraham was told he would be the father of a great nation, and then waited about twenty-five years for one son. Joseph had dreams of leadership and then spent years as a slave and a prisoner. Hannah prayed for a child year after year while another woman mocked her. The people of Israel spent generations in Egypt, then forty years in the wilderness, then decades in exile in Babylon. The psalms are full of people asking God how long, and the prophets are full of people waiting for promises they would not live to see. In the New Testament, Simeon and Anna waited in the temple well into old age for the one God had promised.
+Abraham was told he would be the father of a great nation, and then waited about twenty-five years for the son he was promised. Joseph had dreams of leadership and then spent years as a slave and a prisoner. Hannah prayed for a child year after year while another woman mocked her. The people of Israel spent generations in Egypt, then forty years in the wilderness, then decades in exile in Babylon. The psalms are full of people asking God how long, and the prophets are full of people waiting for promises they would not live to see. In the New Testament, Simeon and the aged prophet Anna waited for the comfort God had promised his people.
 
 Some of these people saw the thing they waited for. Some did not. We will look at both kinds, because both are in the book, and because I do not want to offer you only the stories with happy endings.
 
@@ -32,7 +32,7 @@ What strikes me about all of them is how *ordinary* their waiting was. They got 
 
 ## God is in the middle too
 
-One of the oldest prayers of waiting in the Bible is Psalm 13. It is short, and it begins like this:
+One of the best-known prayers of waiting in the Bible is Psalm 13. It is short, and it begins like this:
 
 {{verse: Psalm 13:1-2}}
 

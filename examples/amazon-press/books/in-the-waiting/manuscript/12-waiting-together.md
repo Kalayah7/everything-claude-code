@@ -41,7 +41,7 @@ You probably do not need a crowd. Moses had two. Think about who in your life mi
 - **"Can you check in with me now and then, even if I go quiet?"** Waiting can make us withdraw. A friend who reaches out anyway can make a great difference.
 - **"Will you sit with me?"** Sometimes the most helpful thing is simply company, a rock to sit on and someone beside you.
 
-If you have no one like this right now, consider whether a pastor, a counselor or a support group might be a starting point. There is no shame in that. Moses did not choose who stood beside him on the hill. He just let them hold his arms.
+If you have no one like this right now, consider whether a pastor, a counselor or a support group might be a starting point. There is no shame in that. Moses let others hold his arms.
 
 ## Being someone's Aaron or Hur
 

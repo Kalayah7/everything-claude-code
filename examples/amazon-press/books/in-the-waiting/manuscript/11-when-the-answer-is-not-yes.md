@@ -1,6 +1,6 @@
 # 10. When the Answer Is Not Yes
 
-This is the chapter I most wanted to write and least wanted to write.
+This may be the most important chapter in the book, and the hardest.
 
 Many books about waiting tell the stories of people who received what they waited for. Abraham got his son. Hannah got her son. Joseph got out of prison. Lazarus walked out of the tomb. These are true stories, and they are good ones. But if they were the only stories, they would quietly tell you something that is not true: that if you wait long enough and faithfully enough, you will always get what you asked for.
 
@@ -16,7 +16,7 @@ Paul asked three times. He was an apostle, a man of extraordinary faith who had 
 
 Not "not yet". No. Instead of removing the thorn, God gave Paul something else: grace that was enough, and power that showed up in weakness.
 
-I want to be honest that this is a hard answer. Paul seems to have come to accept it, and even to find a strange strength in it. But that does not mean it was easy, and it does not mean you must feel the same way the moment you realise the answer might be no. Paul asked three times before he heard it. Many of us will ask far more.
+I want to be honest that this is a hard answer. Paul seems to have come to accept it, and even to find a strange strength in it. But that does not mean it was easy, and it does not mean you must feel the same way the moment you realize the answer might be no. Paul asked three times before he heard it. Many of us will ask far more.
 
 ## Died in faith
 
@@ -28,7 +28,7 @@ They died not having received the promises.
 
 Toward the end of the chapter, the list changes tone. It speaks of people who saw great victories, and then of others who were mocked, imprisoned, beaten, who wandered about in poverty, who were mistreated. And it ends by saying that all these, though commended for their faith, did not receive what was promised in their lifetimes.
 
-These people are not in the hall of faith *despite* not receiving. They are there partly *because* they kept faith when they did not receive. Their waiting did not end the way they hoped, in this life. And Scripture holds them up as heroes.
+These people are not in the hall of faith *despite* not receiving. They are there partly *because* they kept faith when they did not receive. Even Abraham, who held Isaac in his arms, never saw the great nation or the land he had been promised. Their waiting did not end the way they hoped, in this life. And Scripture holds them up as heroes.
 
 ## What this does not mean
 

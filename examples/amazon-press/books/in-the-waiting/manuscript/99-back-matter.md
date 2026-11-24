@@ -4,7 +4,7 @@ If this book helped you, even a little, would you consider leaving an honest rev
 
 ## Keep going
 
-If you would like to keep praying through your season, *In the Waiting* also exists as a 30-day guided prayer journal: one verse, a short reflection, two questions and room to write, every day.
+If you would like to keep praying through your season, a companion 30-day guided prayer journal, also called *In the Waiting*, is planned: one verse, a short reflection, two questions and room to write, every day.
 
 ## If you are struggling
 

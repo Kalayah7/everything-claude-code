@@ -1,10 +1,10 @@
 # 4. Forgotten in the Prison
 
-Joseph was seventeen when his brothers sold him.
+Joseph was seventeen when the trouble with his brothers began.
 
-He had been his father's favourite, and he had not been subtle about it. He had dreams in which his brothers bowed down to him, and he told them so. They hated him for it. One day, far from home, they threw him into a dry pit, then sold him to traders on their way to Egypt, and told their father he had been killed by an animal.
+He had been his father's favorite, and he had not been subtle about it. He had dreams in which his brothers bowed down to him, and he told them so. They hated him for it. One day, far from home, they threw him into a dry pit, then sold him to traders on their way to Egypt, and let their father believe he had been killed by an animal.
 
-The next time we hear Joseph's age, he is thirty, standing before Pharaoh. Thirteen years lie between the pit and the palace. Most of the story of Joseph happens in those thirteen years, and most of them were spent as a slave and then a prisoner.
+The next time we hear Joseph's age, he is thirty, standing before Pharaoh. About thirteen years lie between the pit and the palace. Most of the story of Joseph happens in those thirteen years, and most of them were spent as a slave and then a prisoner.
 
 ## Doing well, going nowhere
 
@@ -34,7 +34,7 @@ And the next chapter begins with a time stamp:
 
 {{verse: Genesis 41:1}}
 
-Two full years. Joseph had done the right thing. He had helped someone. He had a door within reach, a person with access to the king who owed him a favour. And then nothing. Weeks went by, then months. Two whole years.
+Two full years. Joseph had done the right thing. He had helped someone. He had a door within reach, a person with access to the king who owed him a favor. And then nothing. Weeks went by, then months. Two whole years.
 
 Many of us know this particular kind of waiting. The interview that went well, and then silence. The friend who promised to put in a word. The doctor who said they would call. The opportunity that seemed so close it had to be the answer, and then quietly was not.
 

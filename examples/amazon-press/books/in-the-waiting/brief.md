@@ -8,7 +8,8 @@
   promised the outcome you want.
 - **Genre and format:** Christian nonfiction (Christian living / prayer). Kindle eBook and 6 x 9 paperback.
   KDP Select: yes for the first 90 days (Kindle Unlimited readers sample new indie authors).
-- **Target length:** 14,000 to 18,000 words. Short on purpose: competitors' reviews complain about repetition.
+- **Target length:** 12,000 to 16,000 words. Short on purpose: competitors' reviews complain about repetition.
+  (Revised after draft 1: the book is complete at about 13,000 words; adding length would mean padding.)
 - **Competitors:** *Waiting on God* (indie, $2.99, ~975 reviews; one reader found it brief);
   *God Has a Waiting Room*, *Still Waiting* (praised for honesty, criticised as repetitive / dragging).
 - **Our angle:** one Bible story or psalm per chapter, told in its real setting; no clichés; no

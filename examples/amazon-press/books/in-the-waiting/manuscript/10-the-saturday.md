@@ -4,7 +4,7 @@ Christians tell the story of Easter in two great days. Good Friday, the day of t
 
 But there is a day in between.
 
-The Gospels say almost nothing about it. After Jesus died, a man named Joseph of Arimathea asked for his body, wrapped it in linen and laid it in a tomb cut in rock. Some of the women who had followed Jesus from Galilee watched where he was laid. Then they went home to prepare spices and ointments to anoint the body. And then:
+The Gospels say almost nothing about it. After Jesus died, a man named Joseph of Arimathea asked for his body, wrapped it in linen and laid it in a tomb cut in rock. Some of the women who had followed Jesus from Galilee watched where he was laid. Luke tells us what they did next:
 
 {{verse: Luke 23:56}}
 
@@ -16,11 +16,11 @@ It is hard for us to feel that Saturday the way the first followers of Jesus fel
 
 They did not. As far as they knew, it was over. Their teacher, the one they had left everything to follow, the one they had hoped would set things right, was dead. They had watched him die. They had seen the tomb. One of their own had betrayed him, and most of the rest had run away. Everything they had hoped for was sealed behind a stone.
 
-And it was the Sabbath, so they could not even do anything. No anointing the body. No travelling home. No busyness to distract from the grief. They rested, because God had commanded rest, on what may have been the worst day of their lives.
+And it was the Sabbath, so they could not even do anything. No anointing the body. No traveling home. No busyness to distract from the grief. They rested, because God had commanded rest, on what may have been the worst day of their lives.
 
 ## Living in Saturday
 
-I have come to think that a great deal of the Christian life is lived on Saturday.
+A great deal of the Christian life is lived on Saturday.
 
 We know about the cross, the reality of suffering and loss. We have heard about Sunday, the promise that death and sorrow do not get the last word. But much of the time, we live in between. The loss has happened. The promise has not yet been fulfilled. And there is very little we can do but wait.
 
@@ -34,7 +34,7 @@ If you are in a Saturday season, I want to say a few things.
 
 ## Between
 
-I want to be careful again. I cannot promise you that your Saturday will end in your own Sunday morning. I do not know when or how your waiting will end.
+No one can promise you that your Saturday will end in your own Sunday morning.
 
 What I can say is that the central story of the Christian faith has a Saturday in it, a day of silence and grief and waiting, between the worst and the best. God did not skip that day. Jesus lay in the tomb through it. His friends lived through it, not knowing.
 
