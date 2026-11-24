@@ -12,7 +12,7 @@ Mary ran to tell the disciples. Peter and another disciple came running, looked 
 
 {{verse: John 20:11}}
 
-She stood outside the tomb, weeping. Her grief had just been made worse: not only was Jesus dead, but now even his body was gone. She could not even do the last loving thing for him.
+Her grief had just been made worse: not only was Jesus dead, but now even his body was gone. She could not even do the last loving thing for him.
 
 Two angels in white asked her why she was weeping. She said, *They have taken away my Lord, and I don't know where they have laid him.* Then she turned around and saw a man standing there. He asked her the same question. Thinking he was the gardener, she said, *Sir, if you have carried him away, tell me where you have laid him, and I will take him away.*
 
@@ -24,7 +24,7 @@ Then he said one word:
 
 He said her name. *Mary.* And she knew him.
 
-It is one of the most tender moments in the whole Bible. The risen Jesus did not first announce his victory over death, or explain the resurrection, or correct her mistake. He called her by her name. In the middle of her weeping, she was known.
+The risen Jesus did not first announce his victory over death, or explain the resurrection, or correct her mistake. He called her by her name. In the middle of her weeping, she was known.
 
 ## Hope, not hurry
 

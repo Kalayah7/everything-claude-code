@@ -1,6 +1,6 @@
 # 4. My Son
 
-Some of the most painful words in the Bible are a father's cry for his son.
+Few words in the Bible are as painful as a father's cry for his son.
 
 King David had a son named Absalom. Their relationship was not simple. Absalom had killed his half-brother, gone into exile, been brought back, and then turned against his father. He won over the people and led a rebellion, and David had to flee Jerusalem for his life.
 

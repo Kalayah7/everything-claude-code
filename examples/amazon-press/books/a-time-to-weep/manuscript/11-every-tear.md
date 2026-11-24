@@ -1,6 +1,6 @@
 # 10. Every Tear
 
-The last book of the Bible ends with a vision of a new heaven and a new earth. In the middle of it, there is a promise that has comforted grieving people for two thousand years:
+The last book of the Bible ends with a vision of a new heaven and a new earth. In the middle of it, there is a promise that has comforted grieving people for nearly two thousand years:
 
 {{verse: Revelation 21:3-4}}
 
@@ -14,9 +14,9 @@ That is the heart of the Christian hope: not only that sorrow will end, but that
 
 Then comes the line many people know: *He will wipe away every tear from their eyes.*
 
-It is worth noticing two things about it.
+Two things stand out.
 
-First, it is personal. It does not say tears will simply stop. It says God will wipe them away, with the tenderness of a parent kneeling to dry a child's face.
+First, it is personal. It does not say tears will simply stop. It says God will wipe them away himself.
 
 Second, it is *every* tear. Not only the tears from this loss, but every tear. The ones you cried in the hospital. The ones at the graveside. The ones in the car, in the shower, at three in the morning. The ones no one saw. In this picture, none of them are forgotten. Each one is wiped away by God himself.
 
@@ -28,7 +28,7 @@ That is why this chapter comes last, and why it is short. Christian hope is not 
 
 ## Until then
 
-Until that day, you will probably carry this loss for the rest of your life. Many people find that grief changes shape over time. It does not disappear, but it becomes something they can carry, woven into a life that has room for joy again. That is not betrayal of the one you lost. It is what love looks like over time.
+Until that day, you will probably carry this loss for the rest of your life. Many people find that grief changes shape over time. It does not disappear, but it becomes something they can carry, part of a life that has room for joy again. That is not betrayal of the one you lost. It is what love looks like over time.
 
 There is no timetable for that. Some days will still knock you flat. Some days, one day, you may laugh again without guilt. Both belong to the same life, held by the same God.
 

@@ -10,7 +10,7 @@ The Gospel of Matthew quotes these words again, in one of the darkest moments in
 
 ## When comfort does not comfort
 
-There is something important in that phrase, *refuses to be comforted*. It is not presented as a failure. It is presented as the natural response to unbearable loss.
+There is something important in that phrase, *refuses to be comforted*. Scripture records it without blame, as the natural response to unbearable loss.
 
 Many grieving people find that comfort does not comfort. Kind words bounce off. Verses that once helped feel empty. Others try to cheer you up, and you feel further away from them, not closer. You may even feel angry at the people trying to help.
 
@@ -26,7 +26,7 @@ Many parents find it helps to be with others who have suffered the same kind of 
 
 ## God hears the weeping
 
-In Jeremiah, after Rachel's weeping, God speaks to her. In its setting, his words are about her children, the exiles, coming home again. The context is the history of a nation, and it is not a promise about any individual family. But one thing in the passage is true for every grieving parent: God hears Rachel. Her weeping is not ignored. It reaches him.
+In Jeremiah, God answers her. He tells her to hold back her tears, because her children, the exiles, will come home (31:16-17). In its setting that is a promise about a nation's history, not about any individual family, and it comes only after her weeping has been heard. But one thing in the passage is true for every grieving parent: God hears Rachel. Her weeping is not ignored. It reaches him.
 
 You do not have to stop weeping for him to hear you. He hears the weeping itself.
 

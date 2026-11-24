@@ -4,7 +4,7 @@ There is a verse in the thirty-fourth psalm that grieving people have held onto 
 
 {{verse: Psalm 34:18}}
 
-It is a short sentence. It makes no promise about when the pain will ease. It does not say that the broken heart will be mended by a certain date. It says one thing: God is near.
+It is a short sentence, and it makes no promise about when the pain will ease. It does not say that the broken heart will be mended by a certain date. It says one thing: God is near.
 
 ## Where God is
 

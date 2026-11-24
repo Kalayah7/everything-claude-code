@@ -16,7 +16,7 @@ It will sit with you beside some of the grieving people in the Bible, people who
 
 ## A word about care
 
-Grief is not an illness. It is the cost of love, and it can be very heavy. But sometimes grief brings things that need extra help: being unable to eat or sleep for weeks, being unable to function at all, using alcohol or other things to get through the day, or thinking about not wanting to live. If any of that is true for you, please talk to a doctor, a grief counselor or a pastor soon.
+Grief is not an illness. It is what love feels like when someone is gone, and it can be very heavy. But sometimes grief brings things that need extra help: being unable to eat or sleep for weeks, being unable to function at all, using alcohol or other things to get through the day, or thinking about not wanting to live. If any of that is true for you, please talk to a doctor, a grief counselor or a pastor soon.
 
 If you are having thoughts of ending your life, please reach out right away. In the United States you can call or text 988 at any time. Elsewhere, call your local emergency number or a crisis line, or tell someone near you today.
 
@@ -28,4 +28,4 @@ Bible quotations come from the World English Bible, a modern public-domain trans
 
 There is a short guide at the back for grief groups, and a page called *What Helps* that you might want to share with the people around you.
 
-You do not need to be strong to read this. You only need to be here.
+Read this however you can. A sentence counts.

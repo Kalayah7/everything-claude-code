@@ -36,7 +36,7 @@ That is all right. Hope in this verse is not a feeling you have to produce. It r
 
 Some deaths raise painful questions for Christians: deaths by suicide, deaths of people who did not share the faith, deaths of babies and young children. If one of these is your grief, you may have heard people speak with confidence about where your loved one is.
 
-No book, and no person, can see what God sees. Your loved one is in God's hands, and those are merciful hands. A pastor you trust can sit with you in these questions. If your loved one died by suicide, please know that there is no shame in their death or in your grief, and that support groups for suicide loss exist in many places. A grief counselor can help you find one.
+No book, and no person, can see what God sees. Your loved one is in God's hands, and those are merciful hands. A pastor you trust can sit with you in these questions. If your loved one died by suicide, please know that there is no shame in their death or in your grief, and that support groups for suicide loss exist in many places. A grief counselor can help you find one. If your grief brings thoughts of ending your own life, please reach out now: in the United States call or text 988; elsewhere, your local emergency number or a crisis line.
 
 ## When you are ready
 

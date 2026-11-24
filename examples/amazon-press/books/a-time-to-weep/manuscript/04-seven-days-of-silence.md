@@ -10,9 +10,7 @@ The book of Job tells us what they did when they arrived:
 
 {{verse: Job 2:12-13}}
 
-They wept aloud. They tore their robes. They sat on the ground with him. And for seven days and seven nights, nobody said a word, because they saw that his grief was very great.
-
-It is one of the most beautiful pictures of comfort in the Bible. Job's friends did not explain anything. They did not offer advice. They did not try to cheer him up. They simply came, and stayed, and were silent with him.
+It is a beautiful picture of comfort. Job's friends did not explain anything. They did not offer advice. They did not try to cheer him up. They simply came, and stayed, and were silent with him.
 
 ## What the friends got wrong
 

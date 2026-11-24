@@ -10,7 +10,7 @@ Naomi was left in a foreign land with no husband, no sons and two widowed daught
 
 When she heard that the famine back home had ended, Naomi decided to return to Bethlehem. Ruth insisted on coming with her. When the two women arrived, the whole town was stirred, and the women of Bethlehem asked, *Is this Naomi?*
 
-Her answer is one of the most honest moments in the Bible:
+Her answer is completely honest:
 
 {{verse: Ruth 1:20-21}}
 
