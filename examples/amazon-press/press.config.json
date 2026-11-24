@@ -1,0 +1,26 @@
+{
+  "imprint": {
+    "name": "",
+    "penName": "",
+    "note": "The founder chooses the imprint and pen name. Check that neither is someone else's trademark or a real author's name."
+  },
+  "goal": {
+    "monthlyNetTarget": 1000,
+    "currency": "USD",
+    "definition": "Royalties the founder has confirmed in the KDP reports for one calendar month, minus ads, covers, ISBNs and other costs."
+  },
+  "founderHoursPerWeek": 2,
+  "maxBooksInProgress": 2,
+  "killCriteria": {
+    "daysLive": 90,
+    "minNetRoyalties": 50,
+    "note": "Below this after 90 days live, or reviews showing the listing over-promised: rethink or stop the series."
+  },
+  "aiNotice": "This book was written with the help of AI tools, then reviewed and edited by people before publication.",
+  "kdpAiDisclosureAnswer": "yes",
+  "defaults": {
+    "formats": ["kindle-ebook", "paperback"],
+    "paperbackTrim": "6 x 9 in",
+    "ebookPriceRange": "2.99 to 9.99 USD (the range Amazon has used for its 70% royalty option; confirm on KDP before pricing)"
+  }
+}

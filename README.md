@@ -107,6 +107,7 @@ everything-claude-code/
 |   |-- trading-*.md         # Trading agent build team (see "Trading Agent Team" below)
 |   |-- company-*.md         # AI company team (see "AI Company" below)
 |   |-- studio-*.md          # Faith studio team (see "Faith Studio" below)
+|   |-- press-*.md           # Amazon press team (see "Amazon Press" below)
 |
 |-- skills/           # Workflow definitions and domain knowledge
 |   |-- coding-standards/           # Language best practices
@@ -136,6 +137,7 @@ everything-claude-code/
 |   |-- trading-team.md     # /trading-team - Run the trading agent build team
 |   |-- company.md          # /company - Run the AI company
 |   |-- studio.md           # /studio - Run the faith studio
+|   |-- press.md            # /press - Research, write and edit books for Amazon
 |
 |-- rules/            # Always-follow guidelines (copy to ~/.claude/rules/)
 |   |-- security.md         # Mandatory security checks
@@ -178,6 +180,7 @@ everything-claude-code/
 |   |-- trading-agent/      # Starter trading bot (backtester, risk manager, paper broker)
 |   |-- ai-company/         # AI company workspace (plan, site, playbooks, revenue tracker)
 |   |-- faith-studio/       # Faith studio workspace (journals, PDF builder, plan, revenue tracker)
+|   |-- amazon-press/       # Amazon press workspace (research, briefs, manuscripts, listings)
 |
 |-- mcp-configs/      # MCP server configurations
 |   |-- mcp-servers.json    # GitHub, Supabase, Vercel, Railway, etc.
@@ -268,6 +271,30 @@ sheet. Scripture is looked up from a public-domain Bible by reference, never typ
 product, a 30-day journal, is included. The founder's steps are in
 [`FOUNDER-TODO.md`](examples/faith-studio/FOUNDER-TODO.md), and the honest odds are in the
 [business plan](examples/faith-studio/plan/business-plan.md).
+
+---
+
+## Amazon Press
+
+A four-agent team that researches, writes and edits books to sell on Amazon (Kindle eBook and
+paperback through KDP). The founder picks the books, approves them and uploads.
+
+```
+/press research "what should our first books be?"
+/press greenlight <slug>
+/press write <slug>
+/press weekly
+```
+
+| Agent | Role |
+|---|---|
+| `press-managing-director` | Owns the list, goal and schedule; greenlights, keeps or kills books; writes the founder's list |
+| `press-researcher` | Market evidence from Amazon, ranked idea scans, a brief per book |
+| `press-writer` | Outline, manuscript chapter by chapter, listing copy |
+| `press-editor` | Structure, readability, accuracy, originality, reader safety, Amazon rules; **can block** |
+
+The workspace is [`examples/amazon-press/`](examples/amazon-press/), with the founder's steps in
+[`FOUNDER-TODO.md`](examples/amazon-press/FOUNDER-TODO.md).
 
 ---
 
