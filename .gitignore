@@ -48,3 +48,7 @@ examples/faith-studio/finance/*.csv
 examples/faith-studio/data/
 examples/faith-studio/products/*/dist/
 examples/faith-studio/ops/inbox/
+
+# Amazon press: downloaded Bible text and built book files (these are what the store sells).
+examples/amazon-press/data/
+examples/amazon-press/books/*/dist/
