@@ -30,7 +30,7 @@ Soon after the poem, the writer adds:
 
 {{verse: Ecclesiastes 3:11}}
 
-The writer of Ecclesiastes admits there is a great deal he cannot understand. People cannot find out the work God has done from beginning to end. He does not pretend to explain loss. This does not mean that the death was beautiful, or that it was meant to be. The writer is admitting how little he can see, not explaining your loss.
+The writer of Ecclesiastes admits there is a great deal he cannot understand. People cannot find out the work God has done from beginning to end. This does not mean that the death was beautiful, or that it was meant to be. The writer is admitting how little he can see, not explaining your loss.
 
 But he says God has set eternity in the human heart. Perhaps that is part of why death hurts so much. Something in us knows that love should not end, that the people we love should not simply be gone. Grief is, in part, the ache of eternity in a heart that has just been broken by time.
 

@@ -18,7 +18,7 @@ Two things stand out.
 
 First, it is personal. It does not say tears will simply stop. It says God will wipe them away himself.
 
-Second, it is *every* tear. Not only the tears from this loss, but every tear. The ones you cried in the hospital. The ones at the graveside. The ones in the car, in the shower, at three in the morning. The ones no one saw. In this picture, none of them are forgotten. Each one is wiped away by God himself.
+Second, it is *every* tear. Not only the tears from this loss, but every tear. The ones you cried in the hospital. The ones at the graveside. The ones in the car, in the shower, at three in the morning. The ones no one saw. In this picture, none of them are forgotten. Each one is wiped away.
 
 ## Not yet
 
