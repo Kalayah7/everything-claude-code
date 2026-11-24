@@ -7,7 +7,7 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 - **Series:** Middle Seasons, Book 1
 - **Author:** (pen name from `press.config.json`)
 - **Language:** English
-- **Length:** about 13,000 words; 60-page 6 x 9 paperback
+- **Length:** about 13,000 words; about 60 pages as a 6 x 9 paperback (confirm in the KDP previewer)
 - **AI-generated content question:** **Yes** (text). Scripture is quoted from the public-domain World English Bible.
 - **Public domain content:** No. The book quotes short public-domain Scripture passages, but the work itself is original.
 - **Adult content:** No
@@ -20,7 +20,7 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 <p><i>In the Waiting</i> is a short, honest book for that place. It will not promise you that what you want is on its way. It will not tell you that you are still waiting because your faith is too small. Instead, it sits with you in the middle and looks at what the Bible actually says about people who waited:</p>
 <ul>
 <li><b>Abraham and Sarah</b>, who waited about twenty-five years, laughed bitterly, and tried a shortcut</li>
-<li><b>Joseph</b>, forgotten in prison for two more years after someone promised to help</li>
+<li><b>Joseph</b>, forgotten in prison for two more years after asking someone to remember him</li>
 <li><b>Hannah</b>, whose face changed before anything else did</li>
 <li><b>Martha and Mary</b>, who told Jesus he had come too late, and saw him weep</li>
 <li><b>The exiles in Babylon</b>, told to build houses and plant gardens in a place they never wanted to be</li>
@@ -37,7 +37,7 @@ Paste these into KDP. The founder confirms keywords against Amazon's search sugg
 2. unanswered prayer christian book
 3. trusting god in hard times
 4. encouragement for waiting season
-5. christian living spiritual growth
+5. how long o lord
 6. small group bible study waiting
 7. gift for someone going through hard time christian
 
